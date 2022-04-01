@@ -36,6 +36,11 @@ public class ConsoleView {
 
     }
 
+    public void showPlayers() {
+        System.out.printf("Black: X:%d, Y:%d, Wall:%d", logic.getBlackPlayer().getX(), logic.getBlackPlayer().getY(), logic.getBlackPlayer().getWallCountLeft());
+        System.out.printf(" White: X:%d, Y:%d, Wall:%d\n", logic.getWhitePlayer().getX(), logic.getWhitePlayer().getY(), logic.getWhitePlayer().getWallCountLeft());
+    }
+
     public void refreshInfo() {
         //
     }
