@@ -1,6 +1,7 @@
 package com.asaulyuk.bot;
 
 import com.asaulyuk.controller.ConsoleController;
+import com.asaulyuk.controller.PcPlayerController;
 import com.asaulyuk.model.Placement;
 import com.asaulyuk.model.QuoridorGameLogic;
 import com.asaulyuk.view.ConsoleView;
@@ -13,10 +14,11 @@ public class Main {
         QuoridorGameLogic gameLogic = new QuoridorGameLogic();
         ConsoleView gameView = new ConsoleView(gameLogic);
 
-        ConsoleController controller = new ConsoleController(gameLogic);
+        ConsoleController controller = new ConsoleController(gameLogic, gameView);
+        PcPlayerController pcPlayerController = new PcPlayerController(gameLogic);
 
-        gameLogic.initializeGame(2);
-        gameLogic.startGame("white");
+        gameLogic.initializeGame(1);
+//        gameLogic.startGame("white");
 
         gameView.initialize();
 
@@ -25,8 +27,11 @@ public class Main {
         Scanner s = new Scanner(System.in);
         while (!input.equals("exit")) {
             input = s.nextLine();
-            System.out.println("Input was:"+input);
+//            System.out.println("Input was:"+input);
             controller.parseCommand(input);
+            if (!gameLogic.getCurrentPlayer().isUserPlayer) {
+                pcPlayerController.doNextMove();
+            }
             gameView.showPlayers();
         }
 

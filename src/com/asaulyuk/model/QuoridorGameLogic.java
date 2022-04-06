@@ -43,14 +43,14 @@ public class QuoridorGameLogic {
         this.personCount=personCount;
         initializeAll();
         whitePlayer.x = 4;
-        whitePlayer.y = 0;
+        whitePlayer.y = MATRIX_SIZE_Y-1;
         whitePlayer.wallCountLeft=AVAILABLE_WALL_COUNT;
         whitePlayer.coordinati = getVershinaByXY(whitePlayer.getX(),whitePlayer.getY());
         whitePlayer.moveCount = 0;
         whitePlayer.isUserPlayer=true;
 
         blackPlayer.x = 4;
-        blackPlayer.y = MATRIX_SIZE_Y-1;
+        blackPlayer.y = 0;
         blackPlayer.coordinati = getVershinaByXY(blackPlayer.getX(), blackPlayer.getY());
         blackPlayer.moveCount =0;
         blackPlayer.wallCountLeft=AVAILABLE_WALL_COUNT;
@@ -80,7 +80,7 @@ public class QuoridorGameLogic {
             }
         }
         gameStarted=true;
-        System.out.println("Game begins, first move is for:"+getCurrentPlayerColor());
+//        System.out.println("Game begins, first move is for:"+getCurrentPlayerColor());
         return true;
 
     }

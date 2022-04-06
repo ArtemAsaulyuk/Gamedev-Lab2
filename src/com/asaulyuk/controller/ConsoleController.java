@@ -3,13 +3,17 @@ package com.asaulyuk.controller;
 import com.asaulyuk.model.Placement;
 import com.asaulyuk.model.QuoridorGameLogic;
 import com.asaulyuk.model.Vershina;
+import com.asaulyuk.view.ConsoleView;
 
 public class ConsoleController {
 
     private QuoridorGameLogic logic;
+    private ConsoleView view;
 
-    public ConsoleController(QuoridorGameLogic logic) {
+    public ConsoleController(QuoridorGameLogic logic, ConsoleView view) {
+
         this.logic = logic;
+        this.view = view;
     }
 
     public void parseCommand(String input) {
@@ -27,8 +31,13 @@ public class ConsoleController {
             Placement placement = getWallPlacement(s);
             logic.placeWall(v.getX(), v.getY(), placement);
         } else if (s.startsWith("WHITE")) {
+            logic.startGame("white");
+//            logic.move(logic.getWhitePlayer().getX(), logic.getWhitePlayer().getY()-1);
+//            view.showMove(logic.getWhitePlayer().getX(), logic.getWhitePlayer().getY());
+
 
         } else if (s.startsWith("BLACK")) {
+            logic.startGame("black");
 
         } else {
             System.out.println("ERROR: command unknown:" + s);
