@@ -6,6 +6,7 @@ public class Player {
         BLACK,
         WHITE
     }
+
     public String name;
     public Integer moveCount;
     public Boolean isUserPlayer = true;
@@ -18,8 +19,8 @@ public class Player {
     public Player(String name, PlayerColor playerColor) {
         this.name = name;
         this.playerColor = playerColor;
-        this.moveCount=0;
-        this.wallCountLeft=10;
+        this.moveCount = 0;
+        this.wallCountLeft = 10;
     }
 
     public Integer getX() {

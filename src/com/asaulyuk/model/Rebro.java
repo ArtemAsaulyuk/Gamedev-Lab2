@@ -19,7 +19,7 @@ public class Rebro implements Edge {
     }
 
     public Rebro(String address, Placement placement) {
-        this.address= address;
+        this.address = address;
         this.placement = placement;
     }
 

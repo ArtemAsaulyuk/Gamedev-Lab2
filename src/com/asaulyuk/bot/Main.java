@@ -6,33 +6,75 @@ import com.asaulyuk.model.Placement;
 import com.asaulyuk.model.QuoridorGameLogic;
 import com.asaulyuk.view.ConsoleView;
 
+import java.io.BufferedReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.time.Instant;
 import java.util.Scanner;
 
 public class Main {
 
-    public static void main(String[] args) throws InterruptedException {
+    public static void main(String[] args) throws IOException {
+        Runtime.getRuntime().addShutdownHook(new Thread()
+        {
+            @Override
+            public void run()
+            {
+                System.out.println("//Shutdown hook ran!");
+//                System.exit(0);
+            }
+        });
+
+        FileWriter fw=null;
+        try {
+            fw = new FileWriter("debug.txt", true);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
         QuoridorGameLogic gameLogic = new QuoridorGameLogic();
         ConsoleView gameView = new ConsoleView(gameLogic);
 
-        ConsoleController controller = new ConsoleController(gameLogic, gameView);
-        PcPlayerController pcPlayerController = new PcPlayerController(gameLogic);
+        ConsoleController controller = new ConsoleController(fw, gameLogic, gameView);
+        PcPlayerController pcPlayerController = new PcPlayerController(gameLogic, gameView);
 
         gameLogic.initializeGame(1);
 //        gameLogic.startGame("white");
 
         gameView.initialize();
 
-
         String input="";
-        Scanner s = new Scanner(System.in);
-        while (!input.equals("exit")) {
-            input = s.nextLine();
-//            System.out.println("Input was:"+input);
-            controller.parseCommand(input);
-            if (!gameLogic.getCurrentPlayer().isUserPlayer) {
-                pcPlayerController.doNextMove();
+        BufferedReader s = new BufferedReader(new InputStreamReader(System.in));
+        try {
+            while (!input.equals("exit")) {
+                input = s.readLine();
+                System.out.println("//bot current player:"+gameLogic.getCurrentPlayer().name);
+//                gameView.showPlayers();
+                controller.parseCommand(input);
+                if (gameLogic.getWinner()!=null) {
+                    System.out.println("//Winner: "+gameLogic.getWinner().name);
+                    System.exit(0);
+                }
+
+                if (gameLogic.getCurrentPlayer().isUserPlayer) {
+                    System.out.println("//bot doing move current:" + gameLogic.getCurrentPlayer().name);
+                    pcPlayerController.doNextMove();
+                }
+                if (gameLogic.getWinner()!=null) {
+                    System.out.println("//Winner: "+gameLogic.getWinner().name);
+                    System.exit(0);
+                }
             }
-            gameView.showPlayers();
+        } finally {
+            if (fw!=null) {
+                try {
+                    fw.close();
+                    s.close();
+                } catch (IOException ioException) {
+                    ioException.printStackTrace();
+                }
+            }
         }
 
 /*

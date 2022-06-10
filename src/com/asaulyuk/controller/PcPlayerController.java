@@ -2,16 +2,19 @@ package com.asaulyuk.controller;
 
 import com.asaulyuk.model.Placement;
 import com.asaulyuk.model.QuoridorGameLogic;
+import com.asaulyuk.view.ConsoleView;
 
 import java.util.Random;
 
 public class PcPlayerController {
 
-    public PcPlayerController(QuoridorGameLogic gameLogic) {
+    public PcPlayerController(QuoridorGameLogic gameLogic, ConsoleView view) {
         this.gameLogic = gameLogic;
+        this.gameview = view;
     }
 
     private QuoridorGameLogic gameLogic;
+    private ConsoleView gameview;
     private Random random = new Random();
     public boolean doNextMove(){
         if (!gameLogic.isGameStarted()) {
@@ -21,17 +24,21 @@ public class PcPlayerController {
         if ((command == 0) && (gameLogic.getCurrentPlayer().getWallCountLeft()>0)) {
             // wall
             boolean wallPlaced = false;
+            int x = 0;
+            int y = 0;
+            int p = 0;
             while (!wallPlaced) {
-                int x = random.nextInt(QuoridorGameLogic.MATRIX_SIZE_X-1);
-                int y = random.nextInt(QuoridorGameLogic.MATRIX_SIZE_Y-1);
-                int p = random.nextInt(2);
+                x = random.nextInt(QuoridorGameLogic.MATRIX_SIZE_X-1);
+                y = random.nextInt(QuoridorGameLogic.MATRIX_SIZE_Y-1);
+                p = random.nextInt(2);
                 wallPlaced = gameLogic.placeWall(x,y,p==0 ? Placement.Horizontal : Placement.Vertical);
-                System.out.println("wall("+x+","+y+","+p+") "+wallPlaced);
+                System.out.println("// bot wall("+x+","+y+","+p+") "+wallPlaced);
             }
+            gameview.showWall(x,y,p==0 ? Placement.Horizontal : Placement.Vertical);
         } else {
             boolean moveSuccessfull = false;
-            int x;
-            int y;
+            int x = 0;
+            int y = 0;
             while (!moveSuccessfull) {
                 int p = random.nextInt(2);
                 int d = random.nextInt(3);
@@ -46,8 +53,9 @@ public class PcPlayerController {
                     y=gameLogic.getCurrentPlayer().getY()+d;
                 }
                 moveSuccessfull = gameLogic.move(x,y);
-                System.out.println("move("+x+","+y+") "+moveSuccessfull);
+                System.out.println("//bot move("+x+","+y+") "+moveSuccessfull);
             }
+            gameview.showMove(x,y);
         }
         return true;
 
