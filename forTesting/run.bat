@@ -1,0 +1,1 @@
+@javaw -jar Quoridor_Lab_2.jar
