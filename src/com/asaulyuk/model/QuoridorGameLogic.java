@@ -48,7 +48,7 @@ public class QuoridorGameLogic {
         this.personCount = personCount;
         initializeAll();
         whitePlayer.x = 4;
-        whitePlayer.y = MATRIX_SIZE_Y-1;
+        whitePlayer.y = MATRIX_SIZE_Y - 1;
         whitePlayer.wallCountLeft = AVAILABLE_WALL_COUNT;
         whitePlayer.coordinati = getVershinaByXY(whitePlayer.getX(), whitePlayer.getY());
         whitePlayer.moveCount = 0;
@@ -87,7 +87,6 @@ public class QuoridorGameLogic {
         }
         currentPlayer = whitePlayer;
         gameStarted = true;
-//        System.out.println("Game begins, first move is for:"+getCurrentPlayerColor());
         return true;
 
     }
@@ -129,13 +128,14 @@ public class QuoridorGameLogic {
         if (!isGameStarted()) {
             return false;
         }
+        //        System.out.println("//trying jump to:"+x.toString()+y.toString());
         Player jumper = currentPlayer;
         Player oponent = getOtherPlayer(jumper);
-//      check if we not try to jump onto oponent
+        //      check if we not try to jump onto oponent
         if ((oponent.x.equals(x)) && (oponent.y.equals(y))) {
             return false;
         }
-//      check if we are not divided from oponent
+        //      check if we are not divided from oponent
         Set<Rebro> intersection = graph.getEdges(jumper.coordinati);
         Set<Rebro> oponentRebra = graph.getEdges(oponent.coordinati);
         intersection.retainAll(oponentRebra);
@@ -162,12 +162,12 @@ public class QuoridorGameLogic {
         }
 
         if (!joint.getValid()) {
-//          there is a wall between us, can't jump
+            //          there is a wall between us, can't jump
             return false;
         }
 
         Vershina target = null;
-// Are provided coordinates valid ?
+        // Are provided coordinates valid ?
         Set<Rebro> notJoinedOponentaRebra = graph.getEdges(oponent.coordinati);
         notJoinedOponentaRebra.remove(joint);
         Vershina selectedTarget = getVershinaByXY(x, y);
@@ -185,7 +185,7 @@ public class QuoridorGameLogic {
             return false;
         }
 
-//      Check is available behind oponent
+        //      Check is available behind oponent
         if (rebroBehindOponent != null) {
             if (graph.getVertices(rebroBehindOponent).contains(target)) {
                 //Move behind;
@@ -219,7 +219,7 @@ public class QuoridorGameLogic {
     private Boolean movePlayer(Player player, Vershina where) {
         if (!checkMove(player, where)) {
             return false;
-//            "Dvizenije zaprischeno"
+            //            "Dvizenije zaprischeno"
         }
         player.coordinati = where;
         player.x = where.getX();
@@ -261,43 +261,42 @@ public class QuoridorGameLogic {
             //              Stavit nelzja, Blokirovka prohoda
 
         } else {
-//          Mesto Zanjato
+            //          Mesto Zanjato
             return false;
         }
 
 
     }
 
-    private boolean isPathOpen(Integer x, Integer y, Placement placement) {
+    public MutableGraph buildNewGraphForChecks(MutableGraph localGraph, int y, Vershina vershina) {
         UndirectedGraphImpl tempGraph = copyGraphWithRecreatedRebra(graph);
+        tempGraph.addVertex(vershina);
+        Vershina[] array = getHorizontalArrayOfVershina(y);
+        for (int i = 0; i < MATRIX_SIZE_X; i++) {
+            tempGraph.addEdge(new Rebro("", Placement.Vertical), new HashSet(Arrays.asList(array[i], vershina)));
+        }
+        return tempGraph;
+
+    }
+
+    private boolean isPathOpen(Integer x, Integer y, Placement placement) {
 
         Vershina bottomV = new Vershina(100, 100);
-        tempGraph.addVertex(bottomV);
-        Vershina[] bottom = getHorizontalArrayOfVershina(MATRIX_SIZE_Y - 1);
-        for (int i = 0; i < MATRIX_SIZE_X; i++) {
-            tempGraph.addEdge(new Rebro("", Placement.Vertical), new HashSet(Arrays.asList(bottom[i], bottomV)));
-        }
+        MutableGraph tempGraph = buildNewGraphForChecks(graph, MATRIX_SIZE_Y - 1, bottomV);
         updateGraphWithWall(tempGraph, x, y, placement);
-
-        boolean result = checkConnections(tempGraph, bottomV,blackPlayer.coordinati, 1);
+        boolean result = checkConnections(tempGraph, bottomV, blackPlayer.coordinati, 1);
         if (!result) {
             return false;
         }
 
         Vershina topV = new Vershina(-1, -1);
-        tempGraph = copyGraphWithRecreatedRebra(graph);
-        tempGraph.addVertex(topV);
-        Vershina[] top = getHorizontalArrayOfVershina(0);
-        for (int i = 0; i < MATRIX_SIZE_X; i++) {
-            tempGraph.addEdge(new Rebro("", Placement.Vertical), new HashSet(Arrays.asList(top[i], topV)));
-        }
+        tempGraph = buildNewGraphForChecks(graph, 0, topV);
         updateGraphWithWall(tempGraph, x, y, placement);
-
 
         return checkConnections(tempGraph, topV, whitePlayer.coordinati, -1);
     }
 
-    private UndirectedGraphImpl copyGraphWithRecreatedRebra(MutableGraph localGraph) {
+    public UndirectedGraphImpl copyGraphWithRecreatedRebra(MutableGraph localGraph) {
         UndirectedGraphImpl tempGraph = new UndirectedGraphImpl();
         for (Object v : localGraph.getVertices()) {
             tempGraph.addVertex((Vershina) v);
@@ -311,7 +310,7 @@ public class QuoridorGameLogic {
         return tempGraph;
     }
 
-    private Vershina[] getHorizontalArrayOfVershina(int y) {
+    public Vershina[] getHorizontalArrayOfVershina(int y) {
         Vershina[] result = new Vershina[MATRIX_SIZE_X];
         for (int x = 0; x < MATRIX_SIZE_X; x = x + 1) {
             result[x] = matrixVershin[x][y];
@@ -320,26 +319,7 @@ public class QuoridorGameLogic {
     }
 
     private boolean checkConnections(MutableGraph localGraph, Vershina target, Vershina start, int direction) {
-/*
-* function A*(start, goal, f)
-     % множество уже пройденных вершин
-     var closed := the empty set
-     % множество частных решений
-     var open := make_queue(f)
-     enqueue(open, path(start))
-     while open is not empty
-         var p := remove_first(open)
-         var x := the last node of p
-         if x in closed
-             continue
-         if x = goal
-             return p
-         add(closed, x)
-         % добавляем смежные вершины
-         foreach y in successors(x)
-             enqueue(open, add_to_path(p, y))
-     return failure
-* */
+        //        A* function
         Set<Vershina> closed = new HashSet<>();
         Queue<Vershina> open = new LinkedList<>();
 
@@ -589,5 +569,9 @@ public class QuoridorGameLogic {
 
     public Player getCurrentPlayer() {
         return currentPlayer;
+    }
+
+    public Player getOtherPlayer() {
+        return currentPlayer.equals(whitePlayer) ? blackPlayer : whitePlayer;
     }
 }

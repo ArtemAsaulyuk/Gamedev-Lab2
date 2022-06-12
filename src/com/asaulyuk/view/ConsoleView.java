@@ -7,6 +7,8 @@ public class ConsoleView {
 
     private QuoridorGameLogic logic;
 
+    private boolean debug_log;
+
     public ConsoleView(QuoridorGameLogic logic) {
         this.logic = logic;
     }
@@ -18,7 +20,7 @@ public class ConsoleView {
     public void showMove(Integer x, Integer y) {
         String xCoordinate = Character.toString((char) (x + 65));
         String yCoordinate = String.valueOf(y + 1);
-        System.out.println("//bot send move: " + xCoordinate + yCoordinate);
+        showLog("bot send move: " + xCoordinate + yCoordinate);
         System.out.println("move " + xCoordinate + yCoordinate);
 
     }
@@ -26,7 +28,7 @@ public class ConsoleView {
     public void showJump(Integer x, Integer y) {
         String xCoordinate = Character.toString((char) (x + 65));
         String yCoordinate = String.valueOf(y + 1);
-        System.out.println("//bot send jump " + xCoordinate + yCoordinate);
+        showLog("bot send jump " + xCoordinate + yCoordinate);
         System.out.println("jump " + xCoordinate + yCoordinate);
 
     }
@@ -35,7 +37,7 @@ public class ConsoleView {
         String xCoordinate = Character.toString((char) (x + 83));
         String yCoordinate = String.valueOf(y + 1);
         String p = Placement.Vertical.equals(placement) ? "v" : "h";
-        System.out.println("//bot send wall " + xCoordinate + yCoordinate + p);
+        showLog("bot send wall " + xCoordinate + yCoordinate + p);
         System.out.println("wall " + xCoordinate + yCoordinate + p);
 
 
@@ -46,7 +48,19 @@ public class ConsoleView {
                 System.out.printf("//White: X:%d, Y:%d, Wall:%d\n", logic.getWhitePlayer().getX(), logic.getWhitePlayer().getY(), logic.getWhitePlayer().getWallCountLeft());
     }
 
-    public void refreshInfo() {
-        //
+    public void showLog(String s) {
+        if (!debug_log) {
+            return;
+        }
+
+        if (!s.startsWith("//")) {
+            s = "// ".concat(s);
+        }
+        System.out.println(s);
     }
+
+    public void setDebug_log(boolean debug_log) {
+        this.debug_log = debug_log;
+    }
+
 }
