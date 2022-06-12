@@ -1,0 +1,2812 @@
+2022-05-31 13:21:15.9565|INFO|Logger|Executing full test...
+2022-05-31 13:21:15.9695|INFO|Logger|----------------------
+2022-05-31 13:21:15.9695|INFO|Logger|Executing run #1
+2022-05-31 13:21:15.9895|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:21:16.2535|INFO|Logger|-> wall U8v
+2022-05-31 13:21:16.3755|INFO|Logger|<- move E2
+2022-05-31 13:21:16.5135|INFO|Logger|-> wall X8v
+2022-05-31 13:21:16.5135|INFO|Logger|<- move E3
+2022-05-31 13:21:16.6415|INFO|Logger|-> move E8
+2022-05-31 13:21:16.6415|INFO|Logger|<- move E4
+2022-05-31 13:21:16.7605|INFO|Logger|-> move E7
+2022-05-31 13:21:16.7625|INFO|Logger|<- move E5
+2022-05-31 13:21:16.8875|INFO|Logger|-> move E6
+2022-05-31 13:21:16.8875|INFO|Logger|<- jump E7
+2022-05-31 13:21:16.9995|INFO|Logger|-> move E5
+2022-05-31 13:21:16.9995|INFO|Logger|<- wall U1h
+2022-05-31 13:21:17.0995|INFO|Logger|-> move E4
+2022-05-31 13:21:17.0995|INFO|Logger|<- wall W1h
+2022-05-31 13:21:17.1945|INFO|Logger|-> wall W4h
+2022-05-31 13:21:17.1945|INFO|Logger|<- wall Y1h
+2022-05-31 13:21:17.2726|INFO|Logger|-> move E3
+2022-05-31 13:21:17.2776|INFO|Logger|<- move E8
+2022-05-31 13:21:17.3526|INFO|Logger|-> move E2
+2022-05-31 13:21:17.3526|INFO|Logger|<- move E9
+2022-05-31 13:21:17.3556|INFO|Logger|Killing client process...
+2022-05-31 13:21:17.8576|INFO|Logger|Win 
+2022-05-31 13:21:17.8576|INFO|Logger|----------------------
+2022-05-31 13:21:17.8576|INFO|Logger|Executing run #2
+2022-05-31 13:21:17.8576|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:21:18.0826|INFO|Logger|-> wall U8v
+2022-05-31 13:21:18.1786|INFO|Logger|<- move E2
+2022-05-31 13:21:18.3086|INFO|Logger|-> move E8
+2022-05-31 13:21:18.3086|INFO|Logger|<- move E3
+2022-05-31 13:21:18.4826|INFO|Logger|-> move E7
+2022-05-31 13:21:18.4826|INFO|Logger|<- move E4
+2022-05-31 13:21:18.6276|INFO|Logger|-> move E6
+2022-05-31 13:21:18.6276|INFO|Logger|<- move E5
+2022-05-31 13:21:18.7556|INFO|Logger|-> jump E4
+2022-05-31 13:21:18.7606|INFO|Logger|<- wall U1h
+2022-05-31 13:21:18.8756|INFO|Logger|-> move E3
+2022-05-31 13:21:18.8756|INFO|Logger|<- move E6
+2022-05-31 13:21:18.9847|INFO|Logger|-> move E2
+2022-05-31 13:21:18.9847|INFO|Logger|<- wall W1h
+2022-05-31 13:21:19.0607|INFO|Logger|-> move F2
+2022-05-31 13:21:19.0607|INFO|Logger|<- wall Y1h
+2022-05-31 13:21:19.1597|INFO|Logger|-> wall X2h
+2022-05-31 13:21:19.1597|INFO|Logger|<- move E7
+2022-05-31 13:21:19.2337|INFO|Logger|-> move G2
+2022-05-31 13:21:19.2337|INFO|Logger|<- move E8
+2022-05-31 13:21:19.3987|INFO|Logger|-> move H2
+2022-05-31 13:21:19.4087|INFO|Logger|<- move E9
+2022-05-31 13:21:19.4087|INFO|Logger|Killing client process...
+2022-05-31 13:21:19.9237|INFO|Logger|Win 
+2022-05-31 13:21:19.9237|INFO|Logger|----------------------
+2022-05-31 13:21:19.9237|INFO|Logger|Executing run #3
+2022-05-31 13:21:19.9367|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:21:20.1577|INFO|Logger|-> move E8
+2022-05-31 13:21:20.2447|INFO|Logger|<- move E2
+2022-05-31 13:21:20.3877|INFO|Logger|-> wall V8v
+2022-05-31 13:21:20.4097|INFO|Logger|<- move E3
+2022-05-31 13:21:20.5447|INFO|Logger|-> move E7
+2022-05-31 13:21:20.5447|INFO|Logger|<- wall U1h
+2022-05-31 13:21:20.6807|INFO|Logger|-> move E6
+2022-05-31 13:21:20.6807|INFO|Logger|<- move E4
+2022-05-31 13:21:20.7998|INFO|Logger|-> wall W6h
+2022-05-31 13:21:20.8118|INFO|Logger|<- wall W1h
+2022-05-31 13:21:20.9368|INFO|Logger|-> move F6
+2022-05-31 13:21:20.9368|INFO|Logger|<- wall Y1h
+2022-05-31 13:21:21.0518|INFO|Logger|-> move G6
+2022-05-31 13:21:21.0548|INFO|Logger|<- move E5
+2022-05-31 13:21:21.1758|INFO|Logger|-> move H6
+2022-05-31 13:21:21.1778|INFO|Logger|<- move E6
+2022-05-31 13:21:21.2758|INFO|Logger|-> move I6
+2022-05-31 13:21:21.2758|INFO|Logger|<- move F6
+2022-05-31 13:21:21.3778|INFO|Logger|-> move I5
+2022-05-31 13:21:21.3778|INFO|Logger|<- move G6
+2022-05-31 13:21:21.4828|INFO|Logger|-> move I4
+2022-05-31 13:21:21.4828|INFO|Logger|<- move G7
+2022-05-31 13:21:21.5918|INFO|Logger|-> move I3
+2022-05-31 13:21:21.5918|INFO|Logger|<- move G8
+2022-05-31 13:21:21.6868|INFO|Logger|-> move I2
+2022-05-31 13:21:21.6868|INFO|Logger|<- move G9
+2022-05-31 13:21:21.6868|INFO|Logger|Killing client process...
+2022-05-31 13:21:22.1908|INFO|Logger|Win 
+2022-05-31 13:21:22.1958|INFO|Logger|----------------------
+2022-05-31 13:21:22.1958|INFO|Logger|Executing run #4
+2022-05-31 13:21:22.1958|INFO|Logger|Chosen color for player: White
+2022-05-31 13:21:22.4719|INFO|Logger|<- move E8
+2022-05-31 13:21:22.6359|INFO|Logger|-> move E2
+2022-05-31 13:21:22.6459|INFO|Logger|<- move E7
+2022-05-31 13:21:22.7769|INFO|Logger|-> wall V1v
+2022-05-31 13:21:22.7939|INFO|Logger|<- move E6
+2022-05-31 13:21:22.9219|INFO|Logger|-> move E3
+2022-05-31 13:21:22.9329|INFO|Logger|<- wall U8h
+2022-05-31 13:21:23.0749|INFO|Logger|-> move E4
+2022-05-31 13:21:23.0949|INFO|Logger|<- wall W8h
+2022-05-31 13:21:23.2769|INFO|Logger|-> move E5
+2022-05-31 13:21:23.2839|INFO|Logger|<- wall Y8h
+2022-05-31 13:21:23.4489|INFO|Logger|-> wall W2h
+2022-05-31 13:21:23.4489|INFO|Logger|<- jump E4
+2022-05-31 13:21:23.5649|INFO|Logger|-> move E6
+2022-05-31 13:21:23.5649|INFO|Logger|<- move E3
+2022-05-31 13:21:23.6429|INFO|Logger|-> move E7
+2022-05-31 13:21:23.6429|INFO|Logger|<- move F3
+2022-05-31 13:21:23.7089|INFO|Logger|-> move E8
+2022-05-31 13:21:23.7089|INFO|Logger|<- move G3
+2022-05-31 13:21:23.7709|INFO|Logger|-> move D8
+2022-05-31 13:21:23.7709|INFO|Logger|<- move G2
+2022-05-31 13:21:23.8299|INFO|Logger|-> wall V5h
+2022-05-31 13:21:23.8299|INFO|Logger|<- wall S8h
+2022-05-31 13:21:23.9299|INFO|Logger|-> move E8
+2022-05-31 13:21:23.9299|INFO|Logger|<- move G1
+2022-05-31 13:21:23.9299|INFO|Logger|Killing client process...
+2022-05-31 13:21:24.4570|INFO|Logger|Win 
+2022-05-31 13:21:24.4570|INFO|Logger|----------------------
+2022-05-31 13:21:24.4570|INFO|Logger|Executing run #5
+2022-05-31 13:21:24.4570|INFO|Logger|Chosen color for player: White
+2022-05-31 13:21:24.7170|INFO|Logger|<- move E8
+2022-05-31 13:21:24.8400|INFO|Logger|-> move E2
+2022-05-31 13:21:24.8440|INFO|Logger|<- move E7
+2022-05-31 13:21:24.9780|INFO|Logger|-> move E3
+2022-05-31 13:21:24.9920|INFO|Logger|<- wall U8h
+2022-05-31 13:21:25.1130|INFO|Logger|-> move E4
+2022-05-31 13:21:25.1130|INFO|Logger|<- move E6
+2022-05-31 13:21:25.2440|INFO|Logger|-> move E5
+2022-05-31 13:21:25.2490|INFO|Logger|<- wall W8h
+2022-05-31 13:21:25.3730|INFO|Logger|-> jump E7
+2022-05-31 13:21:25.3760|INFO|Logger|<- wall Y8h
+2022-05-31 13:21:25.4830|INFO|Logger|-> move E8
+2022-05-31 13:21:25.4830|INFO|Logger|<- move E5
+2022-05-31 13:21:25.5750|INFO|Logger|-> wall W5h
+2022-05-31 13:21:25.5810|INFO|Logger|<- move E4
+2022-05-31 13:21:25.6770|INFO|Logger|-> wall V5v
+2022-05-31 13:21:25.6770|INFO|Logger|<- move E3
+2022-05-31 13:21:25.7660|INFO|Logger|-> wall V7v
+2022-05-31 13:21:25.7660|INFO|Logger|<- move E2
+2022-05-31 13:21:25.8270|INFO|Logger|-> move F8
+2022-05-31 13:21:25.8270|INFO|Logger|<- move E1
+2022-05-31 13:21:25.8270|INFO|Logger|Killing client process...
+2022-05-31 13:21:26.3321|INFO|Logger|Win 
+2022-05-31 13:21:26.3321|INFO|Logger|----------------------
+2022-05-31 13:21:26.3321|INFO|Logger|Executing run #6
+2022-05-31 13:21:26.3321|INFO|Logger|Chosen color for player: White
+2022-05-31 13:21:26.6281|INFO|Logger|<- move E8
+2022-05-31 13:21:26.7661|INFO|Logger|-> wall U1v
+2022-05-31 13:21:26.7841|INFO|Logger|<- move E7
+2022-05-31 13:21:26.9171|INFO|Logger|-> wall X1v
+2022-05-31 13:21:26.9281|INFO|Logger|<- move E6
+2022-05-31 13:21:27.0511|INFO|Logger|-> move E2
+2022-05-31 13:21:27.0511|INFO|Logger|<- move E5
+2022-05-31 13:21:27.1791|INFO|Logger|-> wall V1v
+2022-05-31 13:21:27.1871|INFO|Logger|<- move E4
+2022-05-31 13:21:27.3261|INFO|Logger|-> move E3
+2022-05-31 13:21:27.3261|INFO|Logger|<- wall U8h
+2022-05-31 13:21:27.4861|INFO|Logger|-> jump E5
+2022-05-31 13:21:27.4861|INFO|Logger|<- move E3
+2022-05-31 13:21:27.5931|INFO|Logger|-> move E6
+2022-05-31 13:21:27.5931|INFO|Logger|<- wall W8h
+2022-05-31 13:21:27.6801|INFO|Logger|-> move E7
+2022-05-31 13:21:27.6801|INFO|Logger|<- wall Y8h
+2022-05-31 13:21:27.7522|INFO|Logger|-> move E8
+2022-05-31 13:21:27.7522|INFO|Logger|<- move E2
+2022-05-31 13:21:27.8152|INFO|Logger|-> move D8
+2022-05-31 13:21:27.8152|INFO|Logger|<- move E1
+2022-05-31 13:21:27.8152|INFO|Logger|Killing client process...
+2022-05-31 13:21:28.3192|INFO|Logger|Win 
+2022-05-31 13:21:28.3192|INFO|Logger|----------------------
+2022-05-31 13:21:28.3192|INFO|Logger|Executing run #7
+2022-05-31 13:21:28.3252|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:21:28.5402|INFO|Logger|-> move E8
+2022-05-31 13:21:28.6452|INFO|Logger|<- move E2
+2022-05-31 13:21:28.7732|INFO|Logger|-> wall V8v
+2022-05-31 13:21:28.7962|INFO|Logger|<- move E3
+2022-05-31 13:21:28.9202|INFO|Logger|-> wall W8v
+2022-05-31 13:21:28.9202|INFO|Logger|<- wall U1h
+2022-05-31 13:21:29.0452|INFO|Logger|-> move E7
+2022-05-31 13:21:29.0452|INFO|Logger|<- move E4
+2022-05-31 13:21:29.1652|INFO|Logger|-> move E6
+2022-05-31 13:21:29.1652|INFO|Logger|<- move E5
+2022-05-31 13:21:29.2902|INFO|Logger|-> jump E4
+2022-05-31 13:21:29.2902|INFO|Logger|<- move E6
+2022-05-31 13:21:29.4302|INFO|Logger|-> move E3
+2022-05-31 13:21:29.4302|INFO|Logger|<- move E7
+2022-05-31 13:21:29.5133|INFO|Logger|-> move E2
+2022-05-31 13:21:29.5133|INFO|Logger|<- wall W1h
+2022-05-31 13:21:29.5843|INFO|Logger|-> move F2
+2022-05-31 13:21:29.5863|INFO|Logger|<- wall Y1h
+2022-05-31 13:21:29.6573|INFO|Logger|-> wall X2h
+2022-05-31 13:21:29.6573|INFO|Logger|<- move E8
+2022-05-31 13:21:29.7263|INFO|Logger|-> wall V1v
+2022-05-31 13:21:29.7263|INFO|Logger|<- move E9
+2022-05-31 13:21:29.7263|INFO|Logger|Killing client process...
+2022-05-31 13:21:30.2323|INFO|Logger|Win 
+2022-05-31 13:21:30.2323|INFO|Logger|----------------------
+2022-05-31 13:21:30.2323|INFO|Logger|Executing run #8
+2022-05-31 13:21:30.2323|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:21:30.4523|INFO|Logger|-> move E8
+2022-05-31 13:21:30.5623|INFO|Logger|<- move E2
+2022-05-31 13:21:30.6913|INFO|Logger|-> wall V8v
+2022-05-31 13:21:30.7073|INFO|Logger|<- move E3
+2022-05-31 13:21:30.8363|INFO|Logger|-> move E7
+2022-05-31 13:21:30.8363|INFO|Logger|<- move E4
+2022-05-31 13:21:30.9563|INFO|Logger|-> move E6
+2022-05-31 13:21:30.9673|INFO|Logger|<- wall U1h
+2022-05-31 13:21:31.0993|INFO|Logger|-> move E5
+2022-05-31 13:21:31.0993|INFO|Logger|<- wall W1h
+2022-05-31 13:21:31.2274|INFO|Logger|-> move F5
+2022-05-31 13:21:31.2274|INFO|Logger|<- wall Y1h
+2022-05-31 13:21:31.3504|INFO|Logger|-> wall X5h
+2022-05-31 13:21:31.3504|INFO|Logger|<- move E5
+2022-05-31 13:21:31.4574|INFO|Logger|-> move G5
+2022-05-31 13:21:31.4594|INFO|Logger|<- move E6
+2022-05-31 13:21:31.5684|INFO|Logger|-> move H5
+2022-05-31 13:21:31.5684|INFO|Logger|<- move E7
+2022-05-31 13:21:31.6654|INFO|Logger|-> move I5
+2022-05-31 13:21:31.6654|INFO|Logger|<- move E8
+2022-05-31 13:21:31.7514|INFO|Logger|-> move I4
+2022-05-31 13:21:31.7514|INFO|Logger|<- move E9
+2022-05-31 13:21:31.7514|INFO|Logger|Killing client process...
+2022-05-31 13:21:32.2544|INFO|Logger|Win 
+2022-05-31 13:21:32.2544|INFO|Logger|----------------------
+2022-05-31 13:21:32.2544|INFO|Logger|Executing run #9
+2022-05-31 13:21:32.2544|INFO|Logger|Chosen color for player: White
+2022-05-31 13:21:32.5174|INFO|Logger|<- move E8
+2022-05-31 13:21:32.6464|INFO|Logger|-> wall U1v
+2022-05-31 13:21:32.6464|INFO|Logger|<- move E7
+2022-05-31 13:21:32.7794|INFO|Logger|-> wall X1v
+2022-05-31 13:21:32.7944|INFO|Logger|<- move E6
+2022-05-31 13:21:32.9114|INFO|Logger|-> move E2
+2022-05-31 13:21:32.9114|INFO|Logger|<- move E5
+2022-05-31 13:21:33.0325|INFO|Logger|-> move E3
+2022-05-31 13:21:33.0345|INFO|Logger|<- move E4
+2022-05-31 13:21:33.1525|INFO|Logger|-> jump E5
+2022-05-31 13:21:33.1525|INFO|Logger|<- wall U8h
+2022-05-31 13:21:33.2705|INFO|Logger|-> wall W2h
+2022-05-31 13:21:33.2705|INFO|Logger|<- move E3
+2022-05-31 13:21:33.3765|INFO|Logger|-> move E6
+2022-05-31 13:21:33.3805|INFO|Logger|<- wall W8h
+2022-05-31 13:21:33.4745|INFO|Logger|-> move E7
+2022-05-31 13:21:33.4745|INFO|Logger|<- move F3
+2022-05-31 13:21:33.5745|INFO|Logger|-> move E8
+2022-05-31 13:21:33.5745|INFO|Logger|<- move G3
+2022-05-31 13:21:33.6775|INFO|Logger|-> wall W5h
+2022-05-31 13:21:33.6775|INFO|Logger|<- move G2
+2022-05-31 13:21:33.7425|INFO|Logger|-> move F8
+2022-05-31 13:21:33.7425|INFO|Logger|<- move G1
+2022-05-31 13:21:33.7425|INFO|Logger|Killing client process...
+2022-05-31 13:21:34.2465|INFO|Logger|Win 
+2022-05-31 13:21:34.2465|INFO|Logger|----------------------
+2022-05-31 13:21:34.2465|INFO|Logger|Executing run #10
+2022-05-31 13:21:34.2515|INFO|Logger|Chosen color for player: White
+2022-05-31 13:21:34.5335|INFO|Logger|<- move E8
+2022-05-31 13:21:34.6685|INFO|Logger|-> move E2
+2022-05-31 13:21:34.6795|INFO|Logger|<- move E7
+2022-05-31 13:21:34.8096|INFO|Logger|-> wall V1v
+2022-05-31 13:21:34.8356|INFO|Logger|<- move E6
+2022-05-31 13:21:34.9606|INFO|Logger|-> move E3
+2022-05-31 13:21:34.9606|INFO|Logger|<- move E5
+2022-05-31 13:21:35.0846|INFO|Logger|-> move E4
+2022-05-31 13:21:35.0846|INFO|Logger|<- jump E3
+2022-05-31 13:21:35.1946|INFO|Logger|-> move E5
+2022-05-31 13:21:35.1946|INFO|Logger|<- move E2
+2022-05-31 13:21:35.3176|INFO|Logger|-> wall W2h
+2022-05-31 13:21:35.3286|INFO|Logger|<- move E1
+2022-05-31 13:21:35.3526|INFO|Logger|Killing client process...
+2022-05-31 13:21:35.8296|INFO|Logger|Win 
+2022-05-31 13:21:35.8296|INFO|Logger|----------------------
+2022-05-31 13:21:35.8296|INFO|Logger|Executing run #11
+2022-05-31 13:21:35.8296|INFO|Logger|Chosen color for player: White
+2022-05-31 13:21:36.0766|INFO|Logger|<- move E8
+2022-05-31 13:21:36.1986|INFO|Logger|-> wall U1v
+2022-05-31 13:21:36.2086|INFO|Logger|<- move E7
+2022-05-31 13:21:36.3656|INFO|Logger|-> move E2
+2022-05-31 13:21:36.3656|INFO|Logger|<- move E6
+2022-05-31 13:21:36.5097|INFO|Logger|-> move E3
+2022-05-31 13:21:36.5127|INFO|Logger|<- move E5
+2022-05-31 13:21:36.6457|INFO|Logger|-> move E4
+2022-05-31 13:21:36.6457|INFO|Logger|<- jump E3
+2022-05-31 13:21:36.7587|INFO|Logger|-> wall W1h
+2022-05-31 13:21:36.7657|INFO|Logger|<- wall U8h
+2022-05-31 13:21:36.8927|INFO|Logger|-> move E5
+2022-05-31 13:21:36.8927|INFO|Logger|<- wall W8h
+2022-05-31 13:21:37.0047|INFO|Logger|-> move E6
+2022-05-31 13:21:37.0047|INFO|Logger|<- move E2
+2022-05-31 13:21:37.0927|INFO|Logger|-> move E7
+2022-05-31 13:21:37.0927|INFO|Logger|<- wall Y8h
+2022-05-31 13:21:37.1587|INFO|Logger|-> move E8
+2022-05-31 13:21:37.1587|INFO|Logger|<- move F2
+2022-05-31 13:21:37.2227|INFO|Logger|-> move D8
+2022-05-31 13:21:37.2227|INFO|Logger|<- wall S8h
+2022-05-31 13:21:37.3307|INFO|Logger|-> move E8
+2022-05-31 13:21:37.3307|INFO|Logger|<- move G2
+2022-05-31 13:21:37.4447|INFO|Logger|-> move F8
+2022-05-31 13:21:37.4447|INFO|Logger|<- move G1
+2022-05-31 13:21:37.4447|INFO|Logger|Killing client process...
+2022-05-31 13:21:37.9477|INFO|Logger|Win 
+2022-05-31 13:21:37.9477|INFO|Logger|----------------------
+2022-05-31 13:21:37.9477|INFO|Logger|Executing run #12
+2022-05-31 13:21:37.9477|INFO|Logger|Chosen color for player: White
+2022-05-31 13:21:38.1707|INFO|Logger|<- move E8
+2022-05-31 13:21:38.3058|INFO|Logger|-> move E2
+2022-05-31 13:21:38.3218|INFO|Logger|<- move E7
+2022-05-31 13:21:38.4698|INFO|Logger|-> move E3
+2022-05-31 13:21:38.4698|INFO|Logger|<- move E6
+2022-05-31 13:21:38.5998|INFO|Logger|-> move E4
+2022-05-31 13:21:38.6098|INFO|Logger|<- wall U8h
+2022-05-31 13:21:38.7408|INFO|Logger|-> move E5
+2022-05-31 13:21:38.7468|INFO|Logger|<- wall W8h
+2022-05-31 13:21:38.8728|INFO|Logger|-> wall W2h
+2022-05-31 13:21:38.8728|INFO|Logger|<- wall Y8h
+2022-05-31 13:21:38.9948|INFO|Logger|-> jump E7
+2022-05-31 13:21:38.9948|INFO|Logger|<- move E5
+2022-05-31 13:21:39.0768|INFO|Logger|-> move E8
+2022-05-31 13:21:39.0768|INFO|Logger|<- move E4
+2022-05-31 13:21:39.1508|INFO|Logger|-> move D8
+2022-05-31 13:21:39.1508|INFO|Logger|<- move E3
+2022-05-31 13:21:39.2068|INFO|Logger|-> move C8
+2022-05-31 13:21:39.2068|INFO|Logger|<- move F3
+2022-05-31 13:21:39.2738|INFO|Logger|-> wall U5h
+2022-05-31 13:21:39.2738|INFO|Logger|<- wall S8h
+2022-05-31 13:21:39.3818|INFO|Logger|-> move D8
+2022-05-31 13:21:39.3838|INFO|Logger|<- move G3
+2022-05-31 13:21:39.4848|INFO|Logger|-> move E8
+2022-05-31 13:21:39.4848|INFO|Logger|<- move G2
+2022-05-31 13:21:39.5788|INFO|Logger|-> move F8
+2022-05-31 13:21:39.5788|INFO|Logger|<- move G1
+2022-05-31 13:21:39.5788|INFO|Logger|Killing client process...
+2022-05-31 13:21:40.0829|INFO|Logger|Win 
+2022-05-31 13:21:40.0829|INFO|Logger|----------------------
+2022-05-31 13:21:40.0829|INFO|Logger|Executing run #13
+2022-05-31 13:21:40.0879|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:21:40.2869|INFO|Logger|-> move E8
+2022-05-31 13:21:40.4159|INFO|Logger|<- move E2
+2022-05-31 13:21:40.5779|INFO|Logger|-> wall V8v
+2022-05-31 13:21:40.5989|INFO|Logger|<- move E3
+2022-05-31 13:21:40.7539|INFO|Logger|-> wall W8v
+2022-05-31 13:21:40.7629|INFO|Logger|<- move E4
+2022-05-31 13:21:40.9009|INFO|Logger|-> move E7
+2022-05-31 13:21:40.9009|INFO|Logger|<- move E5
+2022-05-31 13:21:41.0269|INFO|Logger|-> move E6
+2022-05-31 13:21:41.0269|INFO|Logger|<- wall U1h
+2022-05-31 13:21:41.1589|INFO|Logger|-> wall W6h
+2022-05-31 13:21:41.1629|INFO|Logger|<- jump F6
+2022-05-31 13:21:41.2799|INFO|Logger|-> wall V5h
+2022-05-31 13:21:41.2899|INFO|Logger|<- wall W1h
+2022-05-31 13:21:41.3919|INFO|Logger|-> jump G6
+2022-05-31 13:21:41.3919|INFO|Logger|<- jump H6
+2022-05-31 13:21:41.4929|INFO|Logger|-> wall Y6h
+2022-05-31 13:21:41.4929|INFO|Logger|<- move I6
+2022-05-31 13:21:41.5879|INFO|Logger|-> wall Z6v
+2022-05-31 13:21:41.5879|INFO|Logger|<- move I7
+2022-05-31 13:21:41.6919|INFO|Logger|-> wall W5v
+2022-05-31 13:21:41.6919|INFO|Logger|<- wall Y1h
+2022-05-31 13:21:41.7670|INFO|Logger|-> move H6
+2022-05-31 13:21:41.7670|INFO|Logger|<- move I8
+2022-05-31 13:21:41.8460|INFO|Logger|-> move H5
+2022-05-31 13:21:41.8460|INFO|Logger|<- move I9
+2022-05-31 13:21:41.8480|INFO|Logger|Killing client process...
+2022-05-31 13:21:42.3500|INFO|Logger|Win 
+2022-05-31 13:21:42.3500|INFO|Logger|----------------------
+2022-05-31 13:21:42.3500|INFO|Logger|Executing run #14
+2022-05-31 13:21:42.3500|INFO|Logger|Chosen color for player: White
+2022-05-31 13:21:42.6030|INFO|Logger|<- move E8
+2022-05-31 13:21:42.7410|INFO|Logger|-> wall U1v
+2022-05-31 13:21:42.7550|INFO|Logger|<- move E7
+2022-05-31 13:21:42.8800|INFO|Logger|-> move E2
+2022-05-31 13:21:42.8800|INFO|Logger|<- move E6
+2022-05-31 13:21:43.0080|INFO|Logger|-> move E3
+2022-05-31 13:21:43.0080|INFO|Logger|<- wall U8h
+2022-05-31 13:21:43.1430|INFO|Logger|-> move E4
+2022-05-31 13:21:43.1430|INFO|Logger|<- wall W8h
+2022-05-31 13:21:43.2640|INFO|Logger|-> move E5
+2022-05-31 13:21:43.2640|INFO|Logger|<- wall Y8h
+2022-05-31 13:21:43.3860|INFO|Logger|-> jump E7
+2022-05-31 13:21:43.3860|INFO|Logger|<- move E5
+2022-05-31 13:21:43.4701|INFO|Logger|-> move E8
+2022-05-31 13:21:43.4701|INFO|Logger|<- move E4
+2022-05-31 13:21:43.5881|INFO|Logger|-> move D8
+2022-05-31 13:21:43.5881|INFO|Logger|<- wall S8h
+2022-05-31 13:21:43.7471|INFO|Logger|-> move E8
+2022-05-31 13:21:43.7471|INFO|Logger|<- move E3
+2022-05-31 13:21:43.8531|INFO|Logger|-> move F8
+2022-05-31 13:21:43.8531|INFO|Logger|<- move E2
+2022-05-31 13:21:43.9471|INFO|Logger|-> move G8
+2022-05-31 13:21:43.9471|INFO|Logger|<- move E1
+2022-05-31 13:21:43.9471|INFO|Logger|Killing client process...
+2022-05-31 13:21:44.4511|INFO|Logger|Win 
+2022-05-31 13:21:44.4511|INFO|Logger|----------------------
+2022-05-31 13:21:44.4511|INFO|Logger|Executing run #15
+2022-05-31 13:21:44.4581|INFO|Logger|Chosen color for player: White
+2022-05-31 13:21:44.8261|INFO|Logger|<- move E8
+2022-05-31 13:21:44.9741|INFO|Logger|-> move E2
+2022-05-31 13:21:44.9741|INFO|Logger|<- move E7
+2022-05-31 13:21:45.1151|INFO|Logger|-> wall V1v
+2022-05-31 13:21:45.1361|INFO|Logger|<- move E6
+2022-05-31 13:21:45.2632|INFO|Logger|-> move E3
+2022-05-31 13:21:45.2712|INFO|Logger|<- wall U8h
+2022-05-31 13:21:45.4112|INFO|Logger|-> move E4
+2022-05-31 13:21:45.4112|INFO|Logger|<- move E5
+2022-05-31 13:21:45.5402|INFO|Logger|-> wall W1h
+2022-05-31 13:21:45.5462|INFO|Logger|<- jump E3
+2022-05-31 13:21:45.6532|INFO|Logger|-> move E5
+2022-05-31 13:21:45.6852|INFO|Logger|<- wall W8h
+2022-05-31 13:21:45.8072|INFO|Logger|-> move E6
+2022-05-31 13:21:45.8072|INFO|Logger|<- wall Y8h
+2022-05-31 13:21:45.8822|INFO|Logger|-> move E7
+2022-05-31 13:21:45.8822|INFO|Logger|<- move E2
+2022-05-31 13:21:45.9512|INFO|Logger|-> wall W4h
+2022-05-31 13:21:45.9512|INFO|Logger|<- move F2
+2022-05-31 13:21:46.0122|INFO|Logger|-> move E8
+2022-05-31 13:21:46.0142|INFO|Logger|<- move G2
+2022-05-31 13:21:46.0712|INFO|Logger|-> move D8
+2022-05-31 13:21:46.0712|INFO|Logger|<- wall S8h
+2022-05-31 13:21:46.1662|INFO|Logger|-> move E8
+2022-05-31 13:21:46.1662|INFO|Logger|<- move G1
+2022-05-31 13:21:46.1662|INFO|Logger|Killing client process...
+2022-05-31 13:21:46.6702|INFO|Logger|Win 
+2022-05-31 13:21:46.6702|INFO|Logger|----------------------
+2022-05-31 13:21:46.6702|INFO|Logger|Executing run #16
+2022-05-31 13:21:46.6702|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:21:46.8512|INFO|Logger|-> move E8
+2022-05-31 13:21:47.0323|INFO|Logger|<- move E2
+2022-05-31 13:21:47.1653|INFO|Logger|-> move E7
+2022-05-31 13:21:47.1723|INFO|Logger|<- move E3
+2022-05-31 13:21:47.3093|INFO|Logger|-> move E6
+2022-05-31 13:21:47.3093|INFO|Logger|<- wall U1h
+2022-05-31 13:21:47.4613|INFO|Logger|-> wall W6h
+2022-05-31 13:21:47.4763|INFO|Logger|<- wall W1h
+2022-05-31 13:21:47.6063|INFO|Logger|-> move F6
+2022-05-31 13:21:47.6063|INFO|Logger|<- move E4
+2022-05-31 13:21:47.7333|INFO|Logger|-> wall Y5h
+2022-05-31 13:21:47.7333|INFO|Logger|<- wall Y1h
+2022-05-31 13:21:47.8673|INFO|Logger|-> move G6
+2022-05-31 13:21:47.8773|INFO|Logger|<- move E5
+2022-05-31 13:21:48.0233|INFO|Logger|-> move H6
+2022-05-31 13:21:48.0253|INFO|Logger|<- move E6
+2022-05-31 13:21:48.1353|INFO|Logger|-> move I6
+2022-05-31 13:21:48.1353|INFO|Logger|<- move F6
+2022-05-31 13:21:48.2363|INFO|Logger|-> move I5
+2022-05-31 13:21:48.2363|INFO|Logger|<- move G6
+2022-05-31 13:21:48.3363|INFO|Logger|-> move I4
+2022-05-31 13:21:48.3373|INFO|Logger|<- move G7
+2022-05-31 13:21:48.4323|INFO|Logger|-> move I3
+2022-05-31 13:21:48.4323|INFO|Logger|<- move G8
+2022-05-31 13:21:48.5003|INFO|Logger|-> move I2
+2022-05-31 13:21:48.5003|INFO|Logger|<- move G9
+2022-05-31 13:21:48.5003|INFO|Logger|Killing client process...
+2022-05-31 13:21:49.0054|INFO|Logger|Win 
+2022-05-31 13:21:49.0104|INFO|Logger|----------------------
+2022-05-31 13:21:49.0104|INFO|Logger|Executing run #17
+2022-05-31 13:21:49.0104|INFO|Logger|Chosen color for player: White
+2022-05-31 13:21:49.2664|INFO|Logger|<- move E8
+2022-05-31 13:21:49.4064|INFO|Logger|-> move E2
+2022-05-31 13:21:49.4064|INFO|Logger|<- move E7
+2022-05-31 13:21:49.5474|INFO|Logger|-> wall V1v
+2022-05-31 13:21:49.5684|INFO|Logger|<- move E6
+2022-05-31 13:21:49.6954|INFO|Logger|-> move E3
+2022-05-31 13:21:49.6954|INFO|Logger|<- wall U8h
+2022-05-31 13:21:49.8324|INFO|Logger|-> move E4
+2022-05-31 13:21:49.8364|INFO|Logger|<- wall W8h
+2022-05-31 13:21:49.9864|INFO|Logger|-> wall W1h
+2022-05-31 13:21:49.9924|INFO|Logger|<- wall Y8h
+2022-05-31 13:21:50.1164|INFO|Logger|-> move E5
+2022-05-31 13:21:50.1164|INFO|Logger|<- jump E4
+2022-05-31 13:21:50.2584|INFO|Logger|-> wall W2h
+2022-05-31 13:21:50.2584|INFO|Logger|<- move E3
+2022-05-31 13:21:50.3774|INFO|Logger|-> move E6
+2022-05-31 13:21:50.3774|INFO|Logger|<- move F3
+2022-05-31 13:21:50.4735|INFO|Logger|-> move E7
+2022-05-31 13:21:50.4755|INFO|Logger|<- move G3
+2022-05-31 13:21:50.5605|INFO|Logger|-> move E8
+2022-05-31 13:21:50.5605|INFO|Logger|<- move G2
+2022-05-31 13:21:50.6275|INFO|Logger|-> move D8
+2022-05-31 13:21:50.6275|INFO|Logger|<- move G1
+2022-05-31 13:21:50.6275|INFO|Logger|Killing client process...
+2022-05-31 13:21:51.1325|INFO|Logger|Win 
+2022-05-31 13:21:51.1325|INFO|Logger|----------------------
+2022-05-31 13:21:51.1325|INFO|Logger|Executing run #18
+2022-05-31 13:21:51.1325|INFO|Logger|Chosen color for player: White
+2022-05-31 13:21:51.3725|INFO|Logger|<- move E8
+2022-05-31 13:21:51.5085|INFO|Logger|-> move E2
+2022-05-31 13:21:51.5085|INFO|Logger|<- move E7
+2022-05-31 13:21:51.6475|INFO|Logger|-> move E3
+2022-05-31 13:21:51.6475|INFO|Logger|<- move E6
+2022-05-31 13:21:51.7755|INFO|Logger|-> move E4
+2022-05-31 13:21:51.7755|INFO|Logger|<- move E5
+2022-05-31 13:21:51.9235|INFO|Logger|-> wall W1h
+2022-05-31 13:21:51.9345|INFO|Logger|<- jump E3
+2022-05-31 13:21:52.0445|INFO|Logger|-> move E5
+2022-05-31 13:21:52.0445|INFO|Logger|<- move E2
+2022-05-31 13:21:52.1315|INFO|Logger|-> move E6
+2022-05-31 13:21:52.1315|INFO|Logger|<- move F2
+2022-05-31 13:21:52.2156|INFO|Logger|-> move E7
+2022-05-31 13:21:52.2156|INFO|Logger|<- move G2
+2022-05-31 13:21:52.3076|INFO|Logger|-> move E8
+2022-05-31 13:21:52.3076|INFO|Logger|<- move G1
+2022-05-31 13:21:52.3076|INFO|Logger|Killing client process...
+2022-05-31 13:21:52.8186|INFO|Logger|Win 
+2022-05-31 13:21:52.8186|INFO|Logger|----------------------
+2022-05-31 13:21:52.8186|INFO|Logger|Executing run #19
+2022-05-31 13:21:52.8186|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:21:52.9776|INFO|Logger|-> move E8
+2022-05-31 13:21:53.0926|INFO|Logger|<- move E2
+2022-05-31 13:21:53.2226|INFO|Logger|-> wall V8v
+2022-05-31 13:21:53.2436|INFO|Logger|<- move E3
+2022-05-31 13:21:53.3706|INFO|Logger|-> move E7
+2022-05-31 13:21:53.3776|INFO|Logger|<- wall U1h
+2022-05-31 13:21:53.4936|INFO|Logger|-> wall W7h
+2022-05-31 13:21:53.5036|INFO|Logger|<- wall W1h
+2022-05-31 13:21:53.6256|INFO|Logger|-> move F7
+2022-05-31 13:21:53.6256|INFO|Logger|<- move E4
+2022-05-31 13:21:53.7326|INFO|Logger|-> move G7
+2022-05-31 13:21:53.7356|INFO|Logger|<- wall Y1h
+2022-05-31 13:21:53.8446|INFO|Logger|-> move H7
+2022-05-31 13:21:53.8446|INFO|Logger|<- move E5
+2022-05-31 13:21:53.9487|INFO|Logger|-> wall Z7h
+2022-05-31 13:21:53.9487|INFO|Logger|<- move E6
+2022-05-31 13:21:54.0487|INFO|Logger|-> move I7
+2022-05-31 13:21:54.0487|INFO|Logger|<- move E7
+2022-05-31 13:21:54.1347|INFO|Logger|-> wall Y7v
+2022-05-31 13:21:54.1347|INFO|Logger|<- move F7
+2022-05-31 13:21:54.2227|INFO|Logger|-> move I6
+2022-05-31 13:21:54.2227|INFO|Logger|<- move G7
+2022-05-31 13:21:54.3157|INFO|Logger|-> move I5
+2022-05-31 13:21:54.3157|INFO|Logger|<- move G8
+2022-05-31 13:21:54.4017|INFO|Logger|-> move I4
+2022-05-31 13:21:54.4017|INFO|Logger|<- move G9
+2022-05-31 13:21:54.4017|INFO|Logger|Killing client process...
+2022-05-31 13:21:54.9067|INFO|Logger|Win 
+2022-05-31 13:21:54.9067|INFO|Logger|----------------------
+2022-05-31 13:21:54.9067|INFO|Logger|Executing run #20
+2022-05-31 13:21:54.9067|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:21:55.0767|INFO|Logger|-> wall U8v
+2022-05-31 13:21:55.2207|INFO|Logger|<- move E2
+2022-05-31 13:21:55.3527|INFO|Logger|-> move E8
+2022-05-31 13:21:55.3527|INFO|Logger|<- move E3
+2022-05-31 13:21:55.4787|INFO|Logger|-> wall V8v
+2022-05-31 13:21:55.4957|INFO|Logger|<- wall U1h
+2022-05-31 13:21:55.6097|INFO|Logger|-> move E7
+2022-05-31 13:21:55.6097|INFO|Logger|<- wall W1h
+2022-05-31 13:21:55.7378|INFO|Logger|-> move F7
+2022-05-31 13:21:55.7378|INFO|Logger|<- move E4
+2022-05-31 13:21:55.8528|INFO|Logger|-> move G7
+2022-05-31 13:21:55.8528|INFO|Logger|<- move E5
+2022-05-31 13:21:55.9838|INFO|Logger|-> move G6
+2022-05-31 13:21:55.9838|INFO|Logger|<- move E6
+2022-05-31 13:21:56.0958|INFO|Logger|-> move G5
+2022-05-31 13:21:56.0958|INFO|Logger|<- wall Y1h
+2022-05-31 13:21:56.1948|INFO|Logger|-> move H5
+2022-05-31 13:21:56.1948|INFO|Logger|<- move E7
+2022-05-31 13:21:56.2838|INFO|Logger|-> move I5
+2022-05-31 13:21:56.2838|INFO|Logger|<- move E8
+2022-05-31 13:21:56.3828|INFO|Logger|-> move I4
+2022-05-31 13:21:56.3828|INFO|Logger|<- move E9
+2022-05-31 13:21:56.3828|INFO|Logger|Killing client process...
+2022-05-31 13:21:56.8928|INFO|Logger|Win 
+2022-05-31 13:21:56.8928|INFO|Logger|----------------------
+2022-05-31 13:21:56.8928|INFO|Logger|Executing run #21
+2022-05-31 13:21:56.8928|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:21:57.0408|INFO|Logger|-> move E8
+2022-05-31 13:21:57.1968|INFO|Logger|<- move E2
+2022-05-31 13:21:57.3338|INFO|Logger|-> move E7
+2022-05-31 13:21:57.3398|INFO|Logger|<- move E3
+2022-05-31 13:21:57.4889|INFO|Logger|-> move E6
+2022-05-31 13:21:57.4889|INFO|Logger|<- move E4
+2022-05-31 13:21:57.6209|INFO|Logger|-> move E5
+2022-05-31 13:21:57.6209|INFO|Logger|<- jump E6
+2022-05-31 13:21:57.7389|INFO|Logger|-> move E4
+2022-05-31 13:21:57.7389|INFO|Logger|<- wall U1h
+2022-05-31 13:21:57.8439|INFO|Logger|-> move E3
+2022-05-31 13:21:57.8439|INFO|Logger|<- wall W1h
+2022-05-31 13:21:57.9399|INFO|Logger|-> move F3
+2022-05-31 13:21:57.9399|INFO|Logger|<- wall Y1h
+2022-05-31 13:21:58.0319|INFO|Logger|-> move G3
+2022-05-31 13:21:58.0319|INFO|Logger|<- move E7
+2022-05-31 13:21:58.1199|INFO|Logger|-> wall Y3h
+2022-05-31 13:21:58.1199|INFO|Logger|<- move E8
+2022-05-31 13:21:58.1919|INFO|Logger|-> wall X2h
+2022-05-31 13:21:58.1919|INFO|Logger|<- move E9
+2022-05-31 13:21:58.1919|INFO|Logger|Killing client process...
+2022-05-31 13:21:58.6979|INFO|Logger|Win 
+2022-05-31 13:21:58.6979|INFO|Logger|----------------------
+2022-05-31 13:21:58.6979|INFO|Logger|Executing run #22
+2022-05-31 13:21:58.6979|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:21:58.8749|INFO|Logger|-> move E8
+2022-05-31 13:21:58.9819|INFO|Logger|<- move E2
+2022-05-31 13:21:59.1309|INFO|Logger|-> move E7
+2022-05-31 13:21:59.1399|INFO|Logger|<- move E3
+2022-05-31 13:21:59.2740|INFO|Logger|-> wall W7h
+2022-05-31 13:21:59.2740|INFO|Logger|<- move E4
+2022-05-31 13:21:59.4160|INFO|Logger|-> wall V6h
+2022-05-31 13:21:59.4160|INFO|Logger|<- wall U1h
+2022-05-31 13:21:59.5450|INFO|Logger|-> move F7
+2022-05-31 13:21:59.5450|INFO|Logger|<- move E5
+2022-05-31 13:21:59.6700|INFO|Logger|-> wall Y6h
+2022-05-31 13:21:59.6700|INFO|Logger|<- wall W1h
+2022-05-31 13:21:59.8040|INFO|Logger|-> move F6
+2022-05-31 13:21:59.8040|INFO|Logger|<- wall Y1h
+2022-05-31 13:21:59.9020|INFO|Logger|-> move G6
+2022-05-31 13:21:59.9020|INFO|Logger|<- move E6
+2022-05-31 13:22:00.0080|INFO|Logger|-> move H6
+2022-05-31 13:22:00.0080|INFO|Logger|<- move F6
+2022-05-31 13:22:00.0990|INFO|Logger|-> move I6
+2022-05-31 13:22:00.1000|INFO|Logger|<- move F7
+2022-05-31 13:22:00.1860|INFO|Logger|-> move I5
+2022-05-31 13:22:00.1860|INFO|Logger|<- move G7
+2022-05-31 13:22:00.2720|INFO|Logger|-> move I4
+2022-05-31 13:22:00.2720|INFO|Logger|<- move G8
+2022-05-31 13:22:00.3540|INFO|Logger|-> move I3
+2022-05-31 13:22:00.3540|INFO|Logger|<- move G9
+2022-05-31 13:22:00.3540|INFO|Logger|Killing client process...
+2022-05-31 13:22:00.8570|INFO|Logger|Win 
+2022-05-31 13:22:00.8570|INFO|Logger|----------------------
+2022-05-31 13:22:00.8570|INFO|Logger|Executing run #23
+2022-05-31 13:22:00.8640|INFO|Logger|Chosen color for player: White
+2022-05-31 13:22:01.0961|INFO|Logger|<- move E8
+2022-05-31 13:22:01.2191|INFO|Logger|-> wall U1v
+2022-05-31 13:22:01.2351|INFO|Logger|<- move E7
+2022-05-31 13:22:01.3601|INFO|Logger|-> wall X1v
+2022-05-31 13:22:01.3771|INFO|Logger|<- move E6
+2022-05-31 13:22:01.4951|INFO|Logger|-> move E2
+2022-05-31 13:22:01.4951|INFO|Logger|<- move E5
+2022-05-31 13:22:01.6151|INFO|Logger|-> move E3
+2022-05-31 13:22:01.6151|INFO|Logger|<- move E4
+2022-05-31 13:22:01.7311|INFO|Logger|-> jump E5
+2022-05-31 13:22:01.7381|INFO|Logger|<- wall U8h
+2022-05-31 13:22:01.8501|INFO|Logger|-> wall W2h
+2022-05-31 13:22:01.8501|INFO|Logger|<- wall W8h
+2022-05-31 13:22:01.9591|INFO|Logger|-> move E6
+2022-05-31 13:22:01.9591|INFO|Logger|<- wall Y8h
+2022-05-31 13:22:02.0461|INFO|Logger|-> move E7
+2022-05-31 13:22:02.0461|INFO|Logger|<- move E3
+2022-05-31 13:22:02.1051|INFO|Logger|-> move E8
+2022-05-31 13:22:02.1051|INFO|Logger|<- move F3
+2022-05-31 13:22:02.1611|INFO|Logger|-> move D8
+2022-05-31 13:22:02.1611|INFO|Logger|<- wall S8h
+2022-05-31 13:22:02.2601|INFO|Logger|-> move E8
+2022-05-31 13:22:02.2601|INFO|Logger|<- move G3
+2022-05-31 13:22:02.3701|INFO|Logger|-> move F8
+2022-05-31 13:22:02.3701|INFO|Logger|<- move G2
+2022-05-31 13:22:02.4621|INFO|Logger|-> move G8
+2022-05-31 13:22:02.4621|INFO|Logger|<- move G1
+2022-05-31 13:22:02.4621|INFO|Logger|Killing client process...
+2022-05-31 13:22:02.9712|INFO|Logger|Win 
+2022-05-31 13:22:02.9712|INFO|Logger|----------------------
+2022-05-31 13:22:02.9712|INFO|Logger|Executing run #24
+2022-05-31 13:22:02.9932|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:22:03.1322|INFO|Logger|-> wall U8v
+2022-05-31 13:22:03.2882|INFO|Logger|<- move E2
+2022-05-31 13:22:03.4352|INFO|Logger|-> wall X8v
+2022-05-31 13:22:03.4462|INFO|Logger|<- move E3
+2022-05-31 13:22:03.5882|INFO|Logger|-> wall W6h
+2022-05-31 13:22:03.5882|INFO|Logger|<- move E4
+2022-05-31 13:22:03.7152|INFO|Logger|-> move E8
+2022-05-31 13:22:03.7152|INFO|Logger|<- move E5
+2022-05-31 13:22:03.8432|INFO|Logger|-> move E7
+2022-05-31 13:22:03.8462|INFO|Logger|<- wall U1h
+2022-05-31 13:22:03.9692|INFO|Logger|-> wall W7h
+2022-05-31 13:22:03.9692|INFO|Logger|<- move E6
+2022-05-31 13:22:04.1022|INFO|Logger|-> move D7
+2022-05-31 13:22:04.1022|INFO|Logger|<- wall W1h
+2022-05-31 13:22:04.2242|INFO|Logger|-> move D6
+2022-05-31 13:22:04.2242|INFO|Logger|<- wall S1h
+2022-05-31 13:22:04.3762|INFO|Logger|-> wall U6v
+2022-05-31 13:22:04.3762|INFO|Logger|<- move F6
+2022-05-31 13:22:04.5303|INFO|Logger|-> move E6
+2022-05-31 13:22:04.5303|INFO|Logger|<- move G6
+2022-05-31 13:22:04.6903|INFO|Logger|-> move F6
+2022-05-31 13:22:04.6903|INFO|Logger|<- move G7
+2022-05-31 13:22:04.8483|INFO|Logger|-> move G6
+2022-05-31 13:22:04.8483|INFO|Logger|<- wall Y1h
+2022-05-31 13:22:05.0053|INFO|Logger|-> move H6
+2022-05-31 13:22:05.0233|INFO|Logger|<- move G8
+2022-05-31 13:22:05.1673|INFO|Logger|-> move I6
+2022-05-31 13:22:05.1673|INFO|Logger|<- move G9
+2022-05-31 13:22:05.1703|INFO|Logger|Killing client process...
+2022-05-31 13:22:05.6783|INFO|Logger|Win 
+2022-05-31 13:22:05.6783|INFO|Logger|----------------------
+2022-05-31 13:22:05.6783|INFO|Logger|Executing run #25
+2022-05-31 13:22:05.6783|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:22:05.8863|INFO|Logger|-> move E8
+2022-05-31 13:22:05.9613|INFO|Logger|<- move E2
+2022-05-31 13:22:06.0973|INFO|Logger|-> move E7
+2022-05-31 13:22:06.0973|INFO|Logger|<- move E3
+2022-05-31 13:22:06.2324|INFO|Logger|-> wall W7h
+2022-05-31 13:22:06.2324|INFO|Logger|<- move E4
+2022-05-31 13:22:06.3834|INFO|Logger|-> move E6
+2022-05-31 13:22:06.3834|INFO|Logger|<- move E5
+2022-05-31 13:22:06.5074|INFO|Logger|-> jump E4
+2022-05-31 13:22:06.5074|INFO|Logger|<- move E6
+2022-05-31 13:22:06.6274|INFO|Logger|-> move E3
+2022-05-31 13:22:06.6274|INFO|Logger|<- wall U1h
+2022-05-31 13:22:06.7164|INFO|Logger|-> move E2
+2022-05-31 13:22:06.7164|INFO|Logger|<- wall W1h
+2022-05-31 13:22:06.7864|INFO|Logger|-> move F2
+2022-05-31 13:22:06.7864|INFO|Logger|<- move E7
+2022-05-31 13:22:06.8664|INFO|Logger|-> wall X2h
+2022-05-31 13:22:06.8664|INFO|Logger|<- move F7
+2022-05-31 13:22:06.9304|INFO|Logger|-> move G2
+2022-05-31 13:22:06.9304|INFO|Logger|<- move G7
+2022-05-31 13:22:06.9964|INFO|Logger|-> move G1
+2022-05-31 13:22:06.9964|INFO|Logger|Killing client process...
+2022-05-31 13:22:07.4994|INFO|Logger|Loss 
+2022-05-31 13:22:07.4994|INFO|Logger|----------------------
+2022-05-31 13:22:07.4994|INFO|Logger|Executing run #26
+2022-05-31 13:22:07.4994|INFO|Logger|Chosen color for player: White
+2022-05-31 13:22:07.7304|INFO|Logger|<- move E8
+2022-05-31 13:22:07.8604|INFO|Logger|-> move E2
+2022-05-31 13:22:07.8684|INFO|Logger|<- move E7
+2022-05-31 13:22:07.9985|INFO|Logger|-> move E3
+2022-05-31 13:22:07.9985|INFO|Logger|<- move E6
+2022-05-31 13:22:08.1345|INFO|Logger|-> move E4
+2022-05-31 13:22:08.1345|INFO|Logger|<- wall U8h
+2022-05-31 13:22:08.2725|INFO|Logger|-> move E5
+2022-05-31 13:22:08.2755|INFO|Logger|<- jump E4
+2022-05-31 13:22:08.4135|INFO|Logger|-> move E6
+2022-05-31 13:22:08.4185|INFO|Logger|<- wall W8h
+2022-05-31 13:22:08.5265|INFO|Logger|-> move E7
+2022-05-31 13:22:08.5265|INFO|Logger|<- move E3
+2022-05-31 13:22:08.5975|INFO|Logger|-> move E8
+2022-05-31 13:22:08.5975|INFO|Logger|<- wall Y8h
+2022-05-31 13:22:08.6635|INFO|Logger|-> move D8
+2022-05-31 13:22:08.6655|INFO|Logger|<- wall S8h
+2022-05-31 13:22:08.7795|INFO|Logger|-> wall V5h
+2022-05-31 13:22:08.7795|INFO|Logger|<- move E2
+2022-05-31 13:22:08.8675|INFO|Logger|-> move E8
+2022-05-31 13:22:08.8675|INFO|Logger|<- move E1
+2022-05-31 13:22:08.8675|INFO|Logger|Killing client process...
+2022-05-31 13:22:09.3725|INFO|Logger|Win 
+2022-05-31 13:22:09.3725|INFO|Logger|----------------------
+2022-05-31 13:22:09.3725|INFO|Logger|Executing run #27
+2022-05-31 13:22:09.3725|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:22:09.5785|INFO|Logger|-> wall U8v
+2022-05-31 13:22:09.6846|INFO|Logger|<- move E2
+2022-05-31 13:22:09.8156|INFO|Logger|-> move E8
+2022-05-31 13:22:09.8186|INFO|Logger|<- move E3
+2022-05-31 13:22:09.9456|INFO|Logger|-> move E7
+2022-05-31 13:22:09.9456|INFO|Logger|<- wall U1h
+2022-05-31 13:22:10.0846|INFO|Logger|-> wall W7h
+2022-05-31 13:22:10.0846|INFO|Logger|<- move E4
+2022-05-31 13:22:10.2176|INFO|Logger|-> move E6
+2022-05-31 13:22:10.2176|INFO|Logger|<- wall W1h
+2022-05-31 13:22:10.3406|INFO|Logger|-> move F6
+2022-05-31 13:22:10.3406|INFO|Logger|<- move E5
+2022-05-31 13:22:10.4556|INFO|Logger|-> wall X7v
+2022-05-31 13:22:10.4686|INFO|Logger|<- move E6
+2022-05-31 13:22:10.5666|INFO|Logger|-> move G6
+2022-05-31 13:22:10.5686|INFO|Logger|<- wall Y1h
+2022-05-31 13:22:10.6596|INFO|Logger|-> wall Y6h
+2022-05-31 13:22:10.6626|INFO|Logger|<- move E7
+2022-05-31 13:22:10.7416|INFO|Logger|-> wall Z6v
+2022-05-31 13:22:10.7416|INFO|Logger|<- move D7
+2022-05-31 13:22:10.8106|INFO|Logger|-> move H6
+2022-05-31 13:22:10.8106|INFO|Logger|<- move D8
+2022-05-31 13:22:10.8846|INFO|Logger|-> move H5
+2022-05-31 13:22:10.8846|INFO|Logger|<- move D9
+2022-05-31 13:22:10.8846|INFO|Logger|Killing client process...
+2022-05-31 13:22:11.3876|INFO|Logger|Win 
+2022-05-31 13:22:11.3876|INFO|Logger|----------------------
+2022-05-31 13:22:11.3876|INFO|Logger|Executing run #28
+2022-05-31 13:22:11.3876|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:22:11.5977|INFO|Logger|-> move E8
+2022-05-31 13:22:11.6797|INFO|Logger|<- move E2
+2022-05-31 13:22:11.8087|INFO|Logger|-> move E7
+2022-05-31 13:22:11.8087|INFO|Logger|<- move E3
+2022-05-31 13:22:11.9467|INFO|Logger|-> move E6
+2022-05-31 13:22:11.9467|INFO|Logger|<- move E4
+2022-05-31 13:22:12.0877|INFO|Logger|-> move E5
+2022-05-31 13:22:12.0877|INFO|Logger|<- jump E6
+2022-05-31 13:22:12.2137|INFO|Logger|-> move E4
+2022-05-31 13:22:12.2137|INFO|Logger|<- move E7
+2022-05-31 13:22:12.3237|INFO|Logger|-> move E3
+2022-05-31 13:22:12.3237|INFO|Logger|<- move E8
+2022-05-31 13:22:12.4107|INFO|Logger|-> move E2
+2022-05-31 13:22:12.4107|INFO|Logger|<- wall U1h
+2022-05-31 13:22:12.4637|INFO|Logger|-> move E1
+2022-05-31 13:22:12.4637|INFO|Logger|Killing client process...
+2022-05-31 13:22:12.9657|INFO|Logger|Loss 
+2022-05-31 13:22:12.9657|INFO|Logger|----------------------
+2022-05-31 13:22:12.9657|INFO|Logger|Executing run #29
+2022-05-31 13:22:12.9657|INFO|Logger|Chosen color for player: White
+2022-05-31 13:22:13.2328|INFO|Logger|<- move E8
+2022-05-31 13:22:13.3878|INFO|Logger|-> wall U1v
+2022-05-31 13:22:13.4198|INFO|Logger|<- move E7
+2022-05-31 13:22:13.5658|INFO|Logger|-> move E2
+2022-05-31 13:22:13.5658|INFO|Logger|<- move E6
+2022-05-31 13:22:13.6988|INFO|Logger|-> move E3
+2022-05-31 13:22:13.7048|INFO|Logger|<- wall U8h
+2022-05-31 13:22:13.8398|INFO|Logger|-> move E4
+2022-05-31 13:22:13.8398|INFO|Logger|<- move E5
+2022-05-31 13:22:13.9948|INFO|Logger|-> jump E6
+2022-05-31 13:22:13.9948|INFO|Logger|<- move E4
+2022-05-31 13:22:14.1198|INFO|Logger|-> move E7
+2022-05-31 13:22:14.1198|INFO|Logger|<- wall W8h
+2022-05-31 13:22:14.2258|INFO|Logger|-> wall W4h
+2022-05-31 13:22:14.2258|INFO|Logger|<- move E3
+2022-05-31 13:22:14.2998|INFO|Logger|-> wall V4v
+2022-05-31 13:22:14.2998|INFO|Logger|<- wall Y8h
+2022-05-31 13:22:14.3698|INFO|Logger|-> wall V6v
+2022-05-31 13:22:14.3698|INFO|Logger|<- move E2
+2022-05-31 13:22:14.4208|INFO|Logger|-> move E8
+2022-05-31 13:22:14.4208|INFO|Logger|<- move E1
+2022-05-31 13:22:14.4208|INFO|Logger|Killing client process...
+2022-05-31 13:22:14.9299|INFO|Logger|Win 
+2022-05-31 13:22:14.9299|INFO|Logger|----------------------
+2022-05-31 13:22:14.9299|INFO|Logger|Executing run #30
+2022-05-31 13:22:14.9299|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:22:15.1079|INFO|Logger|-> move E8
+2022-05-31 13:22:15.2349|INFO|Logger|<- move E2
+2022-05-31 13:22:15.3799|INFO|Logger|-> move E7
+2022-05-31 13:22:15.3799|INFO|Logger|<- move E3
+2022-05-31 13:22:15.5209|INFO|Logger|-> wall W7h
+2022-05-31 13:22:15.5319|INFO|Logger|<- move E4
+2022-05-31 13:22:15.6599|INFO|Logger|-> move E6
+2022-05-31 13:22:15.6689|INFO|Logger|<- wall U1h
+2022-05-31 13:22:15.8229|INFO|Logger|-> wall V7v
+2022-05-31 13:22:15.8289|INFO|Logger|<- wall W1h
+2022-05-31 13:22:15.9499|INFO|Logger|-> move F6
+2022-05-31 13:22:15.9499|INFO|Logger|<- wall Y1h
+2022-05-31 13:22:16.0519|INFO|Logger|-> move G6
+2022-05-31 13:22:16.0519|INFO|Logger|<- move E5
+2022-05-31 13:22:16.1689|INFO|Logger|-> wall Y6h
+2022-05-31 13:22:16.1689|INFO|Logger|<- move E6
+2022-05-31 13:22:16.2679|INFO|Logger|-> move H6
+2022-05-31 13:22:16.2679|INFO|Logger|<- move E7
+2022-05-31 13:22:16.3649|INFO|Logger|-> move I6
+2022-05-31 13:22:16.3649|INFO|Logger|<- move F7
+2022-05-31 13:22:16.4589|INFO|Logger|-> wall Z6v
+2022-05-31 13:22:16.4589|INFO|Logger|<- move G7
+2022-05-31 13:22:16.5559|INFO|Logger|-> move I5
+2022-05-31 13:22:16.5579|INFO|Logger|<- move G8
+2022-05-31 13:22:16.6279|INFO|Logger|-> move I4
+2022-05-31 13:22:16.6279|INFO|Logger|<- move G9
+2022-05-31 13:22:16.6279|INFO|Logger|Killing client process...
+2022-05-31 13:22:17.1320|INFO|Logger|Win 
+2022-05-31 13:22:17.1320|INFO|Logger|----------------------
+2022-05-31 13:22:17.1320|INFO|Logger|Executing run #31
+2022-05-31 13:22:17.1500|INFO|Logger|Chosen color for player: White
+2022-05-31 13:22:17.4270|INFO|Logger|<- move E8
+2022-05-31 13:22:17.5550|INFO|Logger|-> move E2
+2022-05-31 13:22:17.5590|INFO|Logger|<- move E7
+2022-05-31 13:22:17.6880|INFO|Logger|-> move E3
+2022-05-31 13:22:17.6980|INFO|Logger|<- wall U8h
+2022-05-31 13:22:17.8220|INFO|Logger|-> move E4
+2022-05-31 13:22:17.8220|INFO|Logger|<- move E6
+2022-05-31 13:22:17.9480|INFO|Logger|-> wall W1h
+2022-05-31 13:22:17.9480|INFO|Logger|<- wall W8h
+2022-05-31 13:22:18.0760|INFO|Logger|-> move E5
+2022-05-31 13:22:18.0760|INFO|Logger|<- wall Y8h
+2022-05-31 13:22:18.1940|INFO|Logger|-> jump E7
+2022-05-31 13:22:18.2000|INFO|Logger|<- move E5
+2022-05-31 13:22:18.2750|INFO|Logger|-> move E8
+2022-05-31 13:22:18.2900|INFO|Logger|<- move E4
+2022-05-31 13:22:18.3590|INFO|Logger|-> move D8
+2022-05-31 13:22:18.3590|INFO|Logger|<- wall S8h
+2022-05-31 13:22:18.4701|INFO|Logger|-> move E8
+2022-05-31 13:22:18.4701|INFO|Logger|<- move E3
+2022-05-31 13:22:18.5681|INFO|Logger|-> move F8
+2022-05-31 13:22:18.5681|INFO|Logger|<- move E2
+2022-05-31 13:22:18.6501|INFO|Logger|-> move G8
+2022-05-31 13:22:18.6501|INFO|Logger|<- move F2
+2022-05-31 13:22:18.7331|INFO|Logger|-> move H8
+2022-05-31 13:22:18.7331|INFO|Logger|<- move G2
+2022-05-31 13:22:18.8151|INFO|Logger|-> wall Z5h
+2022-05-31 13:22:18.8151|INFO|Logger|<- move G1
+2022-05-31 13:22:18.8151|INFO|Logger|Killing client process...
+2022-05-31 13:22:19.3261|INFO|Logger|Win 
+2022-05-31 13:22:19.3261|INFO|Logger|----------------------
+2022-05-31 13:22:19.3261|INFO|Logger|Executing run #32
+2022-05-31 13:22:19.3361|INFO|Logger|Chosen color for player: White
+2022-05-31 13:22:19.6151|INFO|Logger|<- move E8
+2022-05-31 13:22:19.7451|INFO|Logger|-> move E2
+2022-05-31 13:22:19.7451|INFO|Logger|<- move E7
+2022-05-31 13:22:19.8831|INFO|Logger|-> wall V1v
+2022-05-31 13:22:19.9001|INFO|Logger|<- move E6
+2022-05-31 13:22:20.0621|INFO|Logger|-> move E3
+2022-05-31 13:22:20.0761|INFO|Logger|<- wall U8h
+2022-05-31 13:22:20.3182|INFO|Logger|-> move E4
+2022-05-31 13:22:20.3182|INFO|Logger|<- wall W8h
+2022-05-31 13:22:20.5042|INFO|Logger|-> move E5
+2022-05-31 13:22:20.5082|INFO|Logger|<- wall Y8h
+2022-05-31 13:22:20.6662|INFO|Logger|-> wall W2h
+2022-05-31 13:22:20.6662|INFO|Logger|<- jump E4
+2022-05-31 13:22:20.8132|INFO|Logger|-> move E6
+2022-05-31 13:22:20.8132|INFO|Logger|<- move E3
+2022-05-31 13:22:20.8992|INFO|Logger|-> wall W3h
+2022-05-31 13:22:20.8992|INFO|Logger|<- move F3
+2022-05-31 13:22:20.9792|INFO|Logger|-> move E7
+2022-05-31 13:22:20.9792|INFO|Logger|<- move G3
+2022-05-31 13:22:21.0582|INFO|Logger|-> move E8
+2022-05-31 13:22:21.0582|INFO|Logger|<- move G2
+2022-05-31 13:22:21.1252|INFO|Logger|-> wall W5h
+2022-05-31 13:22:21.1252|INFO|Logger|<- move G1
+2022-05-31 13:22:21.1252|INFO|Logger|Killing client process...
+2022-05-31 13:22:21.6302|INFO|Logger|Win 
+2022-05-31 13:22:21.6302|INFO|Logger|----------------------
+2022-05-31 13:22:21.6302|INFO|Logger|Executing run #33
+2022-05-31 13:22:21.6302|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:22:21.8442|INFO|Logger|-> move E8
+2022-05-31 13:22:21.9263|INFO|Logger|<- move E2
+2022-05-31 13:22:22.0633|INFO|Logger|-> move E7
+2022-05-31 13:22:22.0673|INFO|Logger|<- move E3
+2022-05-31 13:22:22.2043|INFO|Logger|-> wall W7h
+2022-05-31 13:22:22.2203|INFO|Logger|<- wall U1h
+2022-05-31 13:22:22.3613|INFO|Logger|-> move E6
+2022-05-31 13:22:22.3613|INFO|Logger|<- move E4
+2022-05-31 13:22:22.4963|INFO|Logger|-> move E5
+2022-05-31 13:22:22.4963|INFO|Logger|<- wall W1h
+2022-05-31 13:22:22.6323|INFO|Logger|-> move F5
+2022-05-31 13:22:22.6323|INFO|Logger|<- move E5
+2022-05-31 13:22:22.7423|INFO|Logger|-> move G5
+2022-05-31 13:22:22.7423|INFO|Logger|<- wall Y1h
+2022-05-31 13:22:22.8513|INFO|Logger|-> wall Y5h
+2022-05-31 13:22:22.8513|INFO|Logger|<- move E6
+2022-05-31 13:22:22.9713|INFO|Logger|-> move H5
+2022-05-31 13:22:22.9713|INFO|Logger|<- move E7
+2022-05-31 13:22:23.0673|INFO|Logger|-> move I5
+2022-05-31 13:22:23.0673|INFO|Logger|<- move F7
+2022-05-31 13:22:23.1613|INFO|Logger|-> wall Z5v
+2022-05-31 13:22:23.1613|INFO|Logger|<- move G7
+2022-05-31 13:22:23.2563|INFO|Logger|-> move I4
+2022-05-31 13:22:23.2563|INFO|Logger|<- move G8
+2022-05-31 13:22:23.3593|INFO|Logger|-> move I3
+2022-05-31 13:22:23.3603|INFO|Logger|<- move G9
+2022-05-31 13:22:23.3603|INFO|Logger|Killing client process...
+2022-05-31 13:22:23.8634|INFO|Logger|Win 
+2022-05-31 13:22:23.8634|INFO|Logger|----------------------
+2022-05-31 13:22:23.8634|INFO|Logger|Executing run #34
+2022-05-31 13:22:23.8634|INFO|Logger|Chosen color for player: White
+2022-05-31 13:22:24.1644|INFO|Logger|<- move E8
+2022-05-31 13:22:24.3044|INFO|Logger|-> move E2
+2022-05-31 13:22:24.3044|INFO|Logger|<- move E7
+2022-05-31 13:22:24.4494|INFO|Logger|-> move E3
+2022-05-31 13:22:24.4534|INFO|Logger|<- move E6
+2022-05-31 13:22:24.5914|INFO|Logger|-> move E4
+2022-05-31 13:22:24.5974|INFO|Logger|<- move E5
+2022-05-31 13:22:24.7314|INFO|Logger|-> jump E6
+2022-05-31 13:22:24.7374|INFO|Logger|<- wall U8h
+2022-05-31 13:22:24.8504|INFO|Logger|-> move E7
+2022-05-31 13:22:24.8594|INFO|Logger|<- wall W8h
+2022-05-31 13:22:24.9594|INFO|Logger|-> move E8
+2022-05-31 13:22:24.9594|INFO|Logger|<- wall Y8h
+2022-05-31 13:22:25.0374|INFO|Logger|-> move D8
+2022-05-31 13:22:25.0374|INFO|Logger|<- wall S8h
+2022-05-31 13:22:25.1534|INFO|Logger|-> move E8
+2022-05-31 13:22:25.1534|INFO|Logger|<- move E4
+2022-05-31 13:22:25.2704|INFO|Logger|-> move F8
+2022-05-31 13:22:25.2704|INFO|Logger|<- move E3
+2022-05-31 13:22:25.3864|INFO|Logger|-> move G8
+2022-05-31 13:22:25.3884|INFO|Logger|<- move E2
+2022-05-31 13:22:25.4765|INFO|Logger|-> move H8
+2022-05-31 13:22:25.4765|INFO|Logger|<- move E1
+2022-05-31 13:22:25.4765|INFO|Logger|Killing client process...
+2022-05-31 13:22:25.9805|INFO|Logger|Win 
+2022-05-31 13:22:25.9805|INFO|Logger|----------------------
+2022-05-31 13:22:25.9805|INFO|Logger|Executing run #35
+2022-05-31 13:22:25.9805|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:22:26.1545|INFO|Logger|-> move E8
+2022-05-31 13:22:26.2955|INFO|Logger|<- move E2
+2022-05-31 13:22:26.4365|INFO|Logger|-> move E7
+2022-05-31 13:22:26.4365|INFO|Logger|<- move E3
+2022-05-31 13:22:26.5725|INFO|Logger|-> move E6
+2022-05-31 13:22:26.5765|INFO|Logger|<- move E4
+2022-05-31 13:22:26.7095|INFO|Logger|-> move E5
+2022-05-31 13:22:26.7095|INFO|Logger|<- jump E6
+2022-05-31 13:22:26.8275|INFO|Logger|-> move E4
+2022-05-31 13:22:26.8275|INFO|Logger|<- move E7
+2022-05-31 13:22:26.9295|INFO|Logger|-> move E3
+2022-05-31 13:22:26.9295|INFO|Logger|<- move E8
+2022-05-31 13:22:26.9945|INFO|Logger|-> move E2
+2022-05-31 13:22:26.9945|INFO|Logger|<- move E9
+2022-05-31 13:22:26.9945|INFO|Logger|Killing client process...
+2022-05-31 13:22:27.4976|INFO|Logger|Win 
+2022-05-31 13:22:27.4976|INFO|Logger|----------------------
+2022-05-31 13:22:27.4976|INFO|Logger|Executing run #36
+2022-05-31 13:22:27.4976|INFO|Logger|Chosen color for player: White
+2022-05-31 13:22:27.7536|INFO|Logger|<- move E8
+2022-05-31 13:22:27.9276|INFO|Logger|-> move E2
+2022-05-31 13:22:27.9326|INFO|Logger|<- move E7
+2022-05-31 13:22:28.0866|INFO|Logger|-> move E3
+2022-05-31 13:22:28.0866|INFO|Logger|<- move E6
+2022-05-31 13:22:28.2536|INFO|Logger|-> move E4
+2022-05-31 13:22:28.2636|INFO|Logger|<- wall U8h
+2022-05-31 13:22:28.4286|INFO|Logger|-> wall W1h
+2022-05-31 13:22:28.4406|INFO|Logger|<- wall W8h
+2022-05-31 13:22:28.5776|INFO|Logger|-> wall V1v
+2022-05-31 13:22:28.5776|INFO|Logger|<- wall Y8h
+2022-05-31 13:22:28.6946|INFO|Logger|-> move E5
+2022-05-31 13:22:28.6946|INFO|Logger|<- jump E4
+2022-05-31 13:22:28.7956|INFO|Logger|-> wall W2h
+2022-05-31 13:22:28.7956|INFO|Logger|<- move E3
+2022-05-31 13:22:28.8796|INFO|Logger|-> move E6
+2022-05-31 13:22:28.8796|INFO|Logger|<- move F3
+2022-05-31 13:22:28.9517|INFO|Logger|-> move E7
+2022-05-31 13:22:28.9517|INFO|Logger|<- move G3
+2022-05-31 13:22:29.0157|INFO|Logger|-> move E8
+2022-05-31 13:22:29.0157|INFO|Logger|<- move G2
+2022-05-31 13:22:29.0757|INFO|Logger|-> move D8
+2022-05-31 13:22:29.0757|INFO|Logger|<- move G1
+2022-05-31 13:22:29.0757|INFO|Logger|Killing client process...
+2022-05-31 13:22:29.5797|INFO|Logger|Win 
+2022-05-31 13:22:29.5797|INFO|Logger|----------------------
+2022-05-31 13:22:29.5797|INFO|Logger|Executing run #37
+2022-05-31 13:22:29.5847|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:22:29.7817|INFO|Logger|-> move E8
+2022-05-31 13:22:29.8607|INFO|Logger|<- move E2
+2022-05-31 13:22:29.9887|INFO|Logger|-> move E7
+2022-05-31 13:22:29.9937|INFO|Logger|<- move E3
+2022-05-31 13:22:30.1217|INFO|Logger|-> move E6
+2022-05-31 13:22:30.1217|INFO|Logger|<- wall U1h
+2022-05-31 13:22:30.2657|INFO|Logger|-> move E5
+2022-05-31 13:22:30.2657|INFO|Logger|<- move E4
+2022-05-31 13:22:30.4147|INFO|Logger|-> jump E3
+2022-05-31 13:22:30.4147|INFO|Logger|<- wall W1h
+2022-05-31 13:22:30.5257|INFO|Logger|-> move F3
+2022-05-31 13:22:30.5257|INFO|Logger|<- move E5
+2022-05-31 13:22:30.6287|INFO|Logger|-> move G3
+2022-05-31 13:22:30.6307|INFO|Logger|<- move E6
+2022-05-31 13:22:30.7278|INFO|Logger|-> move G2
+2022-05-31 13:22:30.7278|INFO|Logger|<- move E7
+2022-05-31 13:22:30.8038|INFO|Logger|-> wall Y2h
+2022-05-31 13:22:30.8038|INFO|Logger|<- move E8
+2022-05-31 13:22:30.8578|INFO|Logger|-> move G1
+2022-05-31 13:22:30.8578|INFO|Logger|Killing client process...
+2022-05-31 13:22:31.3698|INFO|Logger|Loss 
+2022-05-31 13:22:31.3698|INFO|Logger|----------------------
+2022-05-31 13:22:31.3698|INFO|Logger|Executing run #38
+2022-05-31 13:22:31.3698|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:22:31.5508|INFO|Logger|-> wall U8v
+2022-05-31 13:22:31.6828|INFO|Logger|<- move E2
+2022-05-31 13:22:31.8178|INFO|Logger|-> move E8
+2022-05-31 13:22:31.8178|INFO|Logger|<- move E3
+2022-05-31 13:22:31.9788|INFO|Logger|-> wall V8v
+2022-05-31 13:22:31.9938|INFO|Logger|<- wall U1h
+2022-05-31 13:22:32.1258|INFO|Logger|-> move E7
+2022-05-31 13:22:32.1278|INFO|Logger|<- move E4
+2022-05-31 13:22:32.2508|INFO|Logger|-> wall W7h
+2022-05-31 13:22:32.2548|INFO|Logger|<- move E5
+2022-05-31 13:22:32.3828|INFO|Logger|-> wall V6h
+2022-05-31 13:22:32.3918|INFO|Logger|<- move E6
+2022-05-31 13:22:32.5049|INFO|Logger|-> move F7
+2022-05-31 13:22:32.5049|INFO|Logger|<- move F6
+2022-05-31 13:22:32.6469|INFO|Logger|-> wall Y6h
+2022-05-31 13:22:32.6469|INFO|Logger|<- jump G7
+2022-05-31 13:22:32.7679|INFO|Logger|-> move F6
+2022-05-31 13:22:32.7679|INFO|Logger|<- move G8
+2022-05-31 13:22:32.8669|INFO|Logger|-> wall X7v
+2022-05-31 13:22:32.8669|INFO|Logger|<- move G9
+2022-05-31 13:22:32.8669|INFO|Logger|Killing client process...
+2022-05-31 13:22:33.3809|INFO|Logger|Win 
+2022-05-31 13:22:33.3809|INFO|Logger|----------------------
+2022-05-31 13:22:33.3809|INFO|Logger|Executing run #39
+2022-05-31 13:22:33.3809|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:22:33.5619|INFO|Logger|-> move E8
+2022-05-31 13:22:33.6859|INFO|Logger|<- move E2
+2022-05-31 13:22:33.8099|INFO|Logger|-> move E7
+2022-05-31 13:22:33.8179|INFO|Logger|<- move E3
+2022-05-31 13:22:33.9409|INFO|Logger|-> wall W7h
+2022-05-31 13:22:33.9529|INFO|Logger|<- move E4
+2022-05-31 13:22:34.0979|INFO|Logger|-> move E6
+2022-05-31 13:22:34.1109|INFO|Logger|<- wall U1h
+2022-05-31 13:22:34.2510|INFO|Logger|-> move E5
+2022-05-31 13:22:34.2510|INFO|Logger|<- jump E6
+2022-05-31 13:22:34.3940|INFO|Logger|-> move E4
+2022-05-31 13:22:34.4190|INFO|Logger|<- move E7
+2022-05-31 13:22:34.5300|INFO|Logger|-> wall W4h
+2022-05-31 13:22:34.5300|INFO|Logger|<- wall W1h
+2022-05-31 13:22:34.6150|INFO|Logger|-> move F4
+2022-05-31 13:22:34.6150|INFO|Logger|<- wall Y1h
+2022-05-31 13:22:34.7040|INFO|Logger|-> wall Y3h
+2022-05-31 13:22:34.7040|INFO|Logger|<- move F7
+2022-05-31 13:22:34.7830|INFO|Logger|-> move G4
+2022-05-31 13:22:34.7830|INFO|Logger|<- move G7
+2022-05-31 13:22:34.8650|INFO|Logger|-> move H4
+2022-05-31 13:22:34.8650|INFO|Logger|<- move G8
+2022-05-31 13:22:34.9390|INFO|Logger|-> move I4
+2022-05-31 13:22:34.9390|INFO|Logger|<- move G9
+2022-05-31 13:22:34.9390|INFO|Logger|Killing client process...
+2022-05-31 13:22:35.4430|INFO|Logger|Win 
+2022-05-31 13:22:35.4430|INFO|Logger|----------------------
+2022-05-31 13:22:35.4430|INFO|Logger|Executing run #40
+2022-05-31 13:22:35.4430|INFO|Logger|Chosen color for player: White
+2022-05-31 13:22:35.6690|INFO|Logger|<- move E8
+2022-05-31 13:22:35.7910|INFO|Logger|-> wall U1v
+2022-05-31 13:22:35.8100|INFO|Logger|<- move E7
+2022-05-31 13:22:35.9471|INFO|Logger|-> move E2
+2022-05-31 13:22:35.9511|INFO|Logger|<- move E6
+2022-05-31 13:22:36.0801|INFO|Logger|-> wall V1v
+2022-05-31 13:22:36.0801|INFO|Logger|<- move E5
+2022-05-31 13:22:36.2171|INFO|Logger|-> move E3
+2022-05-31 13:22:36.2171|INFO|Logger|<- wall U8h
+2022-05-31 13:22:36.3521|INFO|Logger|-> move E4
+2022-05-31 13:22:36.3551|INFO|Logger|<- wall W8h
+2022-05-31 13:22:36.4771|INFO|Logger|-> jump E6
+2022-05-31 13:22:36.4811|INFO|Logger|<- wall Y8h
+2022-05-31 13:22:36.5801|INFO|Logger|-> move E7
+2022-05-31 13:22:36.5801|INFO|Logger|<- move E4
+2022-05-31 13:22:36.6561|INFO|Logger|-> move E8
+2022-05-31 13:22:36.6561|INFO|Logger|<- move E3
+2022-05-31 13:22:36.7141|INFO|Logger|-> wall W5h
+2022-05-31 13:22:36.7141|INFO|Logger|<- move E2
+2022-05-31 13:22:36.7731|INFO|Logger|-> move D8
+2022-05-31 13:22:36.7731|INFO|Logger|<- wall S8h
+2022-05-31 13:22:36.8721|INFO|Logger|-> wall U5v
+2022-05-31 13:22:36.8721|INFO|Logger|<- move E1
+2022-05-31 13:22:36.8721|INFO|Logger|Killing client process...
+2022-05-31 13:22:37.3771|INFO|Logger|Win 
+2022-05-31 13:22:37.3771|INFO|Logger|----------------------
+2022-05-31 13:22:37.3771|INFO|Logger|Executing run #41
+2022-05-31 13:22:37.3771|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:22:37.5821|INFO|Logger|-> move E8
+2022-05-31 13:22:37.6682|INFO|Logger|<- move E2
+2022-05-31 13:22:37.7962|INFO|Logger|-> move E7
+2022-05-31 13:22:37.8052|INFO|Logger|<- move E3
+2022-05-31 13:22:37.9302|INFO|Logger|-> move E6
+2022-05-31 13:22:37.9302|INFO|Logger|<- move E4
+2022-05-31 13:22:38.0582|INFO|Logger|-> move E5
+2022-05-31 13:22:38.0582|INFO|Logger|<- jump E6
+2022-05-31 13:22:38.1712|INFO|Logger|-> move E4
+2022-05-31 13:22:38.1712|INFO|Logger|<- wall U1h
+2022-05-31 13:22:38.2912|INFO|Logger|-> wall W4h
+2022-05-31 13:22:38.3062|INFO|Logger|<- wall W1h
+2022-05-31 13:22:38.4112|INFO|Logger|-> move F4
+2022-05-31 13:22:38.4152|INFO|Logger|<- wall Y1h
+2022-05-31 13:22:38.5322|INFO|Logger|-> wall Y3h
+2022-05-31 13:22:38.5322|INFO|Logger|<- move E7
+2022-05-31 13:22:38.6152|INFO|Logger|-> move G4
+2022-05-31 13:22:38.6172|INFO|Logger|<- move E8
+2022-05-31 13:22:38.6812|INFO|Logger|-> move H4
+2022-05-31 13:22:38.6812|INFO|Logger|<- move E9
+2022-05-31 13:22:38.6812|INFO|Logger|Killing client process...
+2022-05-31 13:22:39.1842|INFO|Logger|Win 
+2022-05-31 13:22:39.1842|INFO|Logger|----------------------
+2022-05-31 13:22:39.1842|INFO|Logger|Executing run #42
+2022-05-31 13:22:39.1952|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:22:39.3922|INFO|Logger|-> wall U8v
+2022-05-31 13:22:39.5543|INFO|Logger|<- move E2
+2022-05-31 13:22:39.6933|INFO|Logger|-> wall X8v
+2022-05-31 13:22:39.6933|INFO|Logger|<- move E3
+2022-05-31 13:22:39.8193|INFO|Logger|-> wall W6h
+2022-05-31 13:22:39.8193|INFO|Logger|<- move E4
+2022-05-31 13:22:39.9523|INFO|Logger|-> move E8
+2022-05-31 13:22:39.9523|INFO|Logger|<- move E5
+2022-05-31 13:22:40.0713|INFO|Logger|-> move E7
+2022-05-31 13:22:40.0713|INFO|Logger|<- move E6
+2022-05-31 13:22:40.1833|INFO|Logger|-> move D7
+2022-05-31 13:22:40.1833|INFO|Logger|<- move F6
+2022-05-31 13:22:40.3143|INFO|Logger|-> wall V7h
+2022-05-31 13:22:40.3203|INFO|Logger|<- move G6
+2022-05-31 13:22:40.4263|INFO|Logger|-> move D6
+2022-05-31 13:22:40.4263|INFO|Logger|<- move G7
+2022-05-31 13:22:40.5373|INFO|Logger|-> move D5
+2022-05-31 13:22:40.5373|INFO|Logger|<- move G8
+2022-05-31 13:22:40.6353|INFO|Logger|-> move D4
+2022-05-31 13:22:40.6353|INFO|Logger|<- move G9
+2022-05-31 13:22:40.6353|INFO|Logger|Killing client process...
+2022-05-31 13:22:41.1393|INFO|Logger|Win 
+2022-05-31 13:22:41.1393|INFO|Logger|----------------------
+2022-05-31 13:22:41.1393|INFO|Logger|Executing run #43
+2022-05-31 13:22:41.1463|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:22:41.3104|INFO|Logger|-> move E8
+2022-05-31 13:22:41.4334|INFO|Logger|<- move E2
+2022-05-31 13:22:41.5794|INFO|Logger|-> move E7
+2022-05-31 13:22:41.5824|INFO|Logger|<- move E3
+2022-05-31 13:22:41.7174|INFO|Logger|-> move E6
+2022-05-31 13:22:41.7254|INFO|Logger|<- move E4
+2022-05-31 13:22:41.8534|INFO|Logger|-> wall W6h
+2022-05-31 13:22:41.8674|INFO|Logger|<- wall U1h
+2022-05-31 13:22:41.9854|INFO|Logger|-> move E5
+2022-05-31 13:22:41.9874|INFO|Logger|<- jump E6
+2022-05-31 13:22:42.0994|INFO|Logger|-> move E4
+2022-05-31 13:22:42.0994|INFO|Logger|<- move F6
+2022-05-31 13:22:42.2104|INFO|Logger|-> move E3
+2022-05-31 13:22:42.2104|INFO|Logger|<- move G6
+2022-05-31 13:22:42.3104|INFO|Logger|-> wall W3h
+2022-05-31 13:22:42.3154|INFO|Logger|<- wall W1h
+2022-05-31 13:22:42.4034|INFO|Logger|-> wall V2h
+2022-05-31 13:22:42.4034|INFO|Logger|<- move G7
+2022-05-31 13:22:42.4814|INFO|Logger|-> move F3
+2022-05-31 13:22:42.4814|INFO|Logger|<- move G8
+2022-05-31 13:22:42.5624|INFO|Logger|-> wall Y2h
+2022-05-31 13:22:42.5644|INFO|Logger|<- wall Y1h
+2022-05-31 13:22:42.6204|INFO|Logger|-> move G3
+2022-05-31 13:22:42.6204|INFO|Logger|<- move G9
+2022-05-31 13:22:42.6204|INFO|Logger|Killing client process...
+2022-05-31 13:22:43.1295|INFO|Logger|Win 
+2022-05-31 13:22:43.1295|INFO|Logger|----------------------
+2022-05-31 13:22:43.1295|INFO|Logger|Executing run #44
+2022-05-31 13:22:43.1295|INFO|Logger|Chosen color for player: White
+2022-05-31 13:22:43.4055|INFO|Logger|<- move E8
+2022-05-31 13:22:43.5375|INFO|Logger|-> wall U1v
+2022-05-31 13:22:43.5485|INFO|Logger|<- move E7
+2022-05-31 13:22:43.6975|INFO|Logger|-> move E2
+2022-05-31 13:22:43.6975|INFO|Logger|<- move E6
+2022-05-31 13:22:43.8325|INFO|Logger|-> move E3
+2022-05-31 13:22:43.8465|INFO|Logger|<- wall U8h
+2022-05-31 13:22:43.9685|INFO|Logger|-> move E4
+2022-05-31 13:22:43.9685|INFO|Logger|<- wall W8h
+2022-05-31 13:22:44.0885|INFO|Logger|-> move E5
+2022-05-31 13:22:44.0885|INFO|Logger|<- wall Y8h
+2022-05-31 13:22:44.1945|INFO|Logger|-> wall W2h
+2022-05-31 13:22:44.1945|INFO|Logger|<- jump E4
+2022-05-31 13:22:44.3105|INFO|Logger|-> wall V2v
+2022-05-31 13:22:44.3105|INFO|Logger|<- move E3
+2022-05-31 13:22:44.4095|INFO|Logger|-> move E6
+2022-05-31 13:22:44.4095|INFO|Logger|<- move F3
+2022-05-31 13:22:44.5005|INFO|Logger|-> wall W3h
+2022-05-31 13:22:44.5005|INFO|Logger|<- move G3
+2022-05-31 13:22:44.5835|INFO|Logger|-> move E7
+2022-05-31 13:22:44.5835|INFO|Logger|<- move G2
+2022-05-31 13:22:44.6556|INFO|Logger|-> wall W4h
+2022-05-31 13:22:44.6556|INFO|Logger|<- move G1
+2022-05-31 13:22:44.6556|INFO|Logger|Killing client process...
+2022-05-31 13:22:45.1606|INFO|Logger|Win 
+2022-05-31 13:22:45.1606|INFO|Logger|----------------------
+2022-05-31 13:22:45.1606|INFO|Logger|Executing run #45
+2022-05-31 13:22:45.1606|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:22:45.3356|INFO|Logger|-> move E8
+2022-05-31 13:22:45.4386|INFO|Logger|<- move E2
+2022-05-31 13:22:45.5826|INFO|Logger|-> move E7
+2022-05-31 13:22:45.5826|INFO|Logger|<- move E3
+2022-05-31 13:22:45.7146|INFO|Logger|-> wall W7h
+2022-05-31 13:22:45.7146|INFO|Logger|<- wall U1h
+2022-05-31 13:22:45.8406|INFO|Logger|-> move E6
+2022-05-31 13:22:45.8406|INFO|Logger|<- wall W1h
+2022-05-31 13:22:45.9706|INFO|Logger|-> wall V7v
+2022-05-31 13:22:45.9706|INFO|Logger|<- move E4
+2022-05-31 13:22:46.0916|INFO|Logger|-> move F6
+2022-05-31 13:22:46.0916|INFO|Logger|<- move E5
+2022-05-31 13:22:46.2026|INFO|Logger|-> move G6
+2022-05-31 13:22:46.2026|INFO|Logger|<- wall Y1h
+2022-05-31 13:22:46.3186|INFO|Logger|-> move H6
+2022-05-31 13:22:46.3186|INFO|Logger|<- move E6
+2022-05-31 13:22:46.4247|INFO|Logger|-> move I6
+2022-05-31 13:22:46.4247|INFO|Logger|<- move E7
+2022-05-31 13:22:46.5307|INFO|Logger|-> wall Z6v
+2022-05-31 13:22:46.5307|INFO|Logger|<- move F7
+2022-05-31 13:22:46.6277|INFO|Logger|-> move I5
+2022-05-31 13:22:46.6277|INFO|Logger|<- move G7
+2022-05-31 13:22:46.7127|INFO|Logger|-> move I4
+2022-05-31 13:22:46.7137|INFO|Logger|<- move G8
+2022-05-31 13:22:46.8097|INFO|Logger|-> wall Z4v
+2022-05-31 13:22:46.8097|INFO|Logger|<- move G9
+2022-05-31 13:22:46.8097|INFO|Logger|Killing client process...
+2022-05-31 13:22:47.3157|INFO|Logger|Win 
+2022-05-31 13:22:47.3157|INFO|Logger|----------------------
+2022-05-31 13:22:47.3157|INFO|Logger|Executing run #46
+2022-05-31 13:22:47.3157|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:22:47.4877|INFO|Logger|-> wall U8v
+2022-05-31 13:22:47.6597|INFO|Logger|<- move E2
+2022-05-31 13:22:47.7847|INFO|Logger|-> move E8
+2022-05-31 13:22:47.7847|INFO|Logger|<- move E3
+2022-05-31 13:22:47.9137|INFO|Logger|-> move E7
+2022-05-31 13:22:47.9207|INFO|Logger|<- move E4
+2022-05-31 13:22:48.0447|INFO|Logger|-> move E6
+2022-05-31 13:22:48.0557|INFO|Logger|<- wall U1h
+2022-05-31 13:22:48.1788|INFO|Logger|-> move E5
+2022-05-31 13:22:48.1818|INFO|Logger|<- wall W1h
+2022-05-31 13:22:48.3018|INFO|Logger|-> move F5
+2022-05-31 13:22:48.3058|INFO|Logger|<- wall Y1h
+2022-05-31 13:22:48.4188|INFO|Logger|-> move G5
+2022-05-31 13:22:48.4188|INFO|Logger|<- move E5
+2022-05-31 13:22:48.5268|INFO|Logger|-> wall Y5h
+2022-05-31 13:22:48.5268|INFO|Logger|<- move E6
+2022-05-31 13:22:48.6638|INFO|Logger|-> move H5
+2022-05-31 13:22:48.6638|INFO|Logger|<- move E7
+2022-05-31 13:22:48.7778|INFO|Logger|-> wall Z4v
+2022-05-31 13:22:48.7778|INFO|Logger|<- move E8
+2022-05-31 13:22:48.8648|INFO|Logger|-> move H4
+2022-05-31 13:22:48.8658|INFO|Logger|<- move E9
+2022-05-31 13:22:48.8658|INFO|Logger|Killing client process...
+2022-05-31 13:22:49.3698|INFO|Logger|Win 
+2022-05-31 13:22:49.3698|INFO|Logger|----------------------
+2022-05-31 13:22:49.3698|INFO|Logger|Executing run #47
+2022-05-31 13:22:49.3698|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:22:49.5758|INFO|Logger|-> move E8
+2022-05-31 13:22:49.7148|INFO|Logger|<- move E2
+2022-05-31 13:22:49.8418|INFO|Logger|-> wall V8v
+2022-05-31 13:22:49.8538|INFO|Logger|<- move E3
+2022-05-31 13:22:49.9829|INFO|Logger|-> move E7
+2022-05-31 13:22:49.9899|INFO|Logger|<- wall U1h
+2022-05-31 13:22:50.1129|INFO|Logger|-> wall W7h
+2022-05-31 13:22:50.1219|INFO|Logger|<- wall W1h
+2022-05-31 13:22:50.2419|INFO|Logger|-> move F7
+2022-05-31 13:22:50.2419|INFO|Logger|<- move E4
+2022-05-31 13:22:50.3849|INFO|Logger|-> move G7
+2022-05-31 13:22:50.3849|INFO|Logger|<- wall Y1h
+2022-05-31 13:22:50.4979|INFO|Logger|-> wall Y7h
+2022-05-31 13:22:50.4979|INFO|Logger|<- move E5
+2022-05-31 13:22:50.6059|INFO|Logger|-> wall Z7v
+2022-05-31 13:22:50.6059|INFO|Logger|<- move E6
+2022-05-31 13:22:50.6949|INFO|Logger|-> move H7
+2022-05-31 13:22:50.6949|INFO|Logger|<- move E7
+2022-05-31 13:22:50.7759|INFO|Logger|-> wall Z5v
+2022-05-31 13:22:50.7759|INFO|Logger|<- move F7
+2022-05-31 13:22:50.8489|INFO|Logger|-> move H6
+2022-05-31 13:22:50.8489|INFO|Logger|<- move G7
+2022-05-31 13:22:50.9269|INFO|Logger|-> move H5
+2022-05-31 13:22:50.9269|INFO|Logger|<- move F7
+2022-05-31 13:22:51.0119|INFO|Logger|-> wall Z3v
+2022-05-31 13:22:51.0119|INFO|Logger|<- move G7
+2022-05-31 13:22:51.0869|INFO|Logger|-> move H4
+2022-05-31 13:22:51.0869|INFO|Logger|<- move F7
+2022-05-31 13:22:51.1769|INFO|Logger|-> move H3
+2022-05-31 13:22:51.1769|INFO|Logger|<- move G7
+2022-05-31 13:22:51.2569|INFO|Logger|-> wall Z1v
+2022-05-31 13:22:51.2569|INFO|Logger|<- move F7
+2022-05-31 13:22:51.3079|INFO|Logger|-> move H2
+2022-05-31 13:22:51.3079|INFO|Logger|<- move G7
+2022-05-31 13:22:51.3569|INFO|Logger|-> move G2
+2022-05-31 13:22:51.3569|INFO|Logger|<- move F7
+2022-05-31 13:22:51.4019|INFO|Logger|-> move F2
+2022-05-31 13:22:51.4019|INFO|Logger|<- move G7
+2022-05-31 13:22:51.4459|INFO|Logger|-> move E2
+2022-05-31 13:22:51.4459|INFO|Logger|<- move F7
+2022-05-31 13:22:51.4899|INFO|Logger|-> move D2
+2022-05-31 13:22:51.4899|INFO|Logger|<- move G7
+2022-05-31 13:22:51.5299|INFO|Logger|-> move C2
+2022-05-31 13:22:51.5299|INFO|Logger|<- move F7
+2022-05-31 13:22:51.5629|INFO|Logger|-> move B2
+2022-05-31 13:22:51.5649|INFO|Logger|<- move G7
+2022-05-31 13:22:51.5999|INFO|Logger|-> wall T2h
+2022-05-31 13:22:51.5999|INFO|Logger|<- move F7
+2022-05-31 13:22:51.6369|INFO|Logger|-> move B1
+2022-05-31 13:22:51.6369|INFO|Logger|Killing client process...
+2022-05-31 13:22:52.1400|INFO|Logger|Loss 
+2022-05-31 13:22:52.1400|INFO|Logger|----------------------
+2022-05-31 13:22:52.1420|INFO|Logger|Executing run #48
+2022-05-31 13:22:52.1420|INFO|Logger|Chosen color for player: White
+2022-05-31 13:22:52.4040|INFO|Logger|<- move E8
+2022-05-31 13:22:52.5440|INFO|Logger|-> move E2
+2022-05-31 13:22:52.5490|INFO|Logger|<- move E7
+2022-05-31 13:22:52.6860|INFO|Logger|-> move E3
+2022-05-31 13:22:52.6930|INFO|Logger|<- wall U8h
+2022-05-31 13:22:52.8310|INFO|Logger|-> move E4
+2022-05-31 13:22:52.8310|INFO|Logger|<- move E6
+2022-05-31 13:22:52.9600|INFO|Logger|-> move E5
+2022-05-31 13:22:52.9600|INFO|Logger|<- jump E4
+2022-05-31 13:22:53.0830|INFO|Logger|-> move E6
+2022-05-31 13:22:53.0830|INFO|Logger|<- move E3
+2022-05-31 13:22:53.1850|INFO|Logger|-> move E7
+2022-05-31 13:22:53.1870|INFO|Logger|<- move E2
+2022-05-31 13:22:53.2510|INFO|Logger|-> wall W4h
+2022-05-31 13:22:53.2510|INFO|Logger|<- wall W8h
+2022-05-31 13:22:53.3300|INFO|Logger|-> move E8
+2022-05-31 13:22:53.3300|INFO|Logger|<- wall Y8h
+2022-05-31 13:22:53.3740|INFO|Logger|-> move D8
+2022-05-31 13:22:53.3740|INFO|Logger|<- wall S8h
+2022-05-31 13:22:53.4591|INFO|Logger|-> move E8
+2022-05-31 13:22:53.4591|INFO|Logger|<- move E1
+2022-05-31 13:22:53.4591|INFO|Logger|Killing client process...
+2022-05-31 13:22:53.9631|INFO|Logger|Win 
+2022-05-31 13:22:53.9631|INFO|Logger|----------------------
+2022-05-31 13:22:53.9631|INFO|Logger|Executing run #49
+2022-05-31 13:22:53.9691|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:22:54.1301|INFO|Logger|-> move E8
+2022-05-31 13:22:54.2481|INFO|Logger|<- move E2
+2022-05-31 13:22:54.3941|INFO|Logger|-> move E7
+2022-05-31 13:22:54.4041|INFO|Logger|<- move E3
+2022-05-31 13:22:54.5341|INFO|Logger|-> move E6
+2022-05-31 13:22:54.5341|INFO|Logger|<- wall U1h
+2022-05-31 13:22:54.6781|INFO|Logger|-> move E5
+2022-05-31 13:22:54.6781|INFO|Logger|<- move E4
+2022-05-31 13:22:54.8061|INFO|Logger|-> jump E3
+2022-05-31 13:22:54.8061|INFO|Logger|<- move E5
+2022-05-31 13:22:54.9061|INFO|Logger|-> move E2
+2022-05-31 13:22:54.9061|INFO|Logger|<- move E6
+2022-05-31 13:22:54.9891|INFO|Logger|-> move E1
+2022-05-31 13:22:54.9891|INFO|Logger|Killing client process...
+2022-05-31 13:22:55.4922|INFO|Logger|Loss 
+2022-05-31 13:22:55.4922|INFO|Logger|----------------------
+2022-05-31 13:22:55.4922|INFO|Logger|Executing run #50
+2022-05-31 13:22:55.4922|INFO|Logger|Chosen color for player: White
+2022-05-31 13:22:55.7252|INFO|Logger|<- move E8
+2022-05-31 13:22:55.8492|INFO|Logger|-> wall U1v
+2022-05-31 13:22:55.8592|INFO|Logger|<- move E7
+2022-05-31 13:22:55.9802|INFO|Logger|-> move E2
+2022-05-31 13:22:55.9802|INFO|Logger|<- move E6
+2022-05-31 13:22:56.1062|INFO|Logger|-> wall V1v
+2022-05-31 13:22:56.1062|INFO|Logger|<- move E5
+2022-05-31 13:22:56.2332|INFO|Logger|-> move E3
+2022-05-31 13:22:56.2332|INFO|Logger|<- move E4
+2022-05-31 13:22:56.3602|INFO|Logger|-> jump E5
+2022-05-31 13:22:56.3602|INFO|Logger|<- move E3
+2022-05-31 13:22:56.4892|INFO|Logger|-> move E6
+2022-05-31 13:22:56.4892|INFO|Logger|<- move E2
+2022-05-31 13:22:56.6182|INFO|Logger|-> move E7
+2022-05-31 13:22:56.6202|INFO|Logger|<- move E1
+2022-05-31 13:22:56.6202|INFO|Logger|Killing client process...
+2022-05-31 13:22:57.1233|INFO|Logger|Win 
+2022-05-31 13:22:57.1233|INFO|Logger|----------------------
+2022-05-31 13:22:57.1233|INFO|Logger|Executing run #51
+2022-05-31 13:22:57.1233|INFO|Logger|Chosen color for player: White
+2022-05-31 13:22:57.5513|INFO|Logger|<- move E8
+2022-05-31 13:22:57.8993|INFO|Logger|-> move E2
+2022-05-31 13:22:57.8993|INFO|Logger|<- move E7
+2022-05-31 13:22:58.0653|INFO|Logger|-> wall V1v
+2022-05-31 13:22:58.0983|INFO|Logger|<- move E6
+2022-05-31 13:22:58.2423|INFO|Logger|-> move E3
+2022-05-31 13:22:58.2423|INFO|Logger|<- move E5
+2022-05-31 13:22:58.3883|INFO|Logger|-> move E4
+2022-05-31 13:22:58.3883|INFO|Logger|<- wall U8h
+2022-05-31 13:22:58.5193|INFO|Logger|-> jump E6
+2022-05-31 13:22:58.5193|INFO|Logger|<- move E4
+2022-05-31 13:22:58.6394|INFO|Logger|-> move E7
+2022-05-31 13:22:58.6394|INFO|Logger|<- move E3
+2022-05-31 13:22:58.7244|INFO|Logger|-> move E8
+2022-05-31 13:22:58.7264|INFO|Logger|<- move E2
+2022-05-31 13:22:58.7994|INFO|Logger|-> move E9
+2022-05-31 13:22:58.7994|INFO|Logger|Killing client process...
+2022-05-31 13:22:59.3074|INFO|Logger|Loss 
+2022-05-31 13:22:59.3074|INFO|Logger|----------------------
+2022-05-31 13:22:59.3074|INFO|Logger|Executing run #52
+2022-05-31 13:22:59.3074|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:22:59.5194|INFO|Logger|-> move E8
+2022-05-31 13:22:59.6134|INFO|Logger|<- move E2
+2022-05-31 13:22:59.7414|INFO|Logger|-> move E7
+2022-05-31 13:22:59.7414|INFO|Logger|<- move E3
+2022-05-31 13:22:59.8814|INFO|Logger|-> wall W7h
+2022-05-31 13:22:59.8984|INFO|Logger|<- move E4
+2022-05-31 13:23:00.0374|INFO|Logger|-> wall V6h
+2022-05-31 13:23:00.0374|INFO|Logger|<- move E5
+2022-05-31 13:23:00.1854|INFO|Logger|-> move F7
+2022-05-31 13:23:00.1854|INFO|Logger|<- move E6
+2022-05-31 13:23:00.3094|INFO|Logger|-> move F6
+2022-05-31 13:23:00.3094|INFO|Logger|<- wall U1h
+2022-05-31 13:23:00.4205|INFO|Logger|-> move F5
+2022-05-31 13:23:00.4205|INFO|Logger|<- wall W1h
+2022-05-31 13:23:00.5425|INFO|Logger|-> move G5
+2022-05-31 13:23:00.5425|INFO|Logger|<- move F6
+2022-05-31 13:23:00.6485|INFO|Logger|-> move G4
+2022-05-31 13:23:00.6485|INFO|Logger|<- move F7
+2022-05-31 13:23:00.7465|INFO|Logger|-> move G3
+2022-05-31 13:23:00.7465|INFO|Logger|<- move G7
+2022-05-31 13:23:00.8405|INFO|Logger|-> wall Y3h
+2022-05-31 13:23:00.8405|INFO|Logger|<- move G8
+2022-05-31 13:23:00.8985|INFO|Logger|-> move G2
+2022-05-31 13:23:00.8985|INFO|Logger|<- wall Y1h
+2022-05-31 13:23:00.9615|INFO|Logger|-> move H2
+2022-05-31 13:23:00.9615|INFO|Logger|<- move G9
+2022-05-31 13:23:00.9615|INFO|Logger|Killing client process...
+2022-05-31 13:23:01.4645|INFO|Logger|Win 
+2022-05-31 13:23:01.4645|INFO|Logger|----------------------
+2022-05-31 13:23:01.4645|INFO|Logger|Executing run #53
+2022-05-31 13:23:01.4645|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:23:01.6635|INFO|Logger|-> move E8
+2022-05-31 13:23:01.7385|INFO|Logger|<- move E2
+2022-05-31 13:23:01.8825|INFO|Logger|-> move E7
+2022-05-31 13:23:01.8825|INFO|Logger|<- move E3
+2022-05-31 13:23:02.0145|INFO|Logger|-> wall W7h
+2022-05-31 13:23:02.0385|INFO|Logger|<- wall U1h
+2022-05-31 13:23:02.1616|INFO|Logger|-> move E6
+2022-05-31 13:23:02.1616|INFO|Logger|<- move E4
+2022-05-31 13:23:02.2976|INFO|Logger|-> move E5
+2022-05-31 13:23:02.2976|INFO|Logger|<- wall W1h
+2022-05-31 13:23:02.4286|INFO|Logger|-> move F5
+2022-05-31 13:23:02.4286|INFO|Logger|<- move E5
+2022-05-31 13:23:02.5396|INFO|Logger|-> wall X5h
+2022-05-31 13:23:02.5396|INFO|Logger|<- move E6
+2022-05-31 13:23:02.6516|INFO|Logger|-> move G5
+2022-05-31 13:23:02.6516|INFO|Logger|<- move E7
+2022-05-31 13:23:02.7526|INFO|Logger|-> wall Z4h
+2022-05-31 13:23:02.7526|INFO|Logger|<- wall Y1h
+2022-05-31 13:23:02.8756|INFO|Logger|-> move G4
+2022-05-31 13:23:02.8756|INFO|Logger|<- move F7
+2022-05-31 13:23:02.9996|INFO|Logger|-> wall Y5v
+2022-05-31 13:23:02.9996|INFO|Logger|<- move G7
+2022-05-31 13:23:03.0696|INFO|Logger|-> move H4
+2022-05-31 13:23:03.0696|INFO|Logger|<- move G8
+2022-05-31 13:23:03.1236|INFO|Logger|-> move I4
+2022-05-31 13:23:03.1246|INFO|Logger|<- move G9
+2022-05-31 13:23:03.1246|INFO|Logger|Killing client process...
+2022-05-31 13:23:03.6286|INFO|Logger|Win 
+2022-05-31 13:23:03.6286|INFO|Logger|----------------------
+2022-05-31 13:23:03.6286|INFO|Logger|Executing run #54
+2022-05-31 13:23:03.6286|INFO|Logger|Chosen color for player: White
+2022-05-31 13:23:03.8997|INFO|Logger|<- move E8
+2022-05-31 13:23:04.0217|INFO|Logger|-> wall U1v
+2022-05-31 13:23:04.0347|INFO|Logger|<- move E7
+2022-05-31 13:23:04.1557|INFO|Logger|-> move E2
+2022-05-31 13:23:04.1557|INFO|Logger|<- move E6
+2022-05-31 13:23:04.2847|INFO|Logger|-> wall V1v
+2022-05-31 13:23:04.2987|INFO|Logger|<- move E5
+2022-05-31 13:23:04.4207|INFO|Logger|-> move E3
+2022-05-31 13:23:04.4207|INFO|Logger|<- move E4
+2022-05-31 13:23:04.5427|INFO|Logger|-> jump E5
+2022-05-31 13:23:04.5447|INFO|Logger|<- move E3
+2022-05-31 13:23:04.6467|INFO|Logger|-> move E6
+2022-05-31 13:23:04.6467|INFO|Logger|<- move E2
+2022-05-31 13:23:04.7407|INFO|Logger|-> move E7
+2022-05-31 13:23:04.7407|INFO|Logger|<- move E1
+2022-05-31 13:23:04.7407|INFO|Logger|Killing client process...
+2022-05-31 13:23:05.2437|INFO|Logger|Win 
+2022-05-31 13:23:05.2437|INFO|Logger|----------------------
+2022-05-31 13:23:05.2437|INFO|Logger|Executing run #55
+2022-05-31 13:23:05.2517|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:23:05.4307|INFO|Logger|-> move E8
+2022-05-31 13:23:05.5517|INFO|Logger|<- move E2
+2022-05-31 13:23:05.6808|INFO|Logger|-> wall V8v
+2022-05-31 13:23:05.6958|INFO|Logger|<- move E3
+2022-05-31 13:23:05.8958|INFO|Logger|-> move E7
+2022-05-31 13:23:05.8958|INFO|Logger|<- move E4
+2022-05-31 13:23:06.0908|INFO|Logger|-> wall W7h
+2022-05-31 13:23:06.1068|INFO|Logger|<- move E5
+2022-05-31 13:23:06.2918|INFO|Logger|-> move E6
+2022-05-31 13:23:06.2918|INFO|Logger|<- jump E7
+2022-05-31 13:23:06.4418|INFO|Logger|-> move E5
+2022-05-31 13:23:06.4418|INFO|Logger|<- move F7
+2022-05-31 13:23:06.6358|INFO|Logger|-> wall W5h
+2022-05-31 13:23:06.6578|INFO|Logger|<- move G7
+2022-05-31 13:23:06.8338|INFO|Logger|-> wall V4h
+2022-05-31 13:23:06.8418|INFO|Logger|<- move G8
+2022-05-31 13:23:07.0288|INFO|Logger|-> move F5
+2022-05-31 13:23:07.0288|INFO|Logger|<- move G9
+2022-05-31 13:23:07.0288|INFO|Logger|Killing client process...
+2022-05-31 13:23:07.5339|INFO|Logger|Win 
+2022-05-31 13:23:07.5339|INFO|Logger|----------------------
+2022-05-31 13:23:07.5339|INFO|Logger|Executing run #56
+2022-05-31 13:23:07.5339|INFO|Logger|Chosen color for player: White
+2022-05-31 13:23:07.9329|INFO|Logger|<- move E8
+2022-05-31 13:23:08.1179|INFO|Logger|-> move E2
+2022-05-31 13:23:08.1179|INFO|Logger|<- move E7
+2022-05-31 13:23:08.3169|INFO|Logger|-> wall V1v
+2022-05-31 13:23:08.3309|INFO|Logger|<- move E6
+2022-05-31 13:23:08.5289|INFO|Logger|-> move E3
+2022-05-31 13:23:08.5419|INFO|Logger|<- wall U8h
+2022-05-31 13:23:08.7269|INFO|Logger|-> move E4
+2022-05-31 13:23:08.7269|INFO|Logger|<- move E5
+2022-05-31 13:23:08.9229|INFO|Logger|-> jump E6
+2022-05-31 13:23:08.9579|INFO|Logger|<- wall W8h
+2022-05-31 13:23:09.0869|INFO|Logger|-> move E7
+2022-05-31 13:23:09.0869|INFO|Logger|<- move E4
+2022-05-31 13:23:09.1660|INFO|Logger|-> move E8
+2022-05-31 13:23:09.1660|INFO|Logger|<- wall Y8h
+2022-05-31 13:23:09.2450|INFO|Logger|-> wall W5h
+2022-05-31 13:23:09.2450|INFO|Logger|<- move E3
+2022-05-31 13:23:09.3090|INFO|Logger|-> move D8
+2022-05-31 13:23:09.3090|INFO|Logger|<- wall S8h
+2022-05-31 13:23:09.4120|INFO|Logger|-> wall U5v
+2022-05-31 13:23:09.4120|INFO|Logger|<- move E2
+2022-05-31 13:23:09.5140|INFO|Logger|-> move E8
+2022-05-31 13:23:09.5140|INFO|Logger|<- move E1
+2022-05-31 13:23:09.5140|INFO|Logger|Killing client process...
+2022-05-31 13:23:10.0190|INFO|Logger|Win 
+2022-05-31 13:23:10.0190|INFO|Logger|----------------------
+2022-05-31 13:23:10.0190|INFO|Logger|Executing run #57
+2022-05-31 13:23:10.0220|INFO|Logger|Chosen color for player: White
+2022-05-31 13:23:10.2510|INFO|Logger|<- move E8
+2022-05-31 13:23:10.4040|INFO|Logger|-> move E2
+2022-05-31 13:23:10.4040|INFO|Logger|<- move E7
+2022-05-31 13:23:10.5430|INFO|Logger|-> wall V1v
+2022-05-31 13:23:10.5580|INFO|Logger|<- move E6
+2022-05-31 13:23:10.6790|INFO|Logger|-> move E3
+2022-05-31 13:23:10.6790|INFO|Logger|<- wall U8h
+2022-05-31 13:23:10.8160|INFO|Logger|-> move E4
+2022-05-31 13:23:10.8160|INFO|Logger|<- move E5
+2022-05-31 13:23:10.9721|INFO|Logger|-> jump E6
+2022-05-31 13:23:10.9721|INFO|Logger|<- move E4
+2022-05-31 13:23:11.0751|INFO|Logger|-> wall W3h
+2022-05-31 13:23:11.0801|INFO|Logger|<- wall W8h
+2022-05-31 13:23:11.1901|INFO|Logger|-> wall V3v
+2022-05-31 13:23:11.1901|INFO|Logger|<- move F4
+2022-05-31 13:23:11.2831|INFO|Logger|-> move E7
+2022-05-31 13:23:11.2831|INFO|Logger|<- move G4
+2022-05-31 13:23:11.3841|INFO|Logger|-> move E8
+2022-05-31 13:23:11.3841|INFO|Logger|<- move G3
+2022-05-31 13:23:11.4641|INFO|Logger|-> wall W5h
+2022-05-31 13:23:11.4641|INFO|Logger|<- wall Y8h
+2022-05-31 13:23:11.5321|INFO|Logger|-> move D8
+2022-05-31 13:23:11.5331|INFO|Logger|<- wall S8h
+2022-05-31 13:23:11.6341|INFO|Logger|-> move E8
+2022-05-31 13:23:11.6341|INFO|Logger|<- move G2
+2022-05-31 13:23:11.7331|INFO|Logger|-> move F8
+2022-05-31 13:23:11.7331|INFO|Logger|<- move G1
+2022-05-31 13:23:11.7331|INFO|Logger|Killing client process...
+2022-05-31 13:23:12.2361|INFO|Logger|Win 
+2022-05-31 13:23:12.2361|INFO|Logger|----------------------
+2022-05-31 13:23:12.2361|INFO|Logger|Executing run #58
+2022-05-31 13:23:12.2361|INFO|Logger|Chosen color for player: White
+2022-05-31 13:23:12.4771|INFO|Logger|<- move E8
+2022-05-31 13:23:12.6021|INFO|Logger|-> move E2
+2022-05-31 13:23:12.6021|INFO|Logger|<- move E7
+2022-05-31 13:23:12.7362|INFO|Logger|-> move E3
+2022-05-31 13:23:12.7362|INFO|Logger|<- move E6
+2022-05-31 13:23:12.8672|INFO|Logger|-> move E4
+2022-05-31 13:23:12.8672|INFO|Logger|<- move E5
+2022-05-31 13:23:13.0182|INFO|Logger|-> jump E6
+2022-05-31 13:23:13.0182|INFO|Logger|<- move E4
+2022-05-31 13:23:13.1322|INFO|Logger|-> wall W3h
+2022-05-31 13:23:13.1412|INFO|Logger|<- wall U8h
+2022-05-31 13:23:13.2452|INFO|Logger|-> wall V3v
+2022-05-31 13:23:13.2502|INFO|Logger|<- wall W8h
+2022-05-31 13:23:13.3752|INFO|Logger|-> move E7
+2022-05-31 13:23:13.3752|INFO|Logger|<- move F4
+2022-05-31 13:23:13.4562|INFO|Logger|-> move E8
+2022-05-31 13:23:13.4562|INFO|Logger|<- wall Y8h
+2022-05-31 13:23:13.5322|INFO|Logger|-> move D8
+2022-05-31 13:23:13.5322|INFO|Logger|<- move G4
+2022-05-31 13:23:13.5972|INFO|Logger|-> move C8
+2022-05-31 13:23:13.5972|INFO|Logger|<- move G3
+2022-05-31 13:23:13.6432|INFO|Logger|-> move B8
+2022-05-31 13:23:13.6432|INFO|Logger|<- wall S8h
+2022-05-31 13:23:13.7472|INFO|Logger|-> move C8
+2022-05-31 13:23:13.7482|INFO|Logger|<- move G2
+2022-05-31 13:23:13.8322|INFO|Logger|-> move D8
+2022-05-31 13:23:13.8322|INFO|Logger|<- move G1
+2022-05-31 13:23:13.8322|INFO|Logger|Killing client process...
+2022-05-31 13:23:14.3362|INFO|Logger|Win 
+2022-05-31 13:23:14.3362|INFO|Logger|----------------------
+2022-05-31 13:23:14.3362|INFO|Logger|Executing run #59
+2022-05-31 13:23:14.3422|INFO|Logger|Chosen color for player: White
+2022-05-31 13:23:14.5843|INFO|Logger|<- move E8
+2022-05-31 13:23:14.7133|INFO|Logger|-> move E2
+2022-05-31 13:23:14.7223|INFO|Logger|<- move E7
+2022-05-31 13:23:14.8753|INFO|Logger|-> wall V1v
+2022-05-31 13:23:14.9003|INFO|Logger|<- move E6
+2022-05-31 13:23:15.0373|INFO|Logger|-> move E3
+2022-05-31 13:23:15.0373|INFO|Logger|<- move E5
+2022-05-31 13:23:15.1643|INFO|Logger|-> move E4
+2022-05-31 13:23:15.1723|INFO|Logger|<- wall U8h
+2022-05-31 13:23:15.2953|INFO|Logger|-> jump E6
+2022-05-31 13:23:15.2953|INFO|Logger|<- move E4
+2022-05-31 13:23:15.4073|INFO|Logger|-> move E7
+2022-05-31 13:23:15.4073|INFO|Logger|<- wall W8h
+2022-05-31 13:23:15.5333|INFO|Logger|-> wall W4h
+2022-05-31 13:23:15.5333|INFO|Logger|<- move E3
+2022-05-31 13:23:15.6153|INFO|Logger|-> move E8
+2022-05-31 13:23:15.6153|INFO|Logger|<- move E2
+2022-05-31 13:23:15.6733|INFO|Logger|-> move F8
+2022-05-31 13:23:15.6733|INFO|Logger|<- wall Y8h
+2022-05-31 13:23:15.7333|INFO|Logger|-> move G8
+2022-05-31 13:23:15.7333|INFO|Logger|<- move E1
+2022-05-31 13:23:15.7333|INFO|Logger|Killing client process...
+2022-05-31 13:23:16.2374|INFO|Logger|Win 
+2022-05-31 13:23:16.2374|INFO|Logger|----------------------
+2022-05-31 13:23:16.2374|INFO|Logger|Executing run #60
+2022-05-31 13:23:16.2374|INFO|Logger|Chosen color for player: White
+2022-05-31 13:23:16.4864|INFO|Logger|<- move E8
+2022-05-31 13:23:16.6174|INFO|Logger|-> move E2
+2022-05-31 13:23:16.6214|INFO|Logger|<- move E7
+2022-05-31 13:23:16.7594|INFO|Logger|-> move E3
+2022-05-31 13:23:16.7594|INFO|Logger|<- wall U8h
+2022-05-31 13:23:16.8914|INFO|Logger|-> move E4
+2022-05-31 13:23:16.8914|INFO|Logger|<- wall W8h
+2022-05-31 13:23:17.0374|INFO|Logger|-> move E5
+2022-05-31 13:23:17.0424|INFO|Logger|<- wall Y8h
+2022-05-31 13:23:17.1644|INFO|Logger|-> wall W2h
+2022-05-31 13:23:17.1644|INFO|Logger|<- move E6
+2022-05-31 13:23:17.2664|INFO|Logger|-> jump E7
+2022-05-31 13:23:17.2664|INFO|Logger|<- move E5
+2022-05-31 13:23:17.3504|INFO|Logger|-> wall W4h
+2022-05-31 13:23:17.3534|INFO|Logger|<- move F5
+2022-05-31 13:23:17.4544|INFO|Logger|-> move E8
+2022-05-31 13:23:17.4544|INFO|Logger|<- move G5
+2022-05-31 13:23:17.5364|INFO|Logger|-> wall W5h
+2022-05-31 13:23:17.5364|INFO|Logger|<- move G4
+2022-05-31 13:23:17.5964|INFO|Logger|-> move D8
+2022-05-31 13:23:17.5964|INFO|Logger|<- wall S8h
+2022-05-31 13:23:17.7034|INFO|Logger|-> wall U5v
+2022-05-31 13:23:17.7134|INFO|Logger|<- move G3
+2022-05-31 13:23:17.8024|INFO|Logger|-> move E8
+2022-05-31 13:23:17.8024|INFO|Logger|<- move G2
+2022-05-31 13:23:17.8885|INFO|Logger|-> wall V5v
+2022-05-31 13:23:17.8885|INFO|Logger|<- move G1
+2022-05-31 13:23:17.8885|INFO|Logger|Killing client process...
+2022-05-31 13:23:18.3925|INFO|Logger|Win 
+2022-05-31 13:23:18.3925|INFO|Logger|----------------------
+2022-05-31 13:23:18.3925|INFO|Logger|Executing run #61
+2022-05-31 13:23:18.3975|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:23:18.6045|INFO|Logger|-> move E8
+2022-05-31 13:23:18.7035|INFO|Logger|<- move E2
+2022-05-31 13:23:18.8475|INFO|Logger|-> move E7
+2022-05-31 13:23:18.8555|INFO|Logger|<- move E3
+2022-05-31 13:23:18.9865|INFO|Logger|-> move E6
+2022-05-31 13:23:18.9985|INFO|Logger|<- wall U1h
+2022-05-31 13:23:19.1375|INFO|Logger|-> wall W6h
+2022-05-31 13:23:19.1465|INFO|Logger|<- wall W1h
+2022-05-31 13:23:19.2675|INFO|Logger|-> move F6
+2022-05-31 13:23:19.2675|INFO|Logger|<- wall Y1h
+2022-05-31 13:23:19.4345|INFO|Logger|-> move G6
+2022-05-31 13:23:19.4345|INFO|Logger|<- move E4
+2022-05-31 13:23:19.5555|INFO|Logger|-> move H6
+2022-05-31 13:23:19.5555|INFO|Logger|<- move E5
+2022-05-31 13:23:19.6686|INFO|Logger|-> move I6
+2022-05-31 13:23:19.6686|INFO|Logger|<- move E6
+2022-05-31 13:23:19.7906|INFO|Logger|-> move I5
+2022-05-31 13:23:19.7906|INFO|Logger|<- move F6
+2022-05-31 13:23:19.8986|INFO|Logger|-> move I4
+2022-05-31 13:23:19.8986|INFO|Logger|<- move G6
+2022-05-31 13:23:20.0016|INFO|Logger|-> move I3
+2022-05-31 13:23:20.0016|INFO|Logger|<- move G7
+2022-05-31 13:23:20.0986|INFO|Logger|-> move I2
+2022-05-31 13:23:20.0986|INFO|Logger|<- move G8
+2022-05-31 13:23:20.1896|INFO|Logger|-> move I1
+2022-05-31 13:23:20.1906|INFO|Logger|Killing client process...
+2022-05-31 13:23:20.6926|INFO|Logger|Loss 
+2022-05-31 13:23:20.6926|INFO|Logger|----------------------
+2022-05-31 13:23:20.6926|INFO|Logger|Executing run #62
+2022-05-31 13:23:20.6926|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:23:20.8436|INFO|Logger|-> move E8
+2022-05-31 13:23:20.9886|INFO|Logger|<- move E2
+2022-05-31 13:23:21.1176|INFO|Logger|-> wall V8v
+2022-05-31 13:23:21.1316|INFO|Logger|<- move E3
+2022-05-31 13:23:21.2596|INFO|Logger|-> move E7
+2022-05-31 13:23:21.2596|INFO|Logger|<- wall U1h
+2022-05-31 13:23:21.3877|INFO|Logger|-> move E6
+2022-05-31 13:23:21.4017|INFO|Logger|<- move E4
+2022-05-31 13:23:21.5387|INFO|Logger|-> move E5
+2022-05-31 13:23:21.5387|INFO|Logger|<- wall W1h
+2022-05-31 13:23:21.6607|INFO|Logger|-> move F5
+2022-05-31 13:23:21.6607|INFO|Logger|<- wall Y1h
+2022-05-31 13:23:21.7687|INFO|Logger|-> move G5
+2022-05-31 13:23:21.7687|INFO|Logger|<- move E5
+2022-05-31 13:23:21.8847|INFO|Logger|-> move H5
+2022-05-31 13:23:21.8847|INFO|Logger|<- move E6
+2022-05-31 13:23:21.9867|INFO|Logger|-> move I5
+2022-05-31 13:23:21.9867|INFO|Logger|<- move E7
+2022-05-31 13:23:22.0927|INFO|Logger|-> move I4
+2022-05-31 13:23:22.0947|INFO|Logger|<- move E8
+2022-05-31 13:23:22.1887|INFO|Logger|-> move I3
+2022-05-31 13:23:22.1887|INFO|Logger|<- move E9
+2022-05-31 13:23:22.1887|INFO|Logger|Killing client process...
+2022-05-31 13:23:22.6927|INFO|Logger|Win 
+2022-05-31 13:23:22.6927|INFO|Logger|----------------------
+2022-05-31 13:23:22.6927|INFO|Logger|Executing run #63
+2022-05-31 13:23:22.6927|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:23:22.8967|INFO|Logger|-> move E8
+2022-05-31 13:23:22.9727|INFO|Logger|<- move E2
+2022-05-31 13:23:23.1007|INFO|Logger|-> wall V8v
+2022-05-31 13:23:23.1288|INFO|Logger|<- move E3
+2022-05-31 13:23:23.2498|INFO|Logger|-> move E7
+2022-05-31 13:23:23.2498|INFO|Logger|<- move E4
+2022-05-31 13:23:23.3828|INFO|Logger|-> move E6
+2022-05-31 13:23:23.3828|INFO|Logger|<- wall U1h
+2022-05-31 13:23:23.5118|INFO|Logger|-> wall W6h
+2022-05-31 13:23:23.5188|INFO|Logger|<- wall W1h
+2022-05-31 13:23:23.6438|INFO|Logger|-> move F6
+2022-05-31 13:23:23.6438|INFO|Logger|<- move E5
+2022-05-31 13:23:23.7508|INFO|Logger|-> move G6
+2022-05-31 13:23:23.7508|INFO|Logger|<- move E6
+2022-05-31 13:23:23.8588|INFO|Logger|-> move G5
+2022-05-31 13:23:23.8588|INFO|Logger|<- wall Y1h
+2022-05-31 13:23:23.9648|INFO|Logger|-> move H5
+2022-05-31 13:23:23.9658|INFO|Logger|<- move F6
+2022-05-31 13:23:24.0658|INFO|Logger|-> wall Z5h
+2022-05-31 13:23:24.0658|INFO|Logger|<- move G6
+2022-05-31 13:23:24.1748|INFO|Logger|-> wall Y4h
+2022-05-31 13:23:24.1748|INFO|Logger|<- move G7
+2022-05-31 13:23:24.2638|INFO|Logger|-> move I5
+2022-05-31 13:23:24.2638|INFO|Logger|<- move G8
+2022-05-31 13:23:24.3608|INFO|Logger|-> wall Y5v
+2022-05-31 13:23:24.3608|INFO|Logger|<- move G9
+2022-05-31 13:23:24.3608|INFO|Logger|Killing client process...
+2022-05-31 13:23:24.8649|INFO|Logger|Win 
+2022-05-31 13:23:24.8649|INFO|Logger|----------------------
+2022-05-31 13:23:24.8649|INFO|Logger|Executing run #64
+2022-05-31 13:23:24.8719|INFO|Logger|Chosen color for player: White
+2022-05-31 13:23:25.1179|INFO|Logger|<- move E8
+2022-05-31 13:23:25.2489|INFO|Logger|-> move E2
+2022-05-31 13:23:25.2489|INFO|Logger|<- move E7
+2022-05-31 13:23:25.3879|INFO|Logger|-> wall V1v
+2022-05-31 13:23:25.4029|INFO|Logger|<- move E6
+2022-05-31 13:23:25.5359|INFO|Logger|-> move E3
+2022-05-31 13:23:25.5359|INFO|Logger|<- move E5
+2022-05-31 13:23:25.6649|INFO|Logger|-> move E4
+2022-05-31 13:23:25.6699|INFO|Logger|<- wall U8h
+2022-05-31 13:23:25.7999|INFO|Logger|-> wall W1h
+2022-05-31 13:23:25.7999|INFO|Logger|<- jump E3
+2022-05-31 13:23:25.8989|INFO|Logger|-> move E5
+2022-05-31 13:23:25.9009|INFO|Logger|<- move E2
+2022-05-31 13:23:25.9959|INFO|Logger|-> move E6
+2022-05-31 13:23:25.9959|INFO|Logger|<- wall W8h
+2022-05-31 13:23:26.0849|INFO|Logger|-> wall W3h
+2022-05-31 13:23:26.0879|INFO|Logger|<- move F2
+2022-05-31 13:23:26.1759|INFO|Logger|-> move E7
+2022-05-31 13:23:26.1759|INFO|Logger|<- move G2
+2022-05-31 13:23:26.2549|INFO|Logger|-> move E8
+2022-05-31 13:23:26.2549|INFO|Logger|<- wall Y8h
+2022-05-31 13:23:26.3319|INFO|Logger|-> move D8
+2022-05-31 13:23:26.3319|INFO|Logger|<- wall S8h
+2022-05-31 13:23:26.4469|INFO|Logger|-> move E8
+2022-05-31 13:23:26.4469|INFO|Logger|<- move G1
+2022-05-31 13:23:26.4469|INFO|Logger|Killing client process...
+2022-05-31 13:23:26.9510|INFO|Logger|Win 
+2022-05-31 13:23:26.9510|INFO|Logger|----------------------
+2022-05-31 13:23:26.9510|INFO|Logger|Executing run #65
+2022-05-31 13:23:26.9510|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:23:27.0940|INFO|Logger|-> move E8
+2022-05-31 13:23:27.2730|INFO|Logger|<- move E2
+2022-05-31 13:23:27.4110|INFO|Logger|-> move E7
+2022-05-31 13:23:27.4220|INFO|Logger|<- move E3
+2022-05-31 13:23:27.5460|INFO|Logger|-> move E6
+2022-05-31 13:23:27.5560|INFO|Logger|<- wall U1h
+2022-05-31 13:23:27.6850|INFO|Logger|-> move E5
+2022-05-31 13:23:27.6850|INFO|Logger|<- wall W1h
+2022-05-31 13:23:27.8050|INFO|Logger|-> move F5
+2022-05-31 13:23:27.8050|INFO|Logger|<- wall Y1h
+2022-05-31 13:23:27.9210|INFO|Logger|-> wall X5h
+2022-05-31 13:23:27.9210|INFO|Logger|<- move E4
+2022-05-31 13:23:28.0240|INFO|Logger|-> move G5
+2022-05-31 13:23:28.0240|INFO|Logger|<- move E5
+2022-05-31 13:23:28.1330|INFO|Logger|-> move H5
+2022-05-31 13:23:28.1330|INFO|Logger|<- move E6
+2022-05-31 13:23:28.2500|INFO|Logger|-> move I5
+2022-05-31 13:23:28.2500|INFO|Logger|<- move E7
+2022-05-31 13:23:28.3460|INFO|Logger|-> wall Z5v
+2022-05-31 13:23:28.3460|INFO|Logger|<- move E8
+2022-05-31 13:23:28.4161|INFO|Logger|-> move I4
+2022-05-31 13:23:28.4161|INFO|Logger|<- move E9
+2022-05-31 13:23:28.4161|INFO|Logger|Killing client process...
+2022-05-31 13:23:28.9201|INFO|Logger|Win 
+2022-05-31 13:23:28.9201|INFO|Logger|----------------------
+2022-05-31 13:23:28.9201|INFO|Logger|Executing run #66
+2022-05-31 13:23:28.9271|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:23:29.0921|INFO|Logger|-> move E8
+2022-05-31 13:23:29.2381|INFO|Logger|<- move E2
+2022-05-31 13:23:29.3761|INFO|Logger|-> wall V8v
+2022-05-31 13:23:29.3861|INFO|Logger|<- move E3
+2022-05-31 13:23:29.5161|INFO|Logger|-> move E7
+2022-05-31 13:23:29.5201|INFO|Logger|<- move E4
+2022-05-31 13:23:29.6501|INFO|Logger|-> move E6
+2022-05-31 13:23:29.6501|INFO|Logger|<- wall U1h
+2022-05-31 13:23:29.7741|INFO|Logger|-> wall W6h
+2022-05-31 13:23:29.7741|INFO|Logger|<- wall W1h
+2022-05-31 13:23:29.8921|INFO|Logger|-> wall V5h
+2022-05-31 13:23:29.8971|INFO|Logger|<- move E5
+2022-05-31 13:23:30.0131|INFO|Logger|-> move F6
+2022-05-31 13:23:30.0131|INFO|Logger|<- wall Y1h
+2022-05-31 13:23:30.1112|INFO|Logger|-> move G6
+2022-05-31 13:23:30.1132|INFO|Logger|<- move F5
+2022-05-31 13:23:30.2292|INFO|Logger|-> wall Y6h
+2022-05-31 13:23:30.2292|INFO|Logger|<- move F6
+2022-05-31 13:23:30.3592|INFO|Logger|-> move H6
+2022-05-31 13:23:30.3592|INFO|Logger|<- move G6
+2022-05-31 13:23:30.4532|INFO|Logger|-> move I6
+2022-05-31 13:23:30.4532|INFO|Logger|<- move H6
+2022-05-31 13:23:30.5612|INFO|Logger|-> wall Z6v
+2022-05-31 13:23:30.5652|INFO|Logger|<- move G6
+2022-05-31 13:23:30.6552|INFO|Logger|-> move I5
+2022-05-31 13:23:30.6602|INFO|Logger|<- move F6
+2022-05-31 13:23:30.7492|INFO|Logger|-> move I4
+2022-05-31 13:23:30.7492|INFO|Logger|<- move G6
+2022-05-31 13:23:30.8352|INFO|Logger|-> wall Z4v
+2022-05-31 13:23:30.8352|INFO|Logger|<- move F6
+2022-05-31 13:23:30.9022|INFO|Logger|-> move I3
+2022-05-31 13:23:30.9022|INFO|Logger|<- move G6
+2022-05-31 13:23:30.9742|INFO|Logger|-> move I2
+2022-05-31 13:23:30.9742|INFO|Logger|<- move F6
+2022-05-31 13:23:31.0392|INFO|Logger|-> wall Z2v
+2022-05-31 13:23:31.0392|INFO|Logger|<- move G6
+2022-05-31 13:23:31.0772|INFO|Logger|-> move I1
+2022-05-31 13:23:31.0772|INFO|Logger|Killing client process...
+2022-05-31 13:23:31.5802|INFO|Logger|Loss 
+2022-05-31 13:23:31.5802|INFO|Logger|----------------------
+2022-05-31 13:23:31.5802|INFO|Logger|Executing run #67
+2022-05-31 13:23:31.5802|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:23:31.7812|INFO|Logger|-> move E8
+2022-05-31 13:23:31.8543|INFO|Logger|<- move E2
+2022-05-31 13:23:31.9833|INFO|Logger|-> move E7
+2022-05-31 13:23:31.9863|INFO|Logger|<- move E3
+2022-05-31 13:23:32.1163|INFO|Logger|-> wall W7h
+2022-05-31 13:23:32.1363|INFO|Logger|<- wall U1h
+2022-05-31 13:23:32.2713|INFO|Logger|-> move E6
+2022-05-31 13:23:32.2713|INFO|Logger|<- wall W1h
+2022-05-31 13:23:32.4063|INFO|Logger|-> wall V7v
+2022-05-31 13:23:32.4063|INFO|Logger|<- move E4
+2022-05-31 13:23:32.5343|INFO|Logger|-> wall V5h
+2022-05-31 13:23:32.5343|INFO|Logger|<- wall Y1h
+2022-05-31 13:23:32.6393|INFO|Logger|-> move D6
+2022-05-31 13:23:32.6413|INFO|Logger|<- wall S1h
+2022-05-31 13:23:32.7453|INFO|Logger|-> move E6
+2022-05-31 13:23:32.7453|INFO|Logger|<- move E5
+2022-05-31 13:23:32.8443|INFO|Logger|-> move F6
+2022-05-31 13:23:32.8443|INFO|Logger|<- move F5
+2022-05-31 13:23:32.9493|INFO|Logger|-> move G6
+2022-05-31 13:23:32.9493|INFO|Logger|<- move F6
+2022-05-31 13:23:33.0483|INFO|Logger|-> move H6
+2022-05-31 13:23:33.0483|INFO|Logger|<- move F7
+2022-05-31 13:23:33.1483|INFO|Logger|-> move I6
+2022-05-31 13:23:33.1483|INFO|Logger|<- move G7
+2022-05-31 13:23:33.2583|INFO|Logger|-> wall Z6v
+2022-05-31 13:23:33.2583|INFO|Logger|<- move G8
+2022-05-31 13:23:33.3543|INFO|Logger|-> move I5
+2022-05-31 13:23:33.3543|INFO|Logger|<- move G9
+2022-05-31 13:23:33.3543|INFO|Logger|Killing client process...
+2022-05-31 13:23:33.8594|INFO|Logger|Win 
+2022-05-31 13:23:33.8594|INFO|Logger|----------------------
+2022-05-31 13:23:33.8594|INFO|Logger|Executing run #68
+2022-05-31 13:23:33.8594|INFO|Logger|Chosen color for player: White
+2022-05-31 13:23:34.0984|INFO|Logger|<- move E8
+2022-05-31 13:23:34.2654|INFO|Logger|-> move E2
+2022-05-31 13:23:34.2654|INFO|Logger|<- move E7
+2022-05-31 13:23:34.4174|INFO|Logger|-> move E3
+2022-05-31 13:23:34.4304|INFO|Logger|<- wall U8h
+2022-05-31 13:23:34.5584|INFO|Logger|-> move E4
+2022-05-31 13:23:34.5584|INFO|Logger|<- wall W8h
+2022-05-31 13:23:34.7044|INFO|Logger|-> move E5
+2022-05-31 13:23:34.7044|INFO|Logger|<- move E6
+2022-05-31 13:23:34.8254|INFO|Logger|-> jump E7
+2022-05-31 13:23:34.8254|INFO|Logger|<- wall Y8h
+2022-05-31 13:23:34.9134|INFO|Logger|-> move E8
+2022-05-31 13:23:34.9134|INFO|Logger|<- move E5
+2022-05-31 13:23:34.9914|INFO|Logger|-> move D8
+2022-05-31 13:23:34.9914|INFO|Logger|<- move E4
+2022-05-31 13:23:35.0534|INFO|Logger|-> move C8
+2022-05-31 13:23:35.0534|INFO|Logger|<- wall S8h
+2022-05-31 13:23:35.1714|INFO|Logger|-> move D8
+2022-05-31 13:23:35.1714|INFO|Logger|<- move E3
+2022-05-31 13:23:35.2904|INFO|Logger|-> move E8
+2022-05-31 13:23:35.2914|INFO|Logger|<- move E2
+2022-05-31 13:23:35.3865|INFO|Logger|-> move F8
+2022-05-31 13:23:35.3865|INFO|Logger|<- move E1
+2022-05-31 13:23:35.3865|INFO|Logger|Killing client process...
+2022-05-31 13:23:35.8905|INFO|Logger|Win 
+2022-05-31 13:23:35.8905|INFO|Logger|----------------------
+2022-05-31 13:23:35.8905|INFO|Logger|Executing run #69
+2022-05-31 13:23:35.8905|INFO|Logger|Chosen color for player: White
+2022-05-31 13:23:36.1235|INFO|Logger|<- move E8
+2022-05-31 13:23:36.2505|INFO|Logger|-> wall U1v
+2022-05-31 13:23:36.2715|INFO|Logger|<- move E7
+2022-05-31 13:23:36.4145|INFO|Logger|-> move E2
+2022-05-31 13:23:36.4175|INFO|Logger|<- move E6
+2022-05-31 13:23:36.5405|INFO|Logger|-> move E3
+2022-05-31 13:23:36.5405|INFO|Logger|<- wall U8h
+2022-05-31 13:23:36.6585|INFO|Logger|-> move E4
+2022-05-31 13:23:36.6585|INFO|Logger|<- move E5
+2022-05-31 13:23:36.7745|INFO|Logger|-> jump E6
+2022-05-31 13:23:36.7745|INFO|Logger|<- move E4
+2022-05-31 13:23:36.8735|INFO|Logger|-> move E7
+2022-05-31 13:23:36.8735|INFO|Logger|<- move E3
+2022-05-31 13:23:36.9435|INFO|Logger|-> move E8
+2022-05-31 13:23:36.9455|INFO|Logger|<- wall W8h
+2022-05-31 13:23:37.0095|INFO|Logger|-> move F8
+2022-05-31 13:23:37.0095|INFO|Logger|<- move E2
+2022-05-31 13:23:37.0795|INFO|Logger|-> move G8
+2022-05-31 13:23:37.0795|INFO|Logger|<- move E1
+2022-05-31 13:23:37.0795|INFO|Logger|Killing client process...
+2022-05-31 13:23:37.5836|INFO|Logger|Win 
+2022-05-31 13:23:37.5836|INFO|Logger|----------------------
+2022-05-31 13:23:37.5836|INFO|Logger|Executing run #70
+2022-05-31 13:23:37.5866|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:23:37.7896|INFO|Logger|-> move E8
+2022-05-31 13:23:37.8666|INFO|Logger|<- move E2
+2022-05-31 13:23:38.0096|INFO|Logger|-> move E7
+2022-05-31 13:23:38.0096|INFO|Logger|<- move E3
+2022-05-31 13:23:38.1566|INFO|Logger|-> move E6
+2022-05-31 13:23:38.1566|INFO|Logger|<- move E4
+2022-05-31 13:23:38.3066|INFO|Logger|-> move E5
+2022-05-31 13:23:38.3066|INFO|Logger|<- jump E6
+2022-05-31 13:23:38.4396|INFO|Logger|-> wall W5h
+2022-05-31 13:23:38.4466|INFO|Logger|<- move E7
+2022-05-31 13:23:38.5366|INFO|Logger|-> move E4
+2022-05-31 13:23:38.5366|INFO|Logger|<- move E8
+2022-05-31 13:23:38.6166|INFO|Logger|-> wall V5v
+2022-05-31 13:23:38.6166|INFO|Logger|<- wall U1h
+2022-05-31 13:23:38.7036|INFO|Logger|-> wall V3h
+2022-05-31 13:23:38.7036|INFO|Logger|<- move E9
+2022-05-31 13:23:38.7036|INFO|Logger|Killing client process...
+2022-05-31 13:23:39.2107|INFO|Logger|Win 
+2022-05-31 13:23:39.2107|INFO|Logger|----------------------
+2022-05-31 13:23:39.2107|INFO|Logger|Executing run #71
+2022-05-31 13:23:39.2107|INFO|Logger|Chosen color for player: White
+2022-05-31 13:23:39.7027|INFO|Logger|<- move E8
+2022-05-31 13:23:39.9047|INFO|Logger|-> move E2
+2022-05-31 13:23:39.9097|INFO|Logger|<- move E7
+2022-05-31 13:23:40.1097|INFO|Logger|-> move E3
+2022-05-31 13:23:40.1187|INFO|Logger|<- wall U8h
+2022-05-31 13:23:40.2407|INFO|Logger|-> move E4
+2022-05-31 13:23:40.2407|INFO|Logger|<- move E6
+2022-05-31 13:23:40.3837|INFO|Logger|-> move E5
+2022-05-31 13:23:40.3837|INFO|Logger|<- wall W8h
+2022-05-31 13:23:40.5157|INFO|Logger|-> wall W2h
+2022-05-31 13:23:40.5217|INFO|Logger|<- jump E4
+2022-05-31 13:23:40.6298|INFO|Logger|-> move E6
+2022-05-31 13:23:40.6298|INFO|Logger|<- wall Y8h
+2022-05-31 13:23:40.7338|INFO|Logger|-> move E7
+2022-05-31 13:23:40.7338|INFO|Logger|<- move E3
+2022-05-31 13:23:40.7998|INFO|Logger|-> move E8
+2022-05-31 13:23:40.7998|INFO|Logger|<- move F3
+2022-05-31 13:23:40.8628|INFO|Logger|-> move D8
+2022-05-31 13:23:40.8628|INFO|Logger|<- move G3
+2022-05-31 13:23:40.9168|INFO|Logger|-> move C8
+2022-05-31 13:23:40.9168|INFO|Logger|<- move G2
+2022-05-31 13:23:40.9548|INFO|Logger|-> move B8
+2022-05-31 13:23:40.9548|INFO|Logger|<- move G1
+2022-05-31 13:23:40.9548|INFO|Logger|Killing client process...
+2022-05-31 13:23:41.4588|INFO|Logger|Win 
+2022-05-31 13:23:41.4588|INFO|Logger|----------------------
+2022-05-31 13:23:41.4588|INFO|Logger|Executing run #72
+2022-05-31 13:23:41.4588|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:23:41.6698|INFO|Logger|-> move E8
+2022-05-31 13:23:41.7448|INFO|Logger|<- move E2
+2022-05-31 13:23:41.8718|INFO|Logger|-> move E7
+2022-05-31 13:23:41.8758|INFO|Logger|<- move E3
+2022-05-31 13:23:42.0138|INFO|Logger|-> move E6
+2022-05-31 13:23:42.0258|INFO|Logger|<- wall U1h
+2022-05-31 13:23:42.1858|INFO|Logger|-> wall W6h
+2022-05-31 13:23:42.1998|INFO|Logger|<- move E4
+2022-05-31 13:23:42.3569|INFO|Logger|-> move E5
+2022-05-31 13:23:42.3599|INFO|Logger|<- jump E6
+2022-05-31 13:23:42.4759|INFO|Logger|-> move E4
+2022-05-31 13:23:42.4759|INFO|Logger|<- wall W1h
+2022-05-31 13:23:42.5829|INFO|Logger|-> wall W4h
+2022-05-31 13:23:42.5829|INFO|Logger|<- move F6
+2022-05-31 13:23:42.6779|INFO|Logger|-> move F4
+2022-05-31 13:23:42.6779|INFO|Logger|<- wall Y1h
+2022-05-31 13:23:42.7779|INFO|Logger|-> wall Y3h
+2022-05-31 13:23:42.7829|INFO|Logger|<- move G6
+2022-05-31 13:23:42.8809|INFO|Logger|-> move G4
+2022-05-31 13:23:42.8809|INFO|Logger|<- move G7
+2022-05-31 13:23:42.9629|INFO|Logger|-> move H4
+2022-05-31 13:23:42.9629|INFO|Logger|<- move G8
+2022-05-31 13:23:43.0349|INFO|Logger|-> wall Z4h
+2022-05-31 13:23:43.0349|INFO|Logger|<- move G9
+2022-05-31 13:23:43.0349|INFO|Logger|Killing client process...
+2022-05-31 13:23:43.5419|INFO|Logger|Win 
+2022-05-31 13:23:43.5419|INFO|Logger|----------------------
+2022-05-31 13:23:43.5419|INFO|Logger|Executing run #73
+2022-05-31 13:23:43.5479|INFO|Logger|Chosen color for player: White
+2022-05-31 13:23:43.7569|INFO|Logger|<- move E8
+2022-05-31 13:23:43.8889|INFO|Logger|-> move E2
+2022-05-31 13:23:43.8889|INFO|Logger|<- move E7
+2022-05-31 13:23:44.0209|INFO|Logger|-> move E3
+2022-05-31 13:23:44.0209|INFO|Logger|<- move E6
+2022-05-31 13:23:44.1470|INFO|Logger|-> move E4
+2022-05-31 13:23:44.1470|INFO|Logger|<- move E5
+2022-05-31 13:23:44.2810|INFO|Logger|-> jump E6
+2022-05-31 13:23:44.3080|INFO|Logger|<- wall U8h
+2022-05-31 13:23:44.4560|INFO|Logger|-> move E7
+2022-05-31 13:23:44.4560|INFO|Logger|<- move E4
+2022-05-31 13:23:44.5650|INFO|Logger|-> move E8
+2022-05-31 13:23:44.5650|INFO|Logger|<- wall W8h
+2022-05-31 13:23:44.6510|INFO|Logger|-> wall W5h
+2022-05-31 13:23:44.6560|INFO|Logger|<- wall Y8h
+2022-05-31 13:23:44.7290|INFO|Logger|-> move D8
+2022-05-31 13:23:44.7310|INFO|Logger|<- move E3
+2022-05-31 13:23:44.7770|INFO|Logger|-> move C8
+2022-05-31 13:23:44.7770|INFO|Logger|<- wall S8h
+2022-05-31 13:23:44.8800|INFO|Logger|-> move D8
+2022-05-31 13:23:44.8800|INFO|Logger|<- move E2
+2022-05-31 13:23:44.9650|INFO|Logger|-> wall U5v
+2022-05-31 13:23:44.9650|INFO|Logger|<- move E1
+2022-05-31 13:23:44.9650|INFO|Logger|Killing client process...
+2022-05-31 13:23:45.4720|INFO|Logger|Win 
+2022-05-31 13:23:45.4720|INFO|Logger|----------------------
+2022-05-31 13:23:45.4720|INFO|Logger|Executing run #74
+2022-05-31 13:23:45.4720|INFO|Logger|Chosen color for player: White
+2022-05-31 13:23:45.6900|INFO|Logger|<- move E8
+2022-05-31 13:23:45.8150|INFO|Logger|-> move E2
+2022-05-31 13:23:45.8250|INFO|Logger|<- move E7
+2022-05-31 13:23:45.9641|INFO|Logger|-> wall V1v
+2022-05-31 13:23:45.9841|INFO|Logger|<- move E6
+2022-05-31 13:23:46.1181|INFO|Logger|-> move E3
+2022-05-31 13:23:46.1181|INFO|Logger|<- move E5
+2022-05-31 13:23:46.2431|INFO|Logger|-> move E4
+2022-05-31 13:23:46.2431|INFO|Logger|<- jump E3
+2022-05-31 13:23:46.3591|INFO|Logger|-> move E5
+2022-05-31 13:23:46.3591|INFO|Logger|<- move E2
+2022-05-31 13:23:46.4711|INFO|Logger|-> move E6
+2022-05-31 13:23:46.4711|INFO|Logger|<- move E1
+2022-05-31 13:23:46.4711|INFO|Logger|Killing client process...
+2022-05-31 13:23:46.9771|INFO|Logger|Win 
+2022-05-31 13:23:46.9771|INFO|Logger|----------------------
+2022-05-31 13:23:46.9771|INFO|Logger|Executing run #75
+2022-05-31 13:23:46.9771|INFO|Logger|Chosen color for player: White
+2022-05-31 13:23:47.2061|INFO|Logger|<- move E8
+2022-05-31 13:23:47.3421|INFO|Logger|-> move E2
+2022-05-31 13:23:47.3421|INFO|Logger|<- move E7
+2022-05-31 13:23:47.4911|INFO|Logger|-> wall V1v
+2022-05-31 13:23:47.5111|INFO|Logger|<- move E6
+2022-05-31 13:23:47.6372|INFO|Logger|-> move E3
+2022-05-31 13:23:47.6372|INFO|Logger|<- wall U8h
+2022-05-31 13:23:47.7662|INFO|Logger|-> move E4
+2022-05-31 13:23:47.7662|INFO|Logger|<- wall W8h
+2022-05-31 13:23:47.8822|INFO|Logger|-> move E5
+2022-05-31 13:23:47.8822|INFO|Logger|<- wall Y8h
+2022-05-31 13:23:47.9902|INFO|Logger|-> jump E7
+2022-05-31 13:23:47.9902|INFO|Logger|<- move E5
+2022-05-31 13:23:48.0682|INFO|Logger|-> move E8
+2022-05-31 13:23:48.0682|INFO|Logger|<- move E4
+2022-05-31 13:23:48.1492|INFO|Logger|-> wall W5h
+2022-05-31 13:23:48.1492|INFO|Logger|<- move E3
+2022-05-31 13:23:48.2062|INFO|Logger|-> wall V5v
+2022-05-31 13:23:48.2062|INFO|Logger|<- move E2
+2022-05-31 13:23:48.2612|INFO|Logger|-> wall V7v
+2022-05-31 13:23:48.2612|INFO|Logger|<- move E1
+2022-05-31 13:23:48.2612|INFO|Logger|Killing client process...
+2022-05-31 13:23:48.7662|INFO|Logger|Win 
+2022-05-31 13:23:48.7662|INFO|Logger|----------------------
+2022-05-31 13:23:48.7662|INFO|Logger|Executing run #76
+2022-05-31 13:23:48.7722|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:23:48.9462|INFO|Logger|-> move E8
+2022-05-31 13:23:49.0452|INFO|Logger|<- move E2
+2022-05-31 13:23:49.1702|INFO|Logger|-> move E7
+2022-05-31 13:23:49.1762|INFO|Logger|<- move E3
+2022-05-31 13:23:49.3072|INFO|Logger|-> wall W7h
+2022-05-31 13:23:49.3343|INFO|Logger|<- wall U1h
+2022-05-31 13:23:49.4703|INFO|Logger|-> move E6
+2022-05-31 13:23:49.4733|INFO|Logger|<- move E4
+2022-05-31 13:23:49.5963|INFO|Logger|-> wall V7v
+2022-05-31 13:23:49.6023|INFO|Logger|<- move E5
+2022-05-31 13:23:49.7223|INFO|Logger|-> wall V5h
+2022-05-31 13:23:49.7223|INFO|Logger|<- move F5
+2022-05-31 13:23:49.8423|INFO|Logger|-> move F6
+2022-05-31 13:23:49.8423|INFO|Logger|<- jump F7
+2022-05-31 13:23:49.9453|INFO|Logger|-> move F5
+2022-05-31 13:23:49.9453|INFO|Logger|<- move G7
+2022-05-31 13:23:50.0513|INFO|Logger|-> wall X5h
+2022-05-31 13:23:50.0513|INFO|Logger|<- move G8
+2022-05-31 13:23:50.1333|INFO|Logger|-> move F4
+2022-05-31 13:23:50.1333|INFO|Logger|<- wall W1h
+2022-05-31 13:23:50.2063|INFO|Logger|-> wall X4v
+2022-05-31 13:23:50.2063|INFO|Logger|<- wall Y1h
+2022-05-31 13:23:50.2693|INFO|Logger|-> wall W5v
+2022-05-31 13:23:50.2693|INFO|Logger|<- move G9
+2022-05-31 13:23:50.2693|INFO|Logger|Killing client process...
+2022-05-31 13:23:50.7753|INFO|Logger|Win 
+2022-05-31 13:23:50.7753|INFO|Logger|----------------------
+2022-05-31 13:23:50.7753|INFO|Logger|Executing run #77
+2022-05-31 13:23:50.7833|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:23:50.9133|INFO|Logger|-> move E8
+2022-05-31 13:23:51.0854|INFO|Logger|<- move E2
+2022-05-31 13:23:51.2124|INFO|Logger|-> move E7
+2022-05-31 13:23:51.2124|INFO|Logger|<- move E3
+2022-05-31 13:23:51.3524|INFO|Logger|-> move E6
+2022-05-31 13:23:51.3524|INFO|Logger|<- move E4
+2022-05-31 13:23:51.5004|INFO|Logger|-> move E5
+2022-05-31 13:23:51.5004|INFO|Logger|<- wall U1h
+2022-05-31 13:23:51.6434|INFO|Logger|-> wall W5h
+2022-05-31 13:23:51.6434|INFO|Logger|<- wall W1h
+2022-05-31 13:23:51.7634|INFO|Logger|-> move F5
+2022-05-31 13:23:51.7654|INFO|Logger|<- move E5
+2022-05-31 13:23:51.8734|INFO|Logger|-> move G5
+2022-05-31 13:23:51.8754|INFO|Logger|<- move F5
+2022-05-31 13:23:51.9924|INFO|Logger|-> wall Y5h
+2022-05-31 13:23:51.9924|INFO|Logger|<- jump H5
+2022-05-31 13:23:52.1064|INFO|Logger|-> move G4
+2022-05-31 13:23:52.1084|INFO|Logger|<- wall Y1h
+2022-05-31 13:23:52.2184|INFO|Logger|-> move H4
+2022-05-31 13:23:52.2184|INFO|Logger|<- move I5
+2022-05-31 13:23:52.3384|INFO|Logger|-> wall Z5v
+2022-05-31 13:23:52.3384|INFO|Logger|<- move I6
+2022-05-31 13:23:52.4804|INFO|Logger|-> move I4
+2022-05-31 13:23:52.4804|INFO|Logger|<- move I7
+2022-05-31 13:23:52.5764|INFO|Logger|-> move I3
+2022-05-31 13:23:52.5764|INFO|Logger|<- move I8
+2022-05-31 13:23:52.6484|INFO|Logger|-> wall Z3v
+2022-05-31 13:23:52.6484|INFO|Logger|<- move I9
+2022-05-31 13:23:52.6484|INFO|Logger|Killing client process...
+2022-05-31 13:23:53.1535|INFO|Logger|Win 
+2022-05-31 13:23:53.1585|INFO|Logger|----------------------
+2022-05-31 13:23:53.1585|INFO|Logger|Executing run #78
+2022-05-31 13:23:53.1585|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:23:53.3235|INFO|Logger|-> wall U8v
+2022-05-31 13:23:53.4625|INFO|Logger|<- move E2
+2022-05-31 13:23:53.6135|INFO|Logger|-> move E8
+2022-05-31 13:23:53.6135|INFO|Logger|<- move E3
+2022-05-31 13:23:53.7455|INFO|Logger|-> move E7
+2022-05-31 13:23:53.7545|INFO|Logger|<- wall U1h
+2022-05-31 13:23:53.8865|INFO|Logger|-> wall W7h
+2022-05-31 13:23:53.8925|INFO|Logger|<- wall W1h
+2022-05-31 13:23:54.0155|INFO|Logger|-> move F7
+2022-05-31 13:23:54.0155|INFO|Logger|<- wall Y1h
+2022-05-31 13:23:54.1215|INFO|Logger|-> move G7
+2022-05-31 13:23:54.1215|INFO|Logger|<- move E4
+2022-05-31 13:23:54.2215|INFO|Logger|-> move H7
+2022-05-31 13:23:54.2215|INFO|Logger|<- move E5
+2022-05-31 13:23:54.3475|INFO|Logger|-> wall Z7h
+2022-05-31 13:23:54.3475|INFO|Logger|<- move E6
+2022-05-31 13:23:54.4445|INFO|Logger|-> move I7
+2022-05-31 13:23:54.4445|INFO|Logger|<- move E7
+2022-05-31 13:23:54.5425|INFO|Logger|-> move I6
+2022-05-31 13:23:54.5425|INFO|Logger|<- move F7
+2022-05-31 13:23:54.6286|INFO|Logger|-> move I5
+2022-05-31 13:23:54.6286|INFO|Logger|<- move G7
+2022-05-31 13:23:54.7176|INFO|Logger|-> move I4
+2022-05-31 13:23:54.7176|INFO|Logger|<- move G8
+2022-05-31 13:23:54.8116|INFO|Logger|-> wall Z4v
+2022-05-31 13:23:54.8116|INFO|Logger|<- move G9
+2022-05-31 13:23:54.8116|INFO|Logger|Killing client process...
+2022-05-31 13:23:55.3156|INFO|Logger|Win 
+2022-05-31 13:23:55.3156|INFO|Logger|----------------------
+2022-05-31 13:23:55.3156|INFO|Logger|Executing run #79
+2022-05-31 13:23:55.3226|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:23:55.5116|INFO|Logger|-> move E8
+2022-05-31 13:23:55.6296|INFO|Logger|<- move E2
+2022-05-31 13:23:55.7516|INFO|Logger|-> wall V8v
+2022-05-31 13:23:55.7726|INFO|Logger|<- move E3
+2022-05-31 13:23:55.8956|INFO|Logger|-> move E7
+2022-05-31 13:23:55.9116|INFO|Logger|<- wall U1h
+2022-05-31 13:23:56.0346|INFO|Logger|-> move E6
+2022-05-31 13:23:56.0346|INFO|Logger|<- move E4
+2022-05-31 13:23:56.1516|INFO|Logger|-> move E5
+2022-05-31 13:23:56.1516|INFO|Logger|<- jump E6
+2022-05-31 13:23:56.2556|INFO|Logger|-> move E4
+2022-05-31 13:23:56.2586|INFO|Logger|<- wall W1h
+2022-05-31 13:23:56.3717|INFO|Logger|-> move F4
+2022-05-31 13:23:56.3717|INFO|Logger|<- move E7
+2022-05-31 13:23:56.4657|INFO|Logger|-> move G4
+2022-05-31 13:23:56.4657|INFO|Logger|<- wall Y1h
+2022-05-31 13:23:56.5797|INFO|Logger|-> wall Y4h
+2022-05-31 13:23:56.5797|INFO|Logger|<- move E8
+2022-05-31 13:23:56.6657|INFO|Logger|-> move H4
+2022-05-31 13:23:56.6657|INFO|Logger|<- move E9
+2022-05-31 13:23:56.6657|INFO|Logger|Killing client process...
+2022-05-31 13:23:57.1697|INFO|Logger|Win 
+2022-05-31 13:23:57.1697|INFO|Logger|----------------------
+2022-05-31 13:23:57.1697|INFO|Logger|Executing run #80
+2022-05-31 13:23:57.1697|INFO|Logger|Chosen color for player: White
+2022-05-31 13:23:57.4127|INFO|Logger|<- move E8
+2022-05-31 13:23:57.5627|INFO|Logger|-> wall U1v
+2022-05-31 13:23:57.5837|INFO|Logger|<- move E7
+2022-05-31 13:23:57.7227|INFO|Logger|-> move E2
+2022-05-31 13:23:57.7247|INFO|Logger|<- move E6
+2022-05-31 13:23:57.8467|INFO|Logger|-> move E3
+2022-05-31 13:23:57.8467|INFO|Logger|<- move E5
+2022-05-31 13:23:57.9737|INFO|Logger|-> move E4
+2022-05-31 13:23:57.9757|INFO|Logger|<- jump E3
+2022-05-31 13:23:58.0828|INFO|Logger|-> move E5
+2022-05-31 13:23:58.0858|INFO|Logger|<- wall U8h
+2022-05-31 13:23:58.1868|INFO|Logger|-> move E6
+2022-05-31 13:23:58.1868|INFO|Logger|<- move E2
+2022-05-31 13:23:58.2698|INFO|Logger|-> move E7
+2022-05-31 13:23:58.2718|INFO|Logger|<- wall W8h
+2022-05-31 13:23:58.3598|INFO|Logger|-> move E8
+2022-05-31 13:23:58.3598|INFO|Logger|<- wall Y8h
+2022-05-31 13:23:58.4228|INFO|Logger|-> wall W5h
+2022-05-31 13:23:58.4268|INFO|Logger|<- move E1
+2022-05-31 13:23:58.4268|INFO|Logger|Killing client process...
+2022-05-31 13:23:58.9288|INFO|Logger|Win 
+2022-05-31 13:23:58.9288|INFO|Logger|----------------------
+2022-05-31 13:23:58.9288|INFO|Logger|Executing run #81
+2022-05-31 13:23:58.9288|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:23:59.0808|INFO|Logger|-> wall U8v
+2022-05-31 13:23:59.2228|INFO|Logger|<- move E2
+2022-05-31 13:23:59.3678|INFO|Logger|-> move E8
+2022-05-31 13:23:59.3678|INFO|Logger|<- move E3
+2022-05-31 13:23:59.4978|INFO|Logger|-> move E7
+2022-05-31 13:23:59.4978|INFO|Logger|<- wall U1h
+2022-05-31 13:23:59.6388|INFO|Logger|-> move E6
+2022-05-31 13:23:59.6388|INFO|Logger|<- move E4
+2022-05-31 13:23:59.7648|INFO|Logger|-> move E5
+2022-05-31 13:23:59.7648|INFO|Logger|<- jump E6
+2022-05-31 13:23:59.8679|INFO|Logger|-> move E4
+2022-05-31 13:23:59.8679|INFO|Logger|<- wall W1h
+2022-05-31 13:23:59.9659|INFO|Logger|-> move F4
+2022-05-31 13:23:59.9659|INFO|Logger|<- move E7
+2022-05-31 13:24:00.0539|INFO|Logger|-> move G4
+2022-05-31 13:24:00.0539|INFO|Logger|<- move E8
+2022-05-31 13:24:00.1559|INFO|Logger|-> wall Y4h
+2022-05-31 13:24:00.1609|INFO|Logger|<- wall Y1h
+2022-05-31 13:24:00.2409|INFO|Logger|-> move H4
+2022-05-31 13:24:00.2409|INFO|Logger|<- move E9
+2022-05-31 13:24:00.2409|INFO|Logger|Killing client process...
+2022-05-31 13:24:00.7449|INFO|Logger|Win 
+2022-05-31 13:24:00.7449|INFO|Logger|----------------------
+2022-05-31 13:24:00.7449|INFO|Logger|Executing run #82
+2022-05-31 13:24:00.7449|INFO|Logger|Chosen color for player: White
+2022-05-31 13:24:00.9629|INFO|Logger|<- move E8
+2022-05-31 13:24:01.1009|INFO|Logger|-> move E2
+2022-05-31 13:24:01.1129|INFO|Logger|<- move E7
+2022-05-31 13:24:01.2409|INFO|Logger|-> wall V1v
+2022-05-31 13:24:01.2559|INFO|Logger|<- move E6
+2022-05-31 13:24:01.3929|INFO|Logger|-> move E3
+2022-05-31 13:24:01.3929|INFO|Logger|<- move E5
+2022-05-31 13:24:01.5279|INFO|Logger|-> move E4
+2022-05-31 13:24:01.5279|INFO|Logger|<- jump E3
+2022-05-31 13:24:01.6510|INFO|Logger|-> move E5
+2022-05-31 13:24:01.6510|INFO|Logger|<- wall U8h
+2022-05-31 13:24:01.7500|INFO|Logger|-> move E6
+2022-05-31 13:24:01.7500|INFO|Logger|<- wall W8h
+2022-05-31 13:24:01.8310|INFO|Logger|-> move E7
+2022-05-31 13:24:01.8310|INFO|Logger|<- move E2
+2022-05-31 13:24:01.9030|INFO|Logger|-> move E8
+2022-05-31 13:24:01.9030|INFO|Logger|<- move E1
+2022-05-31 13:24:01.9030|INFO|Logger|Killing client process...
+2022-05-31 13:24:02.4080|INFO|Logger|Win 
+2022-05-31 13:24:02.4080|INFO|Logger|----------------------
+2022-05-31 13:24:02.4080|INFO|Logger|Executing run #83
+2022-05-31 13:24:02.4080|INFO|Logger|Chosen color for player: White
+2022-05-31 13:24:02.6840|INFO|Logger|<- move E8
+2022-05-31 13:24:02.8080|INFO|Logger|-> move E2
+2022-05-31 13:24:02.8110|INFO|Logger|<- move E7
+2022-05-31 13:24:02.9460|INFO|Logger|-> move E3
+2022-05-31 13:24:02.9510|INFO|Logger|<- move E6
+2022-05-31 13:24:03.0780|INFO|Logger|-> move E4
+2022-05-31 13:24:03.0780|INFO|Logger|<- wall U8h
+2022-05-31 13:24:03.2130|INFO|Logger|-> move E5
+2022-05-31 13:24:03.2190|INFO|Logger|<- wall W8h
+2022-05-31 13:24:03.3511|INFO|Logger|-> wall W2h
+2022-05-31 13:24:03.3571|INFO|Logger|<- wall Y8h
+2022-05-31 13:24:03.4731|INFO|Logger|-> jump E7
+2022-05-31 13:24:03.4731|INFO|Logger|<- move E5
+2022-05-31 13:24:03.5541|INFO|Logger|-> move E8
+2022-05-31 13:24:03.5541|INFO|Logger|<- move E4
+2022-05-31 13:24:03.6261|INFO|Logger|-> move D8
+2022-05-31 13:24:03.6261|INFO|Logger|<- wall S8h
+2022-05-31 13:24:03.7471|INFO|Logger|-> wall V5h
+2022-05-31 13:24:03.7471|INFO|Logger|<- move E3
+2022-05-31 13:24:03.8411|INFO|Logger|-> wall U5v
+2022-05-31 13:24:03.8411|INFO|Logger|<- move F3
+2022-05-31 13:24:03.9421|INFO|Logger|-> wall U7v
+2022-05-31 13:24:03.9421|INFO|Logger|<- move G3
+2022-05-31 13:24:04.0331|INFO|Logger|-> wall W7v
+2022-05-31 13:24:04.0331|INFO|Logger|<- move G2
+2022-05-31 13:24:04.1111|INFO|Logger|-> move E8
+2022-05-31 13:24:04.1111|INFO|Logger|<- move G1
+2022-05-31 13:24:04.1111|INFO|Logger|Killing client process...
+2022-05-31 13:24:04.6151|INFO|Logger|Win 
+2022-05-31 13:24:04.6151|INFO|Logger|----------------------
+2022-05-31 13:24:04.6201|INFO|Logger|Executing run #84
+2022-05-31 13:24:04.6201|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:24:04.8141|INFO|Logger|-> move E8
+2022-05-31 13:24:04.9481|INFO|Logger|<- move E2
+2022-05-31 13:24:05.0732|INFO|Logger|-> move E7
+2022-05-31 13:24:05.0732|INFO|Logger|<- move E3
+2022-05-31 13:24:05.2052|INFO|Logger|-> wall W7h
+2022-05-31 13:24:05.2182|INFO|Logger|<- move E4
+2022-05-31 13:24:05.3772|INFO|Logger|-> move E6
+2022-05-31 13:24:05.3772|INFO|Logger|<- wall U1h
+2022-05-31 13:24:05.5122|INFO|Logger|-> move E5
+2022-05-31 13:24:05.5122|INFO|Logger|<- jump E6
+2022-05-31 13:24:05.6182|INFO|Logger|-> move E4
+2022-05-31 13:24:05.6182|INFO|Logger|<- move E7
+2022-05-31 13:24:05.7202|INFO|Logger|-> move E3
+2022-05-31 13:24:05.7202|INFO|Logger|<- wall W1h
+2022-05-31 13:24:05.7972|INFO|Logger|-> wall W3h
+2022-05-31 13:24:05.7972|INFO|Logger|<- wall Y1h
+2022-05-31 13:24:05.8702|INFO|Logger|-> move E2
+2022-05-31 13:24:05.8702|INFO|Logger|<- move F7
+2022-05-31 13:24:05.9252|INFO|Logger|-> move D2
+2022-05-31 13:24:05.9252|INFO|Logger|<- wall S1h
+2022-05-31 13:24:06.0282|INFO|Logger|-> wall V2h
+2022-05-31 13:24:06.0282|INFO|Logger|<- move G7
+2022-05-31 13:24:06.1182|INFO|Logger|-> move E2
+2022-05-31 13:24:06.1182|INFO|Logger|<- move G8
+2022-05-31 13:24:06.2072|INFO|Logger|-> move F2
+2022-05-31 13:24:06.2072|INFO|Logger|<- move G9
+2022-05-31 13:24:06.2072|INFO|Logger|Killing client process...
+2022-05-31 13:24:06.7102|INFO|Logger|Win 
+2022-05-31 13:24:06.7102|INFO|Logger|----------------------
+2022-05-31 13:24:06.7102|INFO|Logger|Executing run #85
+2022-05-31 13:24:06.7102|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:24:06.8893|INFO|Logger|-> wall U8v
+2022-05-31 13:24:07.0003|INFO|Logger|<- move E2
+2022-05-31 13:24:07.1193|INFO|Logger|-> wall X8v
+2022-05-31 13:24:07.1193|INFO|Logger|<- move E3
+2022-05-31 13:24:07.2503|INFO|Logger|-> move E8
+2022-05-31 13:24:07.2503|INFO|Logger|<- move E4
+2022-05-31 13:24:07.3823|INFO|Logger|-> move E7
+2022-05-31 13:24:07.3823|INFO|Logger|<- wall U1h
+2022-05-31 13:24:07.5103|INFO|Logger|-> move E6
+2022-05-31 13:24:07.5103|INFO|Logger|<- wall W1h
+2022-05-31 13:24:07.6213|INFO|Logger|-> move F6
+2022-05-31 13:24:07.6213|INFO|Logger|<- move E5
+2022-05-31 13:24:07.7293|INFO|Logger|-> move G6
+2022-05-31 13:24:07.7293|INFO|Logger|<- wall Y1h
+2022-05-31 13:24:07.8373|INFO|Logger|-> wall Y6h
+2022-05-31 13:24:07.8373|INFO|Logger|<- move E6
+2022-05-31 13:24:07.9263|INFO|Logger|-> move H6
+2022-05-31 13:24:07.9273|INFO|Logger|<- move E7
+2022-05-31 13:24:08.0103|INFO|Logger|-> wall Z5v
+2022-05-31 13:24:08.0103|INFO|Logger|<- move E8
+2022-05-31 13:24:08.0923|INFO|Logger|-> wall X6v
+2022-05-31 13:24:08.0923|INFO|Logger|<- move E9
+2022-05-31 13:24:08.0923|INFO|Logger|Killing client process...
+2022-05-31 13:24:08.5984|INFO|Logger|Win 
+2022-05-31 13:24:08.5984|INFO|Logger|----------------------
+2022-05-31 13:24:08.5984|INFO|Logger|Executing run #86
+2022-05-31 13:24:08.5984|INFO|Logger|Chosen color for player: White
+2022-05-31 13:24:08.8644|INFO|Logger|<- move E8
+2022-05-31 13:24:08.9894|INFO|Logger|-> move E2
+2022-05-31 13:24:08.9894|INFO|Logger|<- move E7
+2022-05-31 13:24:09.1314|INFO|Logger|-> wall V1v
+2022-05-31 13:24:09.1314|INFO|Logger|<- move E6
+2022-05-31 13:24:09.2774|INFO|Logger|-> move E3
+2022-05-31 13:24:09.2774|INFO|Logger|<- move E5
+2022-05-31 13:24:09.4154|INFO|Logger|-> move E4
+2022-05-31 13:24:09.4154|INFO|Logger|<- wall U8h
+2022-05-31 13:24:09.5444|INFO|Logger|-> jump E6
+2022-05-31 13:24:09.5444|INFO|Logger|<- wall W8h
+2022-05-31 13:24:09.6694|INFO|Logger|-> move E7
+2022-05-31 13:24:09.6694|INFO|Logger|<- wall Y8h
+2022-05-31 13:24:09.7954|INFO|Logger|-> wall W4h
+2022-05-31 13:24:09.7994|INFO|Logger|<- move F5
+2022-05-31 13:24:09.8754|INFO|Logger|-> wall V4v
+2022-05-31 13:24:09.8794|INFO|Logger|<- move G5
+2022-05-31 13:24:09.9654|INFO|Logger|-> wall V6v
+2022-05-31 13:24:09.9654|INFO|Logger|<- move G4
+2022-05-31 13:24:10.0274|INFO|Logger|-> move E8
+2022-05-31 13:24:10.0274|INFO|Logger|<- move G3
+2022-05-31 13:24:10.0844|INFO|Logger|-> move D8
+2022-05-31 13:24:10.0844|INFO|Logger|<- wall S8h
+2022-05-31 13:24:10.1824|INFO|Logger|-> wall V5h
+2022-05-31 13:24:10.1824|INFO|Logger|<- move G2
+2022-05-31 13:24:10.2814|INFO|Logger|-> move E8
+2022-05-31 13:24:10.2834|INFO|Logger|<- move G1
+2022-05-31 13:24:10.2834|INFO|Logger|Killing client process...
+2022-05-31 13:24:10.7855|INFO|Logger|Win 
+2022-05-31 13:24:10.7855|INFO|Logger|----------------------
+2022-05-31 13:24:10.7855|INFO|Logger|Executing run #87
+2022-05-31 13:24:10.7855|INFO|Logger|Chosen color for player: White
+2022-05-31 13:24:11.0115|INFO|Logger|<- move E8
+2022-05-31 13:24:11.1475|INFO|Logger|-> move E2
+2022-05-31 13:24:11.1475|INFO|Logger|<- move E7
+2022-05-31 13:24:11.2795|INFO|Logger|-> move E3
+2022-05-31 13:24:11.2885|INFO|Logger|<- wall U8h
+2022-05-31 13:24:11.4275|INFO|Logger|-> move E4
+2022-05-31 13:24:11.4275|INFO|Logger|<- move E6
+2022-05-31 13:24:11.5665|INFO|Logger|-> wall W1h
+2022-05-31 13:24:11.5665|INFO|Logger|<- move E5
+2022-05-31 13:24:11.6975|INFO|Logger|-> jump E6
+2022-05-31 13:24:11.7045|INFO|Logger|<- move E4
+2022-05-31 13:24:11.8235|INFO|Logger|-> move E7
+2022-05-31 13:24:11.8235|INFO|Logger|<- wall W8h
+2022-05-31 13:24:11.9125|INFO|Logger|-> wall W4h
+2022-05-31 13:24:11.9125|INFO|Logger|<- move E3
+2022-05-31 13:24:11.9835|INFO|Logger|-> move E8
+2022-05-31 13:24:11.9835|INFO|Logger|<- wall Y8h
+2022-05-31 13:24:12.0375|INFO|Logger|-> move D8
+2022-05-31 13:24:12.0375|INFO|Logger|<- wall S8h
+2022-05-31 13:24:12.1306|INFO|Logger|-> wall V5h
+2022-05-31 13:24:12.1306|INFO|Logger|<- move E2
+2022-05-31 13:24:12.2126|INFO|Logger|-> move E8
+2022-05-31 13:24:12.2126|INFO|Logger|<- move F2
+2022-05-31 13:24:12.2986|INFO|Logger|-> move F8
+2022-05-31 13:24:12.2986|INFO|Logger|<- move G2
+2022-05-31 13:24:12.3946|INFO|Logger|-> move G8
+2022-05-31 13:24:12.3946|INFO|Logger|<- move G1
+2022-05-31 13:24:12.3946|INFO|Logger|Killing client process...
+2022-05-31 13:24:12.8986|INFO|Logger|Win 
+2022-05-31 13:24:12.8986|INFO|Logger|----------------------
+2022-05-31 13:24:12.8986|INFO|Logger|Executing run #88
+2022-05-31 13:24:12.8986|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:24:13.1036|INFO|Logger|-> move E8
+2022-05-31 13:24:13.1946|INFO|Logger|<- move E2
+2022-05-31 13:24:13.3306|INFO|Logger|-> wall V8v
+2022-05-31 13:24:13.3536|INFO|Logger|<- move E3
+2022-05-31 13:24:13.4716|INFO|Logger|-> move E7
+2022-05-31 13:24:13.4716|INFO|Logger|<- wall U1h
+2022-05-31 13:24:13.5976|INFO|Logger|-> move E6
+2022-05-31 13:24:13.5976|INFO|Logger|<- wall W1h
+2022-05-31 13:24:13.7206|INFO|Logger|-> move F6
+2022-05-31 13:24:13.7206|INFO|Logger|<- move E4
+2022-05-31 13:24:13.8557|INFO|Logger|-> move G6
+2022-05-31 13:24:13.8557|INFO|Logger|<- move E5
+2022-05-31 13:24:13.9647|INFO|Logger|-> move G5
+2022-05-31 13:24:13.9647|INFO|Logger|<- move E6
+2022-05-31 13:24:14.0667|INFO|Logger|-> wall Y5h
+2022-05-31 13:24:14.0667|INFO|Logger|<- wall Y1h
+2022-05-31 13:24:14.1787|INFO|Logger|-> wall X4h
+2022-05-31 13:24:14.1787|INFO|Logger|<- move E7
+2022-05-31 13:24:14.2637|INFO|Logger|-> move H5
+2022-05-31 13:24:14.2637|INFO|Logger|<- move E8
+2022-05-31 13:24:14.3657|INFO|Logger|-> wall Z4v
+2022-05-31 13:24:14.3657|INFO|Logger|<- move E9
+2022-05-31 13:24:14.3657|INFO|Logger|Killing client process...
+2022-05-31 13:24:14.8707|INFO|Logger|Win 
+2022-05-31 13:24:14.8707|INFO|Logger|----------------------
+2022-05-31 13:24:14.8707|INFO|Logger|Executing run #89
+2022-05-31 13:24:14.8707|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:24:15.0597|INFO|Logger|-> move E8
+2022-05-31 13:24:15.1457|INFO|Logger|<- move E2
+2022-05-31 13:24:15.2707|INFO|Logger|-> move E7
+2022-05-31 13:24:15.2707|INFO|Logger|<- move E3
+2022-05-31 13:24:15.4217|INFO|Logger|-> move E6
+2022-05-31 13:24:15.4217|INFO|Logger|<- wall U1h
+2022-05-31 13:24:15.5577|INFO|Logger|-> move E5
+2022-05-31 13:24:15.5577|INFO|Logger|<- wall W1h
+2022-05-31 13:24:15.6808|INFO|Logger|-> wall W5h
+2022-05-31 13:24:15.6808|INFO|Logger|<- wall Y1h
+2022-05-31 13:24:15.7948|INFO|Logger|-> wall V4h
+2022-05-31 13:24:15.8058|INFO|Logger|<- move E4
+2022-05-31 13:24:15.9368|INFO|Logger|-> move D5
+2022-05-31 13:24:15.9368|INFO|Logger|<- move F4
+2022-05-31 13:24:16.0658|INFO|Logger|-> move C5
+2022-05-31 13:24:16.0658|INFO|Logger|<- wall S1h
+2022-05-31 13:24:16.1718|INFO|Logger|-> move D5
+2022-05-31 13:24:16.1718|INFO|Logger|<- move F5
+2022-05-31 13:24:16.2748|INFO|Logger|-> wall U5v
+2022-05-31 13:24:16.2748|INFO|Logger|<- move G5
+2022-05-31 13:24:16.3818|INFO|Logger|-> move E5
+2022-05-31 13:24:16.3828|INFO|Logger|<- move G6
+2022-05-31 13:24:16.4768|INFO|Logger|-> move F5
+2022-05-31 13:24:16.4768|INFO|Logger|<- move G7
+2022-05-31 13:24:16.5788|INFO|Logger|-> wall Y4h
+2022-05-31 13:24:16.5788|INFO|Logger|<- move G8
+2022-05-31 13:24:16.6628|INFO|Logger|-> wall X4v
+2022-05-31 13:24:16.6658|INFO|Logger|<- move G9
+2022-05-31 13:24:16.6658|INFO|Logger|Killing client process...
+2022-05-31 13:24:17.1678|INFO|Logger|Win 
+2022-05-31 13:24:17.1678|INFO|Logger|----------------------
+2022-05-31 13:24:17.1678|INFO|Logger|Executing run #90
+2022-05-31 13:24:17.1678|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:24:17.3038|INFO|Logger|-> move E8
+2022-05-31 13:24:17.5189|INFO|Logger|<- move E2
+2022-05-31 13:24:17.6509|INFO|Logger|-> move E7
+2022-05-31 13:24:17.6509|INFO|Logger|<- move E3
+2022-05-31 13:24:17.7839|INFO|Logger|-> move E6
+2022-05-31 13:24:17.7889|INFO|Logger|<- move E4
+2022-05-31 13:24:17.9399|INFO|Logger|-> move E5
+2022-05-31 13:24:17.9469|INFO|Logger|<- wall U1h
+2022-05-31 13:24:18.0659|INFO|Logger|-> wall W5h
+2022-05-31 13:24:18.0759|INFO|Logger|<- wall W1h
+2022-05-31 13:24:18.1889|INFO|Logger|-> move F5
+2022-05-31 13:24:18.1889|INFO|Logger|<- move E5
+2022-05-31 13:24:18.3229|INFO|Logger|-> wall Y4h
+2022-05-31 13:24:18.3229|INFO|Logger|<- wall Y1h
+2022-05-31 13:24:18.4499|INFO|Logger|-> move G5
+2022-05-31 13:24:18.4499|INFO|Logger|<- move F5
+2022-05-31 13:24:18.5589|INFO|Logger|-> move H5
+2022-05-31 13:24:18.5589|INFO|Logger|<- move G5
+2022-05-31 13:24:18.6679|INFO|Logger|-> wall Z5h
+2022-05-31 13:24:18.6679|INFO|Logger|<- move G6
+2022-05-31 13:24:18.7669|INFO|Logger|-> move I5
+2022-05-31 13:24:18.7669|INFO|Logger|<- move G7
+2022-05-31 13:24:18.8509|INFO|Logger|-> move I4
+2022-05-31 13:24:18.8509|INFO|Logger|<- move G8
+2022-05-31 13:24:18.9309|INFO|Logger|-> move I3
+2022-05-31 13:24:18.9309|INFO|Logger|<- move G9
+2022-05-31 13:24:18.9309|INFO|Logger|Killing client process...
+2022-05-31 13:24:19.4350|INFO|Logger|Win 
+2022-05-31 13:24:19.4350|INFO|Logger|----------------------
+2022-05-31 13:24:19.4350|INFO|Logger|Executing run #91
+2022-05-31 13:24:19.4350|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:24:19.6620|INFO|Logger|-> move E8
+2022-05-31 13:24:19.7510|INFO|Logger|<- move E2
+2022-05-31 13:24:19.8860|INFO|Logger|-> move E7
+2022-05-31 13:24:19.8860|INFO|Logger|<- move E3
+2022-05-31 13:24:20.0170|INFO|Logger|-> move E6
+2022-05-31 13:24:20.0170|INFO|Logger|<- wall U1h
+2022-05-31 13:24:20.1510|INFO|Logger|-> wall W6h
+2022-05-31 13:24:20.1590|INFO|Logger|<- wall W1h
+2022-05-31 13:24:20.2820|INFO|Logger|-> move F6
+2022-05-31 13:24:20.2850|INFO|Logger|<- move E4
+2022-05-31 13:24:20.4120|INFO|Logger|-> move G6
+2022-05-31 13:24:20.4120|INFO|Logger|<- move E5
+2022-05-31 13:24:20.5250|INFO|Logger|-> move G5
+2022-05-31 13:24:20.5250|INFO|Logger|<- wall Y1h
+2022-05-31 13:24:20.6340|INFO|Logger|-> move H5
+2022-05-31 13:24:20.6340|INFO|Logger|<- move E6
+2022-05-31 13:24:20.7890|INFO|Logger|-> wall Z5h
+2022-05-31 13:24:20.7890|INFO|Logger|<- move F6
+2022-05-31 13:24:21.0031|INFO|Logger|-> move I5
+2022-05-31 13:24:21.0031|INFO|Logger|<- move G6
+2022-05-31 13:24:21.1491|INFO|Logger|-> move I4
+2022-05-31 13:24:21.1491|INFO|Logger|<- move G7
+2022-05-31 13:24:21.2761|INFO|Logger|-> move I3
+2022-05-31 13:24:21.2761|INFO|Logger|<- move G8
+2022-05-31 13:24:21.3931|INFO|Logger|-> wall Z3v
+2022-05-31 13:24:21.3931|INFO|Logger|<- move G9
+2022-05-31 13:24:21.4281|INFO|Logger|Killing client process...
+2022-05-31 13:24:21.9251|INFO|Logger|Win 
+2022-05-31 13:24:21.9251|INFO|Logger|----------------------
+2022-05-31 13:24:21.9251|INFO|Logger|Executing run #92
+2022-05-31 13:24:21.9251|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:24:22.1181|INFO|Logger|-> wall U8v
+2022-05-31 13:24:22.2221|INFO|Logger|<- move E2
+2022-05-31 13:24:22.3671|INFO|Logger|-> wall X8v
+2022-05-31 13:24:22.3761|INFO|Logger|<- move E3
+2022-05-31 13:24:22.5051|INFO|Logger|-> wall W6h
+2022-05-31 13:24:22.5051|INFO|Logger|<- move E4
+2022-05-31 13:24:22.6272|INFO|Logger|-> wall V6v
+2022-05-31 13:24:22.6272|INFO|Logger|<- move E5
+2022-05-31 13:24:22.7522|INFO|Logger|-> wall V8v
+2022-05-31 13:24:22.7522|INFO|Logger|<- move E6
+2022-05-31 13:24:22.8772|INFO|Logger|-> wall X7h
+2022-05-31 13:24:22.8772|INFO|Logger|<- move F6
+2022-05-31 13:24:23.0132|INFO|Logger|-> move E8
+2022-05-31 13:24:23.0132|INFO|Logger|<- wall U1h
+2022-05-31 13:24:23.1112|INFO|Logger|-> move E7
+2022-05-31 13:24:23.1112|INFO|Logger|<- wall W1h
+2022-05-31 13:24:23.2032|INFO|Logger|-> move F7
+2022-05-31 13:24:23.2032|INFO|Logger|<- move G6
+2022-05-31 13:24:23.3012|INFO|Logger|-> move G7
+2022-05-31 13:24:23.3012|INFO|Logger|<- wall Y1h
+2022-05-31 13:24:23.4052|INFO|Logger|-> move H7
+2022-05-31 13:24:23.4052|INFO|Logger|<- move G7
+2022-05-31 13:24:23.5002|INFO|Logger|-> move I7
+2022-05-31 13:24:23.5002|INFO|Logger|<- move H7
+2022-05-31 13:24:23.5972|INFO|Logger|-> wall Z7v
+2022-05-31 13:24:23.5972|INFO|Logger|<- move H8
+2022-05-31 13:24:23.6852|INFO|Logger|-> move I6
+2022-05-31 13:24:23.6852|INFO|Logger|<- move H9
+2022-05-31 13:24:23.6852|INFO|Logger|Killing client process...
+2022-05-31 13:24:24.1892|INFO|Logger|Win 
+2022-05-31 13:24:24.1892|INFO|Logger|----------------------
+2022-05-31 13:24:24.1892|INFO|Logger|Executing run #93
+2022-05-31 13:24:24.1892|INFO|Logger|Chosen color for player: White
+2022-05-31 13:24:24.4233|INFO|Logger|<- move E8
+2022-05-31 13:24:24.5593|INFO|Logger|-> move E2
+2022-05-31 13:24:24.5593|INFO|Logger|<- move E7
+2022-05-31 13:24:24.7123|INFO|Logger|-> wall V1v
+2022-05-31 13:24:24.7283|INFO|Logger|<- move E6
+2022-05-31 13:24:24.8543|INFO|Logger|-> move E3
+2022-05-31 13:24:24.8543|INFO|Logger|<- move E5
+2022-05-31 13:24:25.0013|INFO|Logger|-> move E4
+2022-05-31 13:24:25.0013|INFO|Logger|<- wall U8h
+2022-05-31 13:24:25.1263|INFO|Logger|-> wall W1h
+2022-05-31 13:24:25.1263|INFO|Logger|<- wall W8h
+2022-05-31 13:24:25.2363|INFO|Logger|-> jump E6
+2022-05-31 13:24:25.2363|INFO|Logger|<- wall Y8h
+2022-05-31 13:24:25.3253|INFO|Logger|-> move E7
+2022-05-31 13:24:25.3253|INFO|Logger|<- move E4
+2022-05-31 13:24:25.4003|INFO|Logger|-> move E8
+2022-05-31 13:24:25.4003|INFO|Logger|<- move E3
+2022-05-31 13:24:25.4733|INFO|Logger|-> wall W5h
+2022-05-31 13:24:25.4733|INFO|Logger|<- move E2
+2022-05-31 13:24:25.5383|INFO|Logger|-> wall V5v
+2022-05-31 13:24:25.5413|INFO|Logger|<- move F2
+2022-05-31 13:24:25.5903|INFO|Logger|-> move D8
+2022-05-31 13:24:25.5903|INFO|Logger|<- move G2
+2022-05-31 13:24:25.6523|INFO|Logger|-> wall U5v
+2022-05-31 13:24:25.6523|INFO|Logger|<- wall S8h
+2022-05-31 13:24:25.7473|INFO|Logger|-> move E8
+2022-05-31 13:24:25.7473|INFO|Logger|<- move G1
+2022-05-31 13:24:25.7473|INFO|Logger|Killing client process...
+2022-05-31 13:24:26.2514|INFO|Logger|Win 
+2022-05-31 13:24:26.2514|INFO|Logger|----------------------
+2022-05-31 13:24:26.2514|INFO|Logger|Executing run #94
+2022-05-31 13:24:26.2514|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:24:26.4164|INFO|Logger|-> move E8
+2022-05-31 13:24:26.5764|INFO|Logger|<- move E2
+2022-05-31 13:24:26.6994|INFO|Logger|-> move E7
+2022-05-31 13:24:26.6994|INFO|Logger|<- move E3
+2022-05-31 13:24:26.8294|INFO|Logger|-> move E6
+2022-05-31 13:24:26.8344|INFO|Logger|<- move E4
+2022-05-31 13:24:26.9614|INFO|Logger|-> move E5
+2022-05-31 13:24:26.9614|INFO|Logger|<- wall U1h
+2022-05-31 13:24:27.1024|INFO|Logger|-> wall W5h
+2022-05-31 13:24:27.1024|INFO|Logger|<- jump F5
+2022-05-31 13:24:27.2294|INFO|Logger|-> move E4
+2022-05-31 13:24:27.2294|INFO|Logger|<- move G5
+2022-05-31 13:24:27.3454|INFO|Logger|-> move E3
+2022-05-31 13:24:27.3454|INFO|Logger|<- wall W1h
+2022-05-31 13:24:27.4414|INFO|Logger|-> move F3
+2022-05-31 13:24:27.4434|INFO|Logger|<- wall Y1h
+2022-05-31 13:24:27.5444|INFO|Logger|-> wall X3h
+2022-05-31 13:24:27.5444|INFO|Logger|<- move G6
+2022-05-31 13:24:27.6304|INFO|Logger|-> move G3
+2022-05-31 13:24:27.6304|INFO|Logger|<- move G7
+2022-05-31 13:24:27.7034|INFO|Logger|-> move H3
+2022-05-31 13:24:27.7034|INFO|Logger|<- move G8
+2022-05-31 13:24:27.7804|INFO|Logger|-> move I3
+2022-05-31 13:24:27.7804|INFO|Logger|<- move G9
+2022-05-31 13:24:27.7804|INFO|Logger|Killing client process...
+2022-05-31 13:24:28.2845|INFO|Logger|Win 
+2022-05-31 13:24:28.2855|INFO|Logger|----------------------
+2022-05-31 13:24:28.2855|INFO|Logger|Executing run #95
+2022-05-31 13:24:28.2855|INFO|Logger|Chosen color for player: White
+2022-05-31 13:24:28.5495|INFO|Logger|<- move E8
+2022-05-31 13:24:28.7405|INFO|Logger|-> move E2
+2022-05-31 13:24:28.7405|INFO|Logger|<- move E7
+2022-05-31 13:24:28.8735|INFO|Logger|-> move E3
+2022-05-31 13:24:28.8855|INFO|Logger|<- wall U8h
+2022-05-31 13:24:29.0135|INFO|Logger|-> move E4
+2022-05-31 13:24:29.0135|INFO|Logger|<- move E6
+2022-05-31 13:24:29.1385|INFO|Logger|-> move E5
+2022-05-31 13:24:29.1455|INFO|Logger|<- wall W8h
+2022-05-31 13:24:29.2605|INFO|Logger|-> wall W2h
+2022-05-31 13:24:29.2685|INFO|Logger|<- jump E4
+2022-05-31 13:24:29.4035|INFO|Logger|-> wall V2v
+2022-05-31 13:24:29.4085|INFO|Logger|<- wall Y8h
+2022-05-31 13:24:29.5065|INFO|Logger|-> move E6
+2022-05-31 13:24:29.5065|INFO|Logger|<- move E3
+2022-05-31 13:24:29.5916|INFO|Logger|-> wall W3h
+2022-05-31 13:24:29.5916|INFO|Logger|<- move F3
+2022-05-31 13:24:29.6616|INFO|Logger|-> move E7
+2022-05-31 13:24:29.6616|INFO|Logger|<- move G3
+2022-05-31 13:24:29.7276|INFO|Logger|-> wall W4h
+2022-05-31 13:24:29.7276|INFO|Logger|<- move G2
+2022-05-31 13:24:29.7786|INFO|Logger|-> move E8
+2022-05-31 13:24:29.7786|INFO|Logger|<- move G1
+2022-05-31 13:24:29.7786|INFO|Logger|Killing client process...
+2022-05-31 13:24:30.2836|INFO|Logger|Win 
+2022-05-31 13:24:30.2836|INFO|Logger|----------------------
+2022-05-31 13:24:30.2836|INFO|Logger|Executing run #96
+2022-05-31 13:24:30.2836|INFO|Logger|Chosen color for player: White
+2022-05-31 13:24:30.5166|INFO|Logger|<- move E8
+2022-05-31 13:24:30.6406|INFO|Logger|-> wall U1v
+2022-05-31 13:24:30.6406|INFO|Logger|<- move E7
+2022-05-31 13:24:30.7786|INFO|Logger|-> move E2
+2022-05-31 13:24:30.7816|INFO|Logger|<- move E6
+2022-05-31 13:24:30.9066|INFO|Logger|-> move E3
+2022-05-31 13:24:30.9066|INFO|Logger|<- move E5
+2022-05-31 13:24:31.0406|INFO|Logger|-> move E4
+2022-05-31 13:24:31.0406|INFO|Logger|<- jump E3
+2022-05-31 13:24:31.1496|INFO|Logger|-> wall W1h
+2022-05-31 13:24:31.1496|INFO|Logger|<- move E2
+2022-05-31 13:24:31.2526|INFO|Logger|-> move E5
+2022-05-31 13:24:31.2526|INFO|Logger|<- wall U8h
+2022-05-31 13:24:31.3667|INFO|Logger|-> move E6
+2022-05-31 13:24:31.3667|INFO|Logger|<- move F2
+2022-05-31 13:24:31.4577|INFO|Logger|-> wall W3h
+2022-05-31 13:24:31.4577|INFO|Logger|<- wall W8h
+2022-05-31 13:24:31.5467|INFO|Logger|-> move E7
+2022-05-31 13:24:31.5467|INFO|Logger|<- move G2
+2022-05-31 13:24:31.6337|INFO|Logger|-> wall W4h
+2022-05-31 13:24:31.6337|INFO|Logger|<- wall Y8h
+2022-05-31 13:24:31.6937|INFO|Logger|-> move E8
+2022-05-31 13:24:31.6937|INFO|Logger|<- move G1
+2022-05-31 13:24:31.6937|INFO|Logger|Killing client process...
+2022-05-31 13:24:32.1967|INFO|Logger|Win 
+2022-05-31 13:24:32.1967|INFO|Logger|----------------------
+2022-05-31 13:24:32.1967|INFO|Logger|Executing run #97
+2022-05-31 13:24:32.1967|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:24:32.4127|INFO|Logger|-> move E8
+2022-05-31 13:24:32.5197|INFO|Logger|<- move E2
+2022-05-31 13:24:32.6727|INFO|Logger|-> move E7
+2022-05-31 13:24:32.6727|INFO|Logger|<- move E3
+2022-05-31 13:24:32.8357|INFO|Logger|-> move E6
+2022-05-31 13:24:32.8357|INFO|Logger|<- move E4
+2022-05-31 13:24:32.9827|INFO|Logger|-> move E5
+2022-05-31 13:24:32.9827|INFO|Logger|<- jump E6
+2022-05-31 13:24:33.1388|INFO|Logger|-> move E4
+2022-05-31 13:24:33.1388|INFO|Logger|<- wall U1h
+2022-05-31 13:24:33.2648|INFO|Logger|-> move E3
+2022-05-31 13:24:33.2648|INFO|Logger|<- wall W1h
+2022-05-31 13:24:33.3858|INFO|Logger|-> wall W3h
+2022-05-31 13:24:33.3898|INFO|Logger|<- move E7
+2022-05-31 13:24:33.4648|INFO|Logger|-> move F3
+2022-05-31 13:24:33.4648|INFO|Logger|<- move E8
+2022-05-31 13:24:33.5368|INFO|Logger|-> move G3
+2022-05-31 13:24:33.5368|INFO|Logger|<- move E9
+2022-05-31 13:24:33.5368|INFO|Logger|Killing client process...
+2022-05-31 13:24:34.0418|INFO|Logger|Win 
+2022-05-31 13:24:34.0418|INFO|Logger|----------------------
+2022-05-31 13:24:34.0418|INFO|Logger|Executing run #98
+2022-05-31 13:24:34.0418|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:24:34.2948|INFO|Logger|-> move E8
+2022-05-31 13:24:34.4588|INFO|Logger|<- move E2
+2022-05-31 13:24:34.6278|INFO|Logger|-> move E7
+2022-05-31 13:24:34.6508|INFO|Logger|<- move E3
+2022-05-31 13:24:34.8449|INFO|Logger|-> move E6
+2022-05-31 13:24:34.8579|INFO|Logger|<- wall U1h
+2022-05-31 13:24:35.1769|INFO|Logger|-> wall W6h
+2022-05-31 13:24:35.1959|INFO|Logger|<- wall W1h
+2022-05-31 13:24:35.3819|INFO|Logger|-> wall V5h
+2022-05-31 13:24:35.3879|INFO|Logger|<- move E4
+2022-05-31 13:24:35.6349|INFO|Logger|-> wall U5v
+2022-05-31 13:24:35.6349|INFO|Logger|<- move E5
+2022-05-31 13:24:35.9079|INFO|Logger|-> move F6
+2022-05-31 13:24:35.9079|INFO|Logger|<- wall Y1h
+2022-05-31 13:24:36.0649|INFO|Logger|-> wall Y5h
+2022-05-31 13:24:36.0719|INFO|Logger|<- move F5
+2022-05-31 13:24:36.2179|INFO|Logger|-> move G6
+2022-05-31 13:24:36.2179|INFO|Logger|<- move F6
+2022-05-31 13:24:36.3559|INFO|Logger|-> move H6
+2022-05-31 13:24:36.3559|INFO|Logger|<- move G6
+2022-05-31 13:24:36.4819|INFO|Logger|-> move I6
+2022-05-31 13:24:36.4819|INFO|Logger|<- move G7
+2022-05-31 13:24:36.5860|INFO|Logger|-> move I5
+2022-05-31 13:24:36.5860|INFO|Logger|<- move G8
+2022-05-31 13:24:36.6830|INFO|Logger|-> move I4
+2022-05-31 13:24:36.6830|INFO|Logger|<- move G9
+2022-05-31 13:24:36.6830|INFO|Logger|Killing client process...
+2022-05-31 13:24:37.1880|INFO|Logger|Win 
+2022-05-31 13:24:37.1880|INFO|Logger|----------------------
+2022-05-31 13:24:37.1880|INFO|Logger|Executing run #99
+2022-05-31 13:24:37.1880|INFO|Logger|Chosen color for player: Black
+2022-05-31 13:24:37.4190|INFO|Logger|-> move E8
+2022-05-31 13:24:37.5720|INFO|Logger|<- move E2
+2022-05-31 13:24:37.7340|INFO|Logger|-> move E7
+2022-05-31 13:24:37.7390|INFO|Logger|<- move E3
+2022-05-31 13:24:37.9010|INFO|Logger|-> move E6
+2022-05-31 13:24:37.9010|INFO|Logger|<- move E4
+2022-05-31 13:24:38.1130|INFO|Logger|-> wall W6h
+2022-05-31 13:24:38.1300|INFO|Logger|<- move E5
+2022-05-31 13:24:38.3261|INFO|Logger|-> jump E4
+2022-05-31 13:24:38.3341|INFO|Logger|<- move E6
+2022-05-31 13:24:38.5651|INFO|Logger|-> wall W4h
+2022-05-31 13:24:38.5751|INFO|Logger|<- move F6
+2022-05-31 13:24:38.7431|INFO|Logger|-> move E3
+2022-05-31 13:24:38.7431|INFO|Logger|<- move G6
+2022-05-31 13:24:38.8651|INFO|Logger|-> move E2
+2022-05-31 13:24:38.8651|INFO|Logger|<- move G7
+2022-05-31 13:24:38.9421|INFO|Logger|-> move E1
+2022-05-31 13:24:38.9421|INFO|Logger|Killing client process...
+2022-05-31 13:24:39.4471|INFO|Logger|Loss 
+2022-05-31 13:24:39.4471|INFO|Logger|----------------------
+2022-05-31 13:24:39.4471|INFO|Logger|Executing run #100
+2022-05-31 13:24:39.4471|INFO|Logger|Chosen color for player: White
+2022-05-31 13:24:39.7821|INFO|Logger|<- move E8
+2022-05-31 13:24:39.9481|INFO|Logger|-> move E2
+2022-05-31 13:24:39.9481|INFO|Logger|<- move E7
+2022-05-31 13:24:40.0942|INFO|Logger|-> move E3
+2022-05-31 13:24:40.0992|INFO|Logger|<- move E6
+2022-05-31 13:24:40.2702|INFO|Logger|-> move E4
+2022-05-31 13:24:40.2702|INFO|Logger|<- move E5
+2022-05-31 13:24:40.4532|INFO|Logger|-> jump E6
+2022-05-31 13:24:40.4532|INFO|Logger|<- move E4
+2022-05-31 13:24:40.5992|INFO|Logger|-> wall W3h
+2022-05-31 13:24:40.6092|INFO|Logger|<- wall U8h
+2022-05-31 13:24:40.7232|INFO|Logger|-> wall V3v
+2022-05-31 13:24:40.7232|INFO|Logger|<- wall W8h
+2022-05-31 13:24:40.8382|INFO|Logger|-> move E7
+2022-05-31 13:24:40.8382|INFO|Logger|<- wall Y8h
+2022-05-31 13:24:40.9202|INFO|Logger|-> wall W4h
+2022-05-31 13:24:40.9232|INFO|Logger|<- move F4
+2022-05-31 13:24:40.9892|INFO|Logger|-> move E8
+2022-05-31 13:24:40.9892|INFO|Logger|<- move G4
+2022-05-31 13:24:41.0552|INFO|Logger|-> wall W5h
+2022-05-31 13:24:41.0552|INFO|Logger|<- move G3
+2022-05-31 13:24:41.1112|INFO|Logger|-> move D8
+2022-05-31 13:24:41.1112|INFO|Logger|<- move G2
+2022-05-31 13:24:41.1642|INFO|Logger|-> wall U5v
+2022-05-31 13:24:41.1642|INFO|Logger|<- move G1
+2022-05-31 13:24:41.1642|INFO|Logger|Killing client process...
+2022-05-31 13:24:41.6692|INFO|Logger|Win 
+TotalTests: 100,
+ EndedWithoutErrors: 100,
+ WinRate: 0,91,
